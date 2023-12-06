@@ -1,8 +1,8 @@
 - title: Home
-  url: /
+  url: "/"
 - title: notes
   url: /notes/
 - title: about
-  url: /about/
+  url: /about.html
 - title: contact
-  url: /contact/
+  url: contact.html
