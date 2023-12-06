@@ -1,8 +1,8 @@
-- title: Home
-  url: "/"
-- title: notes
-  url: /notes/
-- title: about
-  url: /about.html
+- title: home
+  url: index.html
+- title: notebook
+  url: notebook.html
+- title: about.html
+  url: about.html
 - title: contact
   url: contact.html
