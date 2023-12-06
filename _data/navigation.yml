@@ -1,8 +1,8 @@
 - name: Home
-  link: /
-- name: Blog
-  link: /blog
+  url: /
+- name: Notes
+  url: notebook.html
 - name: About
-  link: /about
+  url: about.html
 - name: Contact
-  link: /contact
+  url: /contact
