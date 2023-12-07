@@ -1,8 +1,15 @@
 <nav>
-  <p class="header-name">John Laudun</p>
-  <ul>
-    {% for item in site.data.navigation %}
+  
+  <div class="nav-name">
+    <p class="header-name">John Laudun</p>
+  </div>
+
+  <div class="nav-menu">
+    <ul>
+      {% for item in site.data.navigation %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
+  </div>
+
 </nav>

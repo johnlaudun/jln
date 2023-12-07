@@ -248,22 +248,22 @@ input:enabled:focus-visible:where(
 
 /* Format navigation */
 
-p.header-name {font-size: 2rem;}
-
 header > nav {
-  font-size: 1rem;
-  line-height: 2;
-  padding: 1rem 0 0 0;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 20px;
+  align-items: center;
+}
+
+p.header-name {
+  font-size: 2rem;
 }
 
 /* Use flexbox to allow items to wrap, as needed */
-header > nav ul,
-header > nav ol {
+header > nav ul {
+  font-size: 0.75rem;
+  text-transform: uppercase;
   align-content: space-around;
-  align-items: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
   justify-content: center;
   list-style-type: none;
   margin: 0;
@@ -271,8 +271,7 @@ header > nav ol {
 }
 
 /* List items are inline elements, make them behave more like blocks */
-header > nav ul li,
-header > nav ol li {
+header > nav ul li {
   display: inline-block;
 }
 
