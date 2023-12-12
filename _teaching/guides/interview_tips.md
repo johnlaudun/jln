@@ -1,8 +1,6 @@
 ---
 title: Interview Tips
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Interview Tips

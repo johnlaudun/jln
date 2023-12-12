@@ -1,11 +1,10 @@
 ---
-Title: QH 300
-nav_exclude: true
+title: Thinking (about) Machine Thinking
+layout: page
 ---
 
 # "Now There Is": What We Think When We Think about Machine Thinking
 
-##### John Laudun
 
 ## Vision & Objectives
 

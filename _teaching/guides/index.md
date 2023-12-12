@@ -1,5 +1,6 @@
 ---
 title: Guides
+layout: page
 ---
 
 # Guides and Statements

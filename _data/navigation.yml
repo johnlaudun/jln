@@ -1,6 +1,8 @@
-- title: home
-  url: index.html
-- title: notebook
+- title: research
+  url: research.html
+- title: teaching
+  url: teaching/
+- title: logbook
   url: notebook.html
 - title: about
   url: about.html

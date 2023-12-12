@@ -1,8 +1,6 @@
 ---
 title: Chicago Author-Date
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Chicago Author-Date System

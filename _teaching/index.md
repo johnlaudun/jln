@@ -1,23 +1,20 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-has_children: true
-has_toc: false
+title: Teaching
+layout: page
 ---
 
 <p><img alt="Loristics: People, Information, Knowledge" src="images/loristics-banner.png" width="500" align = "center"/></p>
 
 ## Courses
 
-* [Honors Academic Writing (115)](courses/115/index.md)
-* [Introduction to Folk Narrative (332)](courses/332/index.md)
-* [Digital Folklore and Culture (334)](courses/334-cultures/index.md)
-* [Digital Storytelling (334)](courses/334-storytelling/index.md)
-* [Louisiana Folklore (335)](courses/335/index.md) 
-* [America in Legend Online and Off (432)](courses/432/index.md): 
-* [Seminar in Narrative Studies (531)](courses/531/index.md)
-* [Proseminar in Folklore Theory (632)](courses/632/index.md)
+* [Honors Academic Writing (115)](courses/115/)
+* [Introduction to Folk Narrative (332)](courses/332/)
+* [Digital Folklore and Culture (334)](courses/334-cultures/)
+* [Digital Storytelling (334)](courses/334-storytelling/)
+* [Louisiana Folklore (335)](courses/335/) 
+* [America in Legend Online and Off (432)](courses/432/): 
+* [Seminar in Narrative Studies (531)](courses/531/)
+* [Proseminar in Folklore Theory (632)](courses/632/)
 
 
 ## Guides and Statements

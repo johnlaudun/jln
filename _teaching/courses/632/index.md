@@ -1,8 +1,6 @@
 ---
 title: Proseminar in Folklore Theory
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Proseminar in Folklore Theory

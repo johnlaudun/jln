@@ -1,3 +1,8 @@
+---
+title: Building a Professional Presence
+layout: page
+---
+
 # Building a Professional Presence
 
 There are a number of things you can do to create / maintain a professional presence, much of it consisting of ways to make you and the things you do available to interested others.

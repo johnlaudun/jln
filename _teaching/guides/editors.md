@@ -1,8 +1,6 @@
 ---
 title: Plain Text and Text Editors
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Of Text Editors and Plain Text #

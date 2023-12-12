@@ -1,8 +1,6 @@
 ---
 title: Notes and Notetaking
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # On Notes and Notetaking

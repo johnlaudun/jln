@@ -1,13 +1,13 @@
 <nav>
   
   <div class="nav-name">
-    <p class="header-name">John Laudun</p>
+    <p class="header-name"><a href="{{site.url}}">John Laudun</a></p>
   </div>
 
   <div class="nav-menu">
     <ul>
       {% for item in site.data.navigation %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      <li><a href="{{site.url}}/{{ item.url }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
   </div>

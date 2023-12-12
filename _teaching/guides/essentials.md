@@ -1,8 +1,6 @@
 ---
 title: Course Essentials
-layout: default
-parent: guide
-nav_exclude: true
+layout: page
 ---
 
 # The Essentials

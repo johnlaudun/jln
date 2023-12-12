@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Library Materials
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 ## Accessing Materials

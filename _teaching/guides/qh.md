@@ -1,8 +1,6 @@
 ---
 title: Quantitative Humanities Resources
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Quantitative / Digital Humanities Resources

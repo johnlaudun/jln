@@ -1,6 +1,6 @@
 ---
 title: QH 200
-nav_exclude: true
+layout: page
 ---
 
 # Introduction to Text Analytics

@@ -1,6 +1,6 @@
 ---
 title: QH 400 - Spreading Dynamics
-nav_exclude: True
+layout: page
 ---
 
 # The Spread of Information

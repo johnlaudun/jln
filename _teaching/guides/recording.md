@@ -1,8 +1,6 @@
 ---
 title: Notes on Recording
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Recording Gear

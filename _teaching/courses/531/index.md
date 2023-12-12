@@ -1,6 +1,6 @@
 ---
 title: The Shape of Stories
-layout: default
+layout: page
 ---
 
 # Seminar in Narrative Studies

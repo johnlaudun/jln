@@ -1,9 +1,6 @@
 ---
-title: 115
-layout: default
 title: Honors Freshman English
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 <!-- <p><img src="http://johnlaudun.org/teaching/img/meat_machine.png" alt="Logo and Title" title="" width="500px" align="center"/></p> -->

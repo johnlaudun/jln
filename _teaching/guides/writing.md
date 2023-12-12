@@ -1,8 +1,6 @@
 ---
 title: Writing Sketchbook
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # A (Kind of) Writing Handbook

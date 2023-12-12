@@ -1,8 +1,6 @@
 ---
 title: Writing a Lit Review
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # How to write a literature review

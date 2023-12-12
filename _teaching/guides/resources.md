@@ -1,8 +1,6 @@
 ---
 title: Cultural Analytics Resources
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Texts / Resources

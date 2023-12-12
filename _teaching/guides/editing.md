@@ -1,8 +1,6 @@
 ---
 title: Editing and Proofreading
-layout: default
-parent: Home
-nav_exclude: true
+layout: page
 ---
 
 # Editing and Proofreading

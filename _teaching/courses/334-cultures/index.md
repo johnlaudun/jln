@@ -1,3 +1,10 @@
+---
+title: Digital Folklore and Culture
+layout: page
+---
+
+<p><img alt="Illustration of Digital Culture's Complex Networks" src="images/334-banner.png" width="500" align = "center"/></p> 
+
 ENGL 334-001 / MW 13:00-14:15 / HLG 321
 
 Pr. John Laudun / HLG 356 / ***[laudun@louisiana.edu](mailto:laudun@louisiana.edu)***

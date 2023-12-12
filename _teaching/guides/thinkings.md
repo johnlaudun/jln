@@ -1,3 +1,10 @@
+---
+title: Critical and Creative Thinking
+layout: page
+tags: 
+---
+
+
 # Critical & Creative Thinking
 
 When we talk about **critical thinking**, we mostly associate it with analytical abilities: to think critically is to take something that is a complex whole and break it into its constituent pieces. Systems thinking is an advanced form of critical thinking, seeking to understand the relationships between parts and how they make up a whole, often with unanticipated inflections (feedback) and dynamics (loops that lead to explosions, like populations, or the reverse, a death spiral).

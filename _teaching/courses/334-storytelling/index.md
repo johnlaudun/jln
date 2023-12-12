@@ -1,10 +1,16 @@
+---
+title: Digital Storytelling
+layout: page
+---
+# Digital Storytelling
+
 ![A person sitting at a table with a computer](storytelling.jpg)
 
 ENGL 334-001 / MW 13:00-14:15 / HLG 321
 
 Pr. John Laudun / HLG 356 / <laudun@louisiana.edu>
 
-# Description
+## Description
 
 Digital storytelling uses all the possibilities of digital media ---
 text, images, audio, video --- to communicate effectively and, most
@@ -27,7 +33,7 @@ of their choosing and design. Course features include guest lectures
 (including storytellers), exploration of generative text AI, as well as
 the usual readings and viewings that make up a university course.
 
-# Objectives
+## Objectives
 
 In taking this course, participants will become familiar with the basic
 structures of narrative (both cognitive and formal) and have some
@@ -46,7 +52,7 @@ particularly, this course makes it possible for participants to:
 -   Explore a variety of digital technologies for the explicit purpose
     of employing them to create various narrative forms.
 
-# Readings & Supplies
+## Readings & Supplies
 
 The readings in so far as it is possible will be available online. There
 may be a book or two to purchase, but they will not be textbooks (and
@@ -61,7 +67,7 @@ meeting. Leave your phone and your computer in your bag or pack unless
 otherwise instructed. (See The Fine Print below for more about
 notetaking.)
 
-# Requirements
+## Requirements
 
 The course assumes that participants are self-motivated and willing to
 experiment, and to fail. Failing at something is success. Failing to try
@@ -132,7 +138,7 @@ a purpose.
 
 For more about expectations, see *The Fine Print* below.
 
-# Schedule
+## Schedule
 
 ### unit 1
 

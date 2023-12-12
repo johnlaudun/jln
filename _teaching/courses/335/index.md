@@ -1,10 +1,7 @@
 ---
-layout: default
 title: Louisiana Folklore
-parent: Home
-nav_exclude: true
+layout: page
 ---
-
 
 # Understanding Folk Narratives in the Louisiana Context
 
