@@ -1,6 +1,6 @@
 ---
 title: Schedule for Seminar in Narrative Studies
-layout: default
+layout: page
 ---
 « Return to the [syllabus](index.md) «
 

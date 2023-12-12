@@ -18,3 +18,5 @@ feed:
 collections:
   teaching:
     output: true
+  portfolio:
+    output: true

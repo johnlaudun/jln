@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Resources
 nav_exclude: true
 ---

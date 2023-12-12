@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: DH Syllabus
 nav_exclude: true
 ---

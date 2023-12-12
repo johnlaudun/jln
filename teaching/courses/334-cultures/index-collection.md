@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Digital Folklore and Culture
 parent: Home
 ---

@@ -2,6 +2,8 @@
   url: research.html
 - title: teaching
   url: teaching/
+- title: portfolio
+  url: portfolio/
 - title: logbook
   url: notebook.html
 - title: about
