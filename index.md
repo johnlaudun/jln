@@ -14,6 +14,8 @@ layout: page
 
 ## Current Projects
 
+Katie Kinnaird, Allison Chaney, and I recently (finally) submitted the latest iteration of our work with TED talks: "Speaking Subjects, Subjects Spoken: Using TED Talks to Understand Discursive Gender Formations." I've posted the [introduction]({% post_url 2023-12-11-TED-talks-gender %}) in the logbook.
+
 ## Statements
 - [Research](portfolio/state-research.html)
 - [Teaching](portfolio/state-teaching.html)
