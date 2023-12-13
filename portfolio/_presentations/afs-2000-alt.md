@@ -6,7 +6,8 @@ Generator: Cocoa HTML Writer
 LastAuthor: John Laudun
 ModificationTime: '2000-10-09T16:46:00Z'
 title: AFS 2000
-...
+layout: page
+---
 
 AFS 2000
 

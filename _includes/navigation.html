@@ -1,10 +1,12 @@
 <nav>
   
-  <div class="nav-name">
-    <p class="header-name"><a href="{{site.url}}">John Laudun</a></p>
+  <div class="logo">
+    <img src="{{site.url}}/assets/images/jlnet.png" alt="logo" width="100">
+    <!-- <p>people «» texts «» networks</p> -->
   </div>
 
   <div class="nav-menu">
+    <p class="header-name"><a href="{{site.url}}">John Laudun</a></p>
     <ul>
       {% for item in site.data.navigation %}
       <li><a href="{{site.url}}/{{ item.url }}">{{ item.title }}</a></li>

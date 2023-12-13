@@ -1,6 +1,7 @@
 ---
 Title: Homecomings
 Event: Dames of the Court of Honor
+layout: page
 Date: 2000-05-31
 ---
 

@@ -1,4 +1,11 @@
-# Read Me
+---
+title: portfolio home page
+layout: page
+tags: 
+---
+
+
+# Portfolio
 
 Academics and researchers produce a lot of material. While its inherent interest varies, the need to collect it -- either for the sake of sharing, for the sake of a vita, or because the producer is forgetful -- remains constant. After a lot of to-ing and fro-ing, I have settled upon a GitHub repository for all these materials, both because it centralizes things on my local computer and because it centralizes things on the internet. 
 

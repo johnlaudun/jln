@@ -1,3 +1,10 @@
+---
+title: AFS 2000
+layout: page
+tags: conference_paper,
+---
+
+
 John Laudun  
 American Folklore Society  
 Columbus, Ohio  

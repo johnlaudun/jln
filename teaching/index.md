@@ -3,7 +3,7 @@ title: Teaching
 layout: page
 ---
 
-<p><img alt="Loristics: People, Information, Knowledge" src="images/loristics-banner.png" width="500" align = "center"/></p>
+# Teaching
 
 ## Courses
 
