@@ -3,7 +3,7 @@
 ::backdrop {
   /* Set sans-serif & mono fonts */
   --sans-font: 'Noto Sans', sans-serif;
-  --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  --mono-font: Consolas, Menlo, Monaco, monospace;
   --standard-border-radius: 5px;
 
   /* Default (light) theme */
@@ -106,7 +106,7 @@ main {
 }
 
 body > footer {
-  margin-top: 4rem;
+  margin-top: 2rem;
   padding: 2rem 1rem 1.5rem 1rem;
   color: var(--text-light);
   font-size: 0.9rem;
@@ -144,6 +144,7 @@ h6 {
 
 p {
   margin: 1.5rem 0 0 0;
+  font-weight:400;
 }
 
 /* Prevent long strings from overflowing container */
