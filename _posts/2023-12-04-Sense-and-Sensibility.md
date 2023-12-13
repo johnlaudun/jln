@@ -1,4 +1,9 @@
-# Sense, Sensibility, & Your Brain 
+---
+layout: post
+title: Sensemaking
+date: 2023-11-30
+tags: sensemaking
+---
 
 Humans can’t feel wetness. There are some insects (and maybe other animals?) that can because they possess hygroreceptors. Humans do not. Our brain translates differences in temperature and pressure and converts that into “sweat rolling down” our necks. What’s fascinating about this is that our sense of temperature itself is a product of how fast the heat is being transported from our bodies. 
 

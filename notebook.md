@@ -1,13 +1,17 @@
 ---
 layout: page
 title: Notebook
-header: notebook
 summary: an old-fashioned (online) notebook
-link: /notebook/
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:10 %}
 
-<p><a href="{{ post.url }}">{{ post.title }}</a> <br> {{ post.description }}<br> {{ post.date \| date_to_string }}</p>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>   
+<p class="post-metadata">{{ post.date | date: "%Y.%m.%d" }}</p>
+
+{{ post.content }}
 
 {% endfor %}
+
+To see all posts, see the [archive](archive.html) or search for what you seek:
+

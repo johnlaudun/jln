@@ -121,7 +121,7 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
-  margin-top: 2rem;
+  margin: 2rem 0 0 0;
 }
 
 h3 {
@@ -143,7 +143,7 @@ h6 {
 }
 
 p {
-  margin: 1.5rem 0;
+  margin: 1.5rem 0 0 0;
 }
 
 /* Prevent long strings from overflowing container */
@@ -156,6 +156,11 @@ h1,
 h2,
 h3 {
   line-height: 1.1;
+}
+
+p.post-metadata {
+  font-size: 0.75rem;
+  margin-top: 0rem;
 }
 
 /* Reduce header size on mobile */
@@ -257,6 +262,7 @@ header > nav {
 }
 .nav-id p {
   font-size: 2rem;
+  color:var(--accent);
   line-height: 1rem;
   text-align:left;
   /* text-transform:uppercase; */
