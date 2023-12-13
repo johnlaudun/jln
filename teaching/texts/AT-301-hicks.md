@@ -1,6 +1,6 @@
 ---
 title: Hicks 2
-nav_exclude: true
+layout: page
 ---
 
 This one is about Jack and Tom and Will -- of old Fire Dragon that spit balls of fire.  And Jack's dad had a great bug track of land, owned it.  So, he give it to Jack and Tom and Will to clear; give ‘em the land and made ‘em a deed for it, to clear and start clearing it theirselves.  And so, they got up a wagon-load of vittles and went where it was at and built ‘em a …notched ‘em up a shanty to stay in.  And so, they knowed that the next…that, when they got ready to clear it, that they'd have to leave, uh, leave one till twelve (and he could help, then, after twelve) to cook dinner.  So they left Will the first time.

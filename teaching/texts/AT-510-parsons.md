@@ -1,6 +1,6 @@
 ---
 title: AT 510
-nav_exclude: true
+layout: page
 ---
 
 
