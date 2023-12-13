@@ -255,12 +255,13 @@ header > nav {
 .logo {
   align-content:right;
 }
-p.header-name {
+.nav-id p {
   font-size: 2rem;
   line-height: 1rem;
   text-align:left;
-  text-transform:uppercase;
-  font-weight:300;
+  /* text-transform:uppercase; */
+  /* font-weight:100; */
+  font-style:italic;
   margin: 0;
   padding: 0;
 }
