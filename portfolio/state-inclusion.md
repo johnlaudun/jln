@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Diversity
+title: Inclusion
 weight: 5
 ---
 
-# Diversity
+# Inclusion Statement
 
 There was a moment in one of my classes where I had to look a participant in the eye and tell him "if this gets too toxic, please stop and we'll think of something else." The man was of African descent, part of the diaspora that had fled persecution in his homeland in southern Morocco. He had proposed exploring rH+ conspiracy theories, and I had agreed largely on the basis that he had in a previous class worked on other alt-right conspiracies. He was excited by the weirdness, the lumpiness of the overall web of ideas that stretched from the usual racism that he had already charted to lizard people overlords and beyond. As he exuberantly pursued his research -- I never understood how he could delve again and again into those forums -- he eventually worked out that he was dealing with a mythological system.[^1] 
 
