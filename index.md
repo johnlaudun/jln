@@ -20,3 +20,10 @@ Katie Kinnaird, Allison Chaney, and I recently (finally) submitted the latest it
 - [Research](portfolio/state-research.html)
 - [Teaching](portfolio/state-teaching.html)
 - [Inclusion](portfolio/state-inclusion.html)
+
+If you know what you are looking for:
+
+<div class="gcse-search">
+<script async src="https://cse.google.com/cse.js?cx=f09bf157da7f941a0">
+</script>
+</div>

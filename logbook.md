@@ -15,3 +15,7 @@ summary: an old-fashioned (online) notebook
 
 To see all posts, see the [archive](archive.html) or search for what you seek:
 
+<div class="gcse-search">
+<script async src="https://cse.google.com/cse.js?cx=f09bf157da7f941a0">
+</script>
+</div>
