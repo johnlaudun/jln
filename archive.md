@@ -4,12 +4,12 @@ title: Notebook
 summary: an old-fashioned (online) notebook
 ---
 
-If you would like to search inside the posts, try:
+<!-- If you would like to search inside the posts, try:
 
 <div class="gcse-search">
 <script async src="https://cse.google.com/cse.js?cx=f09bf157da7f941a0">
 </script>
-</div>
+</div> -->
 
 {% for post in site.posts %}
 
