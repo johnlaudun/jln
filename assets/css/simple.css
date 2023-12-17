@@ -105,14 +105,13 @@ main {
   padding-top: 1rem;
 }
 
-body > footer {
-  margin-top: 2rem;
+/* body > footer {
   padding: 2rem 1rem 1.5rem 1rem;
   color: var(--text-light);
   font-size: 0.9rem;
   text-align: center;
   border-top: 1px solid var(--border);
-}
+} */
 
 /* Format headers */
 h1 {
@@ -164,6 +163,13 @@ p.post-metadata {
   margin-top: 0rem;
 }
 
+main > ul {
+  list-style: revert;
+}
+
+main > ul li {
+  list-style: circle inside;
+}
 /* Reduce header size on mobile */
 @media only screen and (max-width: 720px) {
   h1 {
@@ -187,6 +193,7 @@ p.post-metadata {
 a,
 a:visited {
   color: var(--accent);
+  text-decoration: none;
 }
 
 a:hover {
@@ -287,7 +294,7 @@ header > nav ul {
 }
 
 /* List items are inline elements, make them behave more like blocks */
-header > nav ul li {
+nav ul li {
   display: inline-block;
 }
 
@@ -319,6 +326,41 @@ header > nav a[aria-current="page"] {
     line-height: 1;
   }
 }
+/* FOOTER */
+
+footer {
+  margin-top: 1rem;
+  padding: 2rem 1 1 1;
+  color: var(--text-light);
+  text-align: center;
+  border-top: 1px solid var(--border);
+}
+
+footer ul {
+  /* line-height: 1rem; */
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  align-content: left;
+  /* justify-content: left; */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer ul li {
+  display: inline-block;
+}
+
+footer a, a:visited {
+  margin: 0 0.5rem 1rem 0.5rem;
+  /* border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius); */
+  color: var(--text);
+  display: inline-block;
+  padding: 0.1rem 1rem;
+  text-decoration: none;
+}
+
 
 /* Consolidate box styling */
 aside, details, pre, progress {

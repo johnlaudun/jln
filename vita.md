@@ -8,8 +8,6 @@ weight: 2
 Department of English  
 University of Louisiana at Lafayette  
 Lafayette, LA 70504-4691  
-337-482-5493  
-laudun@louisiana.edu  
 https://johnlaudun.net/   
 https://github.com/johnlaudun   
 @johnlaudun@hcommons.social  
