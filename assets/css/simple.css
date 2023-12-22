@@ -168,8 +168,11 @@ main > ul {
 }
 
 main > ul li {
-  list-style: circle inside;
+  list-style: circle outside;
+  padding-left: 0.5rem;
+  padding-bottom: 0.25rem;
 }
+
 /* Reduce header size on mobile */
 @media only screen and (max-width: 720px) {
   h1 {
@@ -193,11 +196,12 @@ main > ul li {
 a,
 a:visited {
   color: var(--accent);
+  font-weight:bolder;
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: none;
+main > a:hover {
+  /* text-decoration: none; */
 }
 
 button,
@@ -326,6 +330,22 @@ header > nav a[aria-current="page"] {
     line-height: 1;
   }
 }
+
+/* NEWS */
+
+/* only the cells with no cell before (aka the first one) */
+.news > table {
+  font-size: 0.75rem;
+  caption-side: inline-start;
+}
+
+.news > td {
+  font-size: 0.75rem;
+  margin: 0 5px 0 0;
+  border: 1px solid red;
+  padding: 0 0.5 0 0.5rem;
+}
+
 /* FOOTER */
 
 footer {

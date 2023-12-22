@@ -1,13 +1,24 @@
 ---
-title: Cultural Analytics Resources
+title: Texts as Data
 layout: page
 ---
 
-# Texts / Resources
+# Texts as Data
 
-Sometimes all you want is some data with which to play, to try things out. But you want the kind of data that humanities scholars, textual scientists as Katherine Kinnaird sometimes call us, find compelling. Here is a list lightly curated and/or annotated that might help you find the kinds of texts you seek:
+The amount of data you need for textual analysis / text analytics varies from domain to domain and, even within domains, from project to projects. Withint the realm of the computational humanities, a single text may be the focus of anything from a research note to a book-lenght exploration. As you move across the disciplinary spectrum, from the humanities through corpus stylistics to informatics, collections, corpora, and data sets tend to have a larger number of texts.
 
-[CLARIN Virtual Language Observatory](https://vlo.clarin.eu/) aims to provide an easy to use interface for search and discovery within a large number of resources from a wide variety of domains and providers made possible by CLARIN. My experience of it is that it is rich in metadata, but data (texts) can be hit or miss.
+But it all starts with data, er, texts. 
+
+But you want the kind of data that humanities scholars, *textual scientists* as [Katherine Kinnaird](https://katherinemkinnaird.net/) sometimes calls us, find compelling. Here is a lightly curated list that might help you find the kinds of texts you seek.
+
+## Cultural Data of All Kinds
+
+- [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/) aims to provide an easy to use interface for search and discovery within a large number of resources from a wide variety of domains and providers made possible by CLARIN. My experience of it is that it is rich in metadata, but data (texts) can be hit or miss.
+- The Human Relations Area Files date back to the fifties but they have been maintained in some cases and they are a rich source of information -- Claude Lévi-Strauss used them to write his magnum opus, _Mythologiques_. The repositories are spread across a number of institutions around the globe. [Yale's HREF has a decent search interface](https://hraf.yale.edu).
+- If you are more driven by linguistic concerns, start with [GlottoBank](https://glottobank.org): "Glottobank is an international research consortium established to document and understand the world’s linguistic diversity. Glottobank team members are pursuing this goal on two fronts. First, we have established five global databases documenting variation in language structure (Grambank),  lexicon (Lexibank), paradigm systems (Parabank), numerals (Numeralbank), and phonetic changes (Phonobank)."
+- [D-Place](https://d-place.org) holds a lot of promise. I haven't had a chance to explore it yet, but here's what they have to say about themselves: "From the foods we eat, to who we can marry, to the types of games we teach our children, the diversity of cultural practices in the world is astounding. Yet, our ability to visualize and understand this diversity is often limited by the ways it traditionally has been documented and shared: on a culture-by-culture basis, in locally-told stories or difficult-to-access books and articles. D-PLACE represents an attempt to bring together this dispersed corpus of information. It aims to make it easy for individuals to contrast their own cultural practices with those of other societies, and to consider the factors that may underlie cultural similarities and differences. Users can build comparative datasets that include not just cultural features, but also information on the linguistic and ecological environments in which a given cultural feature was documented."
+
+## Books
 
 [45 places you can download tens of thousands books, plays and other literary texts completely and legally for free](https://nothingintherulebook.com/2017/01/10/55-places-you-can-download-tens-of-thousands-books-plays-and-other-literary-texts-completely-legally-for-free/) compiled by Professor Wu, "a four-foot Chinese Salamander dubbed “critically endangered” by the International Union for Conservation of Nature," for _Nothing in the Rule Book_ a site that seeks to make imaginative work free in a world where too many people are getting priced out of reading.
 
