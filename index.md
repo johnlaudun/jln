@@ -18,19 +18,4 @@ layout: page
 
 **Data Sources Updated**: If you've asked about sources for cultural data, that [list](guides/data.html) has been updated.
 
-
-## Current Projects
-
-Katie Kinnaird, Allison Chaney, and I recently (finally) submitted the latest iteration of our work with TED talks: "Speaking Subjects, Subjects Spoken: Using TED Talks to Understand Discursive Gender Formations." I've posted the [introduction]({% post_url 2023-12-11-TED-talks-gender %}) in the logbook.
-
-## Statements
-- [Research](portfolio/state-research.html)
-- [Teaching](portfolio/state-teaching.html)
-- [Inclusion](portfolio/state-inclusion.html)
-
-<!-- If you know what you are looking for:
-
-<div class="gcse-search">
-<script async src="https://cse.google.com/cse.js?cx=f09bf157da7f941a0">
-</script>
-</div> -->
+**Gender and Discourse**: Katie Kinnaird, Allison Chaney, and I recently (finally) submitted the latest iteration of our work with TED talks: "Speaking Subjects, Subjects Spoken: Using TED Talks to Understand Discursive Gender Formations." I've posted the [introduction]({% post_url 2023-12-11-TED-talks-gender %}) in the logbook.
