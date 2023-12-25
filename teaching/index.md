@@ -63,19 +63,18 @@ The courses listed below are ones I imagine teaching in a context where both clo
 
 While I have never taught these courses as they are sketched out here, they are based on units or features of courses or workshops I have alreday conducted and so I have the begun the process of building the blocks.
 
-## Colophon
+## About These Materials
 
 This site is designed to be available to course participants and interested others without having to negotiate LMS logins, or outages. It is built using Jekyll and is hosted in a [GitHub repository][]. 
 
 While I try to make as much as possible available publicly, both for students in my courses as well as to interested others, some course materials must remain behind the university paywall (aka [Moodle][]) due to copyright restrictions. (I take fair use seriously.) If you are a visiting student or scholar and would like access to those materials, please get in touch with [me][].
 
-In addition to this teaching site, I also maintain a personal [site][]. there is also an older WordPress [blog][], for those interested, which will at some point transition to the new GitHub Pages infrastructure. (Migrations are slow processes when you have a lot of materials.) 
+As I note elsewhere, this [site][] replaces an older [WordPress][] blog which I maintained for over a decade and a half. I would like to thank the good folks at WordPress/Ottomatic for creating powerful software that is also open source. 
 
-As much as possible, most things on all my sites are released under the [Creative Commons Attribution-ShareAlike 4.0 International Code][cc] (CC BY-SA 4.0).
+As much as possible, most things on this site are released under the [Creative Commons Attribution-ShareAlike 4.0 International Code][cc] (CC BY-SA 4.0).
 
-[GitHub repository]: https://github.com/johnlaudun/teaching
+[GitHub repository]: https://github.com/johnlaudun/jln
 [Moodle]: https://moodle.louisiana.edu/
 [me]: https://johnlaudun.net/contact.html
-[site]: https://johnlaudun.net/
-[blog]: https://johnlaudun.org/
+[WordPress]: https://wordpress.org/
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/
