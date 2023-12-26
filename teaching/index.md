@@ -7,16 +7,28 @@ layout: page
 
 # Teaching
 
+
 ## Courses
 
 * [Honors Academic Writing (115)](courses/115/)
 * [Introduction to Folk Narrative (332)](courses/332/)
-* [Digital Folklore and Culture (334)](courses/334-cultures/)
-* [Digital Storytelling (334)](courses/334-storytelling/)
 * [Louisiana Folklore (335)](courses/335/) 
 * [America in Legend Online and Off (432)](courses/432/): 
 * [Seminar in Narrative Studies (531)](courses/531/)
 * [Proseminar in Folklore Theory (632)](courses/632/)
+
+
+## New *Digital Culture & Analytics* Curriculum Courses
+
+* [Digital Folklore and Culture (334)](courses/334-cultures/)
+* [Digital Storytelling (334)](courses/334-storytelling/)'
+* [Introduction to Text Analytics](courses/qh200/index.html)
+
+
+## Courses in Development (*Coming Soon!*)
+
+* [What We Think When We Think about Machine Thinking](courses/qh300/index.html)
+* [The Spread of (Mis)Information](courses/qh400/index.html)
 
 
 ## Guides and Statements
@@ -53,15 +65,6 @@ There are a number of texts which are regularly useful:
 
 There are also a couple of TEI files: a [template](tei/template.tei) and an [example](tei/laudun-20000712-01.tei).
 
-## Course Sketches for the Quantitative Humanities
-
-The courses listed below are ones I imagine teaching in a context where both close and distant reading, where both computation and cogitation, feature equally in the treatment of texts.
-
-* [Introduction to Text Analytics](courses/qh200/index.html)
-* [What We Think When We Think about Machine Thinking](courses/qh300/index.html)
-* [The Spread of (Mis)Information](courses/qh400/index.html)
-
-While I have never taught these courses as they are sketched out here, they are based on units or features of courses or workshops I have alreday conducted and so I have the begun the process of building the blocks.
 
 ## About These Materials
 
