@@ -18,11 +18,11 @@ layout: page
 * [Proseminar in Folklore Theory (632)](courses/632/)
 
 
-## New *Digital Culture & Analytics* Curriculum Courses
+## New *Digital Culture & Analytics Curriculum* Courses
 
 * [Digital Folklore and Culture (334)](courses/334-cultures/)
-* [Digital Storytelling (334)](courses/334-storytelling/)'
-* [Introduction to Text Analytics](courses/qh200/index.html)
+* [Digital Storytelling (334)](courses/334-storytelling/)
+* [Introduction to Text Analytics](courses/370/)
 
 
 ## Courses in Development (*Coming Soon!*)

@@ -25,23 +25,12 @@
         {% include navigation.html %}
       </header>
 
-      <div class = "news">
-        <table>
-          <caption>LATEST:</caption>
-          <tr>
-            {% for item in site.data.news limit:3 %}
-            <td>
-              {{ item.headline }}: {{ item.copy | markdownify }}
-            </td>
-            {% endfor %}
-          </tr>
-        </table>
-      </div>
-
       <main>
         <h1>{{ page.header }}</h1>
         {{ content }}
       </main>
+
+
 
       <footer>
         <ul>
