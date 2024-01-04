@@ -122,3 +122,5 @@ A study of Twitter demonstrates the attentional power of certain words. _Scienti
 ### More
 
 What we are going to explore in this course is the way, yes, information in general travels through networks but also how certain kinds of information both pass through those networks but in passing through them actually instantiate them. 
+
+Bentley, R Alexander, Benjamin Horne, Joshua Borycz, Simon Carrignon, Garriy Shteynberg, Blai Vidiella, Sergi Valverde, and Michael J O’Brien. 2023. Cultural Evolution, Disinformation, and Social Division. _Adaptive Behavior_.
