@@ -129,6 +129,14 @@ you develop a corpus of your own, either individually or
 collaboratively, to perform some analysis, and to report your findings
 in a clear and cogent fashion.
 
+#### Evaluation Criteria (same for all projects)
+
+**Code/Approach** (50%): Does the program produce useful results? Is it properly documented with #comments and doc strings? Does it use appropriate data structures?
+
+**Write Up** (50%): Is it clear what was done and why? Does it adequately cite resources used? Does it adequately cite sources, references, and code adapted? Does it include some evaluation? Is there any analysis of errors? Does it point out any remaining issues? Is it formatted correctly?
+
+Assessment problems are generally open ended -- it is not expected that the student can solve them fully: the goal is to see how they approach the problem and understand it.
+
 ## Schedule
 
 The schedule for this course can be found in the course's dedicated repository which also includes other course materials: 
