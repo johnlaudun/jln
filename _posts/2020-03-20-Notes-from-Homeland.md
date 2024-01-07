@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quarantine Day 1
-date: 2024-01-02
+date: 2024-03-20
 tags: 
 ---
 # Notes from the Homeland: Quarantine Day 1

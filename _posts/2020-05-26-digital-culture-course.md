@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing a Course on Digital Folklore & Culture 
-date: 2024-01-02
+date: 2020-05-26
 tags: 
 ---
 
