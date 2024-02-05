@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Raising a World Builder 
+title: Raising a World Builder
 date: 2024-02-04
 tags: pedagogy
 ​---
----
 
-*A recent comment I made on the current state of education in the humanities on LinkedIn drew a fair amount of attention. I’m not linking to that comment here as it was of a moment, but I do want to take some time to try to think with the Medium community, and interested others, some of the dimensions of “what education might mean.” For all that is wrong with education, there’s plenty right. I am searching for what I can contribute.*
+A recent comment I made on the current state of education in the humanities on LinkedIn drew a fair amount of attention. I’m not linking to that comment here as it was of a moment, but there are some things I have observed based both on being a parent of a particular kind of thinker as well as [documenting similar kinds of thinkers out in the world](https://www.amazon.com/Amazing-Crawfish-Folklore-Studies-Multicultural/dp/1496804201/). I call them *world builders* here, but they might also be called *immersive thinkers*.
 
-I think there are more people who can see patterns but can’t work out the steps to articulating those patterns than many educational systems currently afford. What can we do to make that better? Those patterns could save a life, make roads safer, produce new kinds of entertainment, new kinds of economic activities. Save the Pattern Makers!
 
 ## Origins
 
