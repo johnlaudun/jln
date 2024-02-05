@@ -6,8 +6,6 @@ tags: pedagogy
 ​---
 ---
 
-# Raising a World Builder
-
 *A recent comment I made on the current state of education in the humanities on LinkedIn drew a fair amount of attention. I’m not linking to that comment here as it was of a moment, but I do want to take some time to try to think with the Medium community, and interested others, some of the dimensions of “what education might mean.” For all that is wrong with education, there’s plenty right. I am searching for what I can contribute.*
 
 I think there are more people who can see patterns but can’t work out the steps to articulating those patterns than many educational systems currently afford. What can we do to make that better? Those patterns could save a life, make roads safer, produce new kinds of entertainment, new kinds of economic activities. Save the Pattern Makers!

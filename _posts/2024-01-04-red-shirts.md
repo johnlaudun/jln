@@ -4,7 +4,6 @@ title: A Statistical Ouroborus
 date: 2024-01-04
 tags: 
 ---
-# A Statistical Ouroboros 
 I'm preparing to teach text analytics, the first time such a course has been offered at my university. I came across this  great moment in John Scalzi’s _Redshirts_ where statistical analysis is mentioned, but I can't find a way to include it in the syllabus:
 
 > “So what you’re saying is all this is impossible,” Dahl said.

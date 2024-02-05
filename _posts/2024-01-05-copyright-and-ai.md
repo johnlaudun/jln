@@ -4,7 +4,6 @@ title: Copyright and AI
 date: 2024-01-05
 tags: copyright, ai
 ---
-# Copyright and AI
 *Some time last year, comments were requested on the matter of AI and copyright. I submitted the following*.
 
 I am writing for myself, but as a folklorist I am also writing with profound respect, and sadness, for our national tradition of enabling private profit at the cost of the public commonwealth. Like the pharmaceutical industry raiding traditions around the world in order to develop better, perhaps life-changing, medicines, we have allowed the large language models behind most of the more prominent AI platforms to harvest knowledge of a lot of individuals without the individuals themselves receiving any acknowledgment, compensation, or share in the profit. Whether we call it "folk" or "mass," we dis-enfranchise those who actually produce the materials from which we derive products.
