@@ -127,7 +127,11 @@ give you a sense of how to think about texts when you are doing *your*
 issues associated with text analytics, the goal of the course is to have
 you develop a corpus of your own, either individually or
 collaboratively, to perform some analysis, and to report your findings
-in a clear and cogent fashion.
+in a clear and cogent fashion. (See section on criteria below for details on how assignments are graded.)
+
+**Exams**. Three times during the semester participants are examined on topics that have been covered in the preceding weeks. The possible exam formats are: oral, where they are asked to walk through a problem in conversation with the instructor; in-class written; and out-of-class written, which are obviously more like writing assignments. Both written assignments may include pseudo-code and/or code as well as comments that explain not only the code but the concepts and methods at stake. E.g., if a step in the overall workflow removes stop words, participants are expected to explain how and why this is occurring.
+
+**Project(s)**. This course is really designed to produce a final project of various parts/phases. The plural in the assignment title reflects the multi-stage process in which sub-assemblies are put together in a sequence and feedback is provided, by both the instructor as well as other participants. The final version of the project, which may very well not be finished, gathers all the pieces into an assembly and the producer(s) of the project provide an explanation not only of the pieces and the assembly but also their response to feedback.
 
 #### Evaluation Criteria (same for all projects)
 
@@ -139,4 +143,4 @@ Assessment problems are generally open ended -- it is not expected that the stud
 
 ## Schedule
 
-The schedule for this course can be found in the course's dedicated repository which also includes other course materials: 
+The schedule for this course can be found in the course's dedicated [repository](https://github.com/johnlaudun/text-as-data) which also includes other course materials.
