@@ -14,11 +14,13 @@ layout: page
 
 ## Latest Updates
 
+**Fall 2024 Courses**: Course descriptions for Fall 2024 are in and have been [logged](https://johnlaudun.net/2024/02/28/courses-fall-2024.html).
+
 **Digital Folklore Podcast Interview**: I was interview by Perry Carpenter and Mason Amadeus of the *Digital Folklore* podcast and it was a blast! We had a wide-ranging conversation and they ended up pairing me with Lev Gorelov for their episode on ["Statistically Conscious (Artificial Intelligence)"](https://digitalfolklore.fm/episodes/s2e6).
 
 **Data Sources Updated**: If you've asked about sources for cultural data, that [list](guides/data.html) has been updated.
 
-**Gender and Discourse**: Katie Kinnaird, Allison Chaney, and I recently (finally) submitted the latest iteration of our work with TED talks: "Speaking Subjects, Subjects Spoken: Using TED Talks to Understand Discursive Gender Formations." I've posted the [introduction]({% post_url 2023-12-11-TED-talks-gender %}) in the logbook.
+
 
 <!-- 
 {% for post in posts %}
