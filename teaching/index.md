@@ -13,6 +13,7 @@ layout: page
 * [Honors Academic Writing (115)](courses/115/)
 * [Introduction to Folk Narrative (332)](courses/332/)
 * [Louisiana Folklore (335)](courses/335/) 
+* [English 370 - Games](courses/370-games/): Narrative Games
 * [America in Legend Online and Off (432)](courses/432/): 
 * [Seminar in Narrative Studies (531)](courses/531/)
 * [Proseminar in Folklore Theory (632)](courses/632/)
@@ -22,7 +23,7 @@ layout: page
 
 * [Digital Folklore and Culture (334)](courses/334-cultures/)
 * [Digital Storytelling (334)](courses/334-storytelling/)
-* [Introduction to Text Analytics](courses/370/)
+* [Introduction to Text Analytics](courses/370-ta/)
 
 
 ## Courses in Development (*Coming Soon!*)
