@@ -1,110 +1,84 @@
 ---
-title: Digital Folklore and Culture
 layout: page
+title: Digital Folklore and Culture
+parent: Home
 ---
 
-<p><img alt="Illustration of Digital Culture's Complex Networks" src="images/334-banner.png" width="500" align = "center"/></p> 
 
-ENGL 334-001 / MW 13:00-14:15 / HLG 321
+<!-- <p><img alt="Illustration of Digital Culture's Complex Networks" src="images/334-banner.png" width="500" align = "center"/></p> -->
 
-Pr. John Laudun / HLG 356 / ***[laudun@louisiana.edu](mailto:laudun@louisiana.edu)***
+# Digital Folklore and Culture
 
-# Description
+ENGL 334-001 / MW 1430-1545 / HLG 321 / [Schedule](schedule.md)
 
-Digital storytelling uses all the possibilities of digital media — text, images, audio, video — to communicate effectively and, most importantly, meaningfully with audiences. It combines the art of traditional storytelling with the tools of modern technology, allowing individuals to share their experiences and ideas with a wider audience. While a lot of materials and tutorials focus on the technology, in this course we will focus on what matters, the story. What makes for a good story? How do stories work? What can we learn from thousands of years of storytelling, and how can we adapt all these things we know about how our brains work and how ideas are embedded in texts in order to tell a story that our audience cannot stop listening to, reading, watching, playing, experiencing?
-
-This course explores all the fundamentals of storytelling and surveys some of the varieties of media production (e.g., micro-blogging, long form writing, audio, video, games). By the course's end, students have designed and produced a variety of stories and published them on sites of their choosing and design. Course features include guest lectures (including storytellers), exploration of generative text AI, as well as the usual readings and viewings that make up a university course.
-
-# Objectives
-
-In taking this course, participants will become familiar with the basic structures of narrative (both cognitive and formal) and have some experience in using those structures, or their knowledge of them, to produce meaningful texts of their own. Participants will also explore publishing options and will pursue at least a few of those options.
-
-# Requirements
-
-The course assumes that participants are self-motivated and willing to experiment, and to fail. Failing at something is success. Failing to try is failure. If you do not understand an assignment, ask. Ask a peer or ask me. There are a lot moving parts to this course: publishing in some fashion on the web, writing, making audio, making video, sketching out a game. With today's smart phones and computers, you have access to all the hardware and software you need to do not only basic but also outstanding work. The only limitation is your willingness to try, to take a risk.
-
-That noted, this course is built around participants producing things. We can call those things texts, and they can take the form of written stories, or they can be realized in audio, video, dramatic presentation, scripted interactive game play (either live or through a board or video game).
-
-By the end of the semester, you will have published at least ten such productions. From those ten, you will select the five best as your portfolio to be assessed by me (and perhaps your peers — we'll see how that goes). The portfolio must contain at least three written texts and two non-written productions (audio, video, game, mystery). [Please note that any and all mysteries must be approved by my in advance of portfolio submission.]
-
-**Participation** (70%) includes being active in class, doing in-class assignments, submitting out-of-class assignments on time.
-
-**Portfolio** (30%) includes the five productions described above along with a cover essay in which you state your understanding of stories and storytelling and explain how your portfolio either exemplifies that vision or fails to do so. (That is, you can be disappointed in your portfolio and still do well: this is a university class; it's about learning.)
-
-# Schedule
-
-## Unit 1
-
-### Week 1 (A22/24): What it's all about
-
-All the usual things on the first day, including some participant interaction focused on defining things like "stories" and "narrative." Homework includes determining the venue for the course (e.g., GitHub pages, Medium, etc.).
-
-**Consumables** : Read Arguelles and watch the video at the end of the essay.
-
-Arguelles, Carlos. 2021. The Importance of Story-Telling in Software Engineering: Amazon's Cult of the 6-pager: why narrative matters. *Geek Culture*, Nov 23. ***https://medium.com/geekculture/the-importance-of-story-telling-in-software-engineering-99004efda25f***.
-
-### Week 2 (A28/30): What it's not about but also why it matters
-
-That will be followed by focused consideration of the four dimensions of narrative.
-
-Consumables: Herman (in Moodle library).
-
-- ***[8 Genius Digital Storytelling Examples](https://www.brafton.com/blog/creation/mastering-digital-storytelling-in-2018/)***
-- ***[You are not a storyteller - Stefan Sagmeister @ FITC](https://vimeo.com/98368484)***
-
-### Week 3 (S4/6): Labor Day & Early Fall Break
-
-This course is untouched by Fall Break. Consider this week to be an early fall break.
-
-### W4 (S11/13): The Shapes of Stories
-
-Most of you will have been exposed to Freitag’s pyramid in some form. All of you will have been assured that stories have beginnings, middles, and ends, but have you heard of the hero’s journey? What about the Hollywood Formula? The Story Circle? 
-
-- Writing for a technical press, Pragmatic Programmers, Margaret Eldridge makes the claim that technical books should send readers on [the hero’s journey](https://medium.com/pragmatic-programmers/the-heros-journey-2a8e11defd1b). While you are reading the essay, be sure to click on the [What Your 6 Favorite Movies have in common](https://venngage.com/blog/heros-journey/) infographic.
+[Pr. John Laudun](https://johnlaudun.net/) / HLG 356 / MW 1200-1400 & by appointment
 
 
+## Description
 
-**Week 5 (S18/20)**
+Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma's gumbo. **English 334: Digital Folklore and Culture** explores the varieties and depths of vernacular digital cultures, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of digital materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The final project focuses on an online collection and a poster session. 
 
-Most vector space representations of texts consider them to be bags of words with the only importance attached to the co-occurrence of words within the larger bag. But words have meanings and those meanings are revealed through collocations: words accompany other words with regularity.
+This course is designed for students:
 
-**Week 6 (S25/27)**
+- who do not currently have a working understanding of folklore, tradition, and/or culture but perhaps do have some understanding of human behavior; 
+- who are interested in developing a working understanding of culture, and its many forms / behaviors;
+- who are interested in a basic understanding, and experience, of the research practice that lies behind scholarly and scientific domains.
 
-Not only do words go with other words, they usually go with those words in a particular order. That is, words occur in regular sequences, and those sequences either constitute strings we recognize as texts or pieces of texts.
+## Course Learning Goals
 
-### Unit 2 | getting data
+There are three learning goals for this course, which intertwine and overlap over the course of the semester and which will be demonstrated through a variety of activities and assignments, some of which occur in-class and some out of class. By the end of this course you should be able to: 
 
-**Week 7 (O2/4)**
+- read scholarly and scientific analyses of human behavior, 
+- discover for yourself how those analyses apply directly or indirectly to online behaviors in general and your own research (interests) in particular, 
+- by applying definitions, models, or analytical concepts in your own writing. 
 
-We can't do much without data, but data just doesn't appear out of nowhere: we have to go out and get it, which means we have to make decisions about what drives us: a question or a phenomenon. How we answer that questions determines what data we collect. (Most data scientists estimate that at least 25% of their work involves collecting and munging data.)
+Writing is a significant component of any communication, be it scientific or professional, and participants in this course will be required to assume those voices necessary to accomplishing a particular task. In addition, as a course in folklore studies participants will also create documentation containing both metadata and data in an appropriate structure.
 
-**Week 8 (O9/11)**
+## Texts
 
-Once we have data, or even in the process of accumulating data, we need to decide how we are going to store it and how we are going to recall, or load, it. Some of our responses here will be based on the computational and storage resources available to us.
+Please purchase the following books either from the university bookstore or from your preferred vendor. Amazon links are provided only for convenience. Both books are available as Kindle editions, and you are free to purchase them as ebooks, but I will be working with paper copies and referencing page numbers. 
 
-### UNIT 3 | getting to work
+McCulloch, Gretchen. 2020. _Because Internet: Understanding the New Rules of Language_. Riverhead Books. ISBN: 978-0735210943. [Amazon][mcculloch].
 
-**Week 9 (O16/18)**
+Paltridge, Brian. 2021. _Discourse Analysis: An Introduction_. Bloomsbury Academic. ISBN: 978-1350093621. [Amazon][paltridge].
 
-Our project has already begun with data collection but now we need to explore the scope of our work and what our outcomes might be. This is an iterative process, and so the sketching we do here will be just that, a sketch, a draft subject to revision.
+[mcculloch]: https://www.amazon.com/Because-Internet-Understanding-Rules-Language/dp/0735210942/
+[paltridge]: https://www.amazon.com/Discourse-Analysis-Introduction-Bloomsbury/dp/1350093629/
 
-**Week 10 (O23/25)**
+In addition to these books, a fair amount of reading for this course is scholarly materials available either in on-line databases, like JSTOR, or through the course’s Moodle site. Much of that reading will be as PDFs, so please make sure you either have a PDF reader with which you are very happy or you can print the PDFs. 
 
-An important aspect of any analytical project is documentation: whether you are working in a research or in an applied environment, others are going to want to know how you got your results. That is, your results are only as good as their replicability.
+In addition to the texts we encounter in class, there are other resources that may be useful to those either in need of a bit more discussion or seeking to expand their understanding. JSTOR, for example, offers a variety of tutorials: some are [simply slides or texts][] that you can read on your own and others are [interactive tutorials][] hosted on their own Moodle setup. (Registration is required, but once you are registered, you’ll discover a number of short videos as well as interactive exercises. If you allocate 20 minutes per session for a few days, you’ll learn something.)
 
-**Week 11 (O30/N1)**
+In case you are unclear, there is a difference between [primary and secondary sources][] in many fields, though the distinction can be blurry in disciplines, like folklore studies and cultural anthropology, that create their own source materials.
 
-Throughout this process, we have engaged in various forms of visualization, and we will continue to do so, but it is important to consider what visualizations can, and cannot do.
+[simply slides or texts]: http://about.jstor.org/jstor-help-support/how-to-use-jstor#398477
+[interactive tutorials]: http://researchbasics.jstor.org/moodle/
+[primary and secondary sources]: https://www.youtube.com/watch?v=jCzjn73QmVM&list=FLQM-7sUBV6Z-PVas0S4k0lw
 
-### UNIT 4 | getting chatgpt
+## Requirements
 
-#### Week 12 (N6/8)
+As an upper-division course, this course assumes all participants are already familiar with accessing and using scholarly and scientific materials in both print and on-line forms. If not, then your first course of action is to take a library tutorial. (See also the guide on [how to access JSTOR](./guides/access.md), and other resources, from off campus.) It also assumes you are familiar with the University’s Code of Conduct. This class is conducted as if we are are all professionals engaged in a mutually rewarding endeavor to which all of us contribute in order to succeed. That means coming prepared, not being distracted, and being engaged with not only the course materials but also each other.
 
-A number of sources would have you believe that SkyNet lurks around the corner from ChatGPT. Others suggest that GPT is little more than a souped-up neural network with some word vectors mixed in. The truth is complicated and relies a great deal on the shear amount of data that lies behind GPT and BERT. In this unit we explore the basics of transformers and build our own to see if the models they produce tell us anything interesting about the corpora we have built.
+The schedule of graded assignments is:
 
-#### Week 13 (N13/15)
+* **Participation** (20%) includes active participation in discussions, activities, and assignments. *Discussions & Activities*: An important dimension of learning is voicing your ideas either orally or in writing, which is often far easier in conversation than it is in the more formal setting of an assignment. Use these opportunities to your best advantage. I try to use a variety of activities, and discussion formats, in class meetings to help balance those with preferences for extroversion with those for preferences for introversion. *Assignments*: Unless otherwise specified, homework assignments to be handed-in are due at the start of class; postings to Teams are due by 0800 of the day of class. If they are to  (If you have particular ideas or suggestions about what might work best for you and/or others, please feel free to pass those along.)
+* **Quizzes / Exams** (40%): A lot of recent work in learning has suggeted that regular testing of things recently learned is the best way to improve recall and facility. This semester this course is using weekly quizzes to explore how well that works. Each week a quiz will be given. At the end of the quiz, if you feel confident in your answers, you may turn it in for credit. Sufficient number of correctly-answered weekly quizzes will make either of the exams, mid-term and final, optional. If you would prefer to hold onto your quiz for personal review, you are free to do so. Answers will be provided after the quiz -- in some cases later in the class meeting and in others the next meeting -- so that you can check your understanding. The two exams, then, are each worth 20% and ask you to take concepts and methods taken from the readings and apply them in a very constrained way to novel examples, to examples from another reading, or from your own work. If you've kept up with the reading, lectures, and discussions, these are pretty straightforward. 
+* **Project** (40%): Drawing upon the ideas, forms, and materials we have discussed this course expects you to strike out on your own, gathering your own data, perhaps even data sets, analyzing it, and bringing appropriate (and novel) ideas and concepts to bear. The project’s output will be a poster and accompanying presentation. (Details on the [project page](project.md).)
 
-#### Week 14 (N20/22): Thanksgiving Week
+## Communications
 
-#### Week 15 (N27/29): Final Week
+This semester we will be using Microsoft Teams for group communications: I will use it to communicate with the class as a whole and also with class groups. Participants should feel free to set up their own groups, and could use the notion of having peer contacts (see below) to set up smaller chat groups. 
 
+In general, if you have a question about the course, please ask it in the main course channel on Teams: chances are quite good that others have the same question. If you have something more personal, than please do either "chat" with me one-on-one or email me. In both cases, please allow 24 hours for me to respond, outside of weekends. (Please also note that I tend to check email only once a day, in the morning.) If something is an emergency, then you should not be contacting me. I would be useless. 
+
+### Peer Contact Information
+
+Do not hesitate. Immediately look around where you are sitting and get the name and number of two responsible looking people. Not the cute one — because getting his or her number that way would be just creepy, but someone who has at least your level of maturity, if not higher. Write that information below so that when you do have to miss class, then you can contact them about what you missed.
+
+Contact:
+
+Contact:
+
+
+
+*If you have any questions or concerns, please feel free to contact me.*

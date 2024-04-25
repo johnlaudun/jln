@@ -21,7 +21,7 @@ messy they appear, texts produce results predictably and are more
 structured than they might appear. While some may shudder at the memory
 of vocabulary quizzes, sentence diagrams, and lectures on lyric poetry
 or the sonnet, the fact is that almost all texts regularly and reliably
-string words together using a sequencing pattern that causes them to be
+string words together using sequencing patterns that causes them to be
 received in a particular way. Maybe we can just imagine them as machines
 made of words?
 
@@ -63,14 +63,12 @@ answer questions that arise from the data itself.
 
 As participants work through the course, they are expected to:
 
-1.  understand the basics of text processing in Python
-
-2.  build upon those basics to develop approaches to text processing
-
-3.  apply those approaches to a set of texts (a corpus)
-
-4.  develop a corpus of their own and articulate the better approaches
-    to that corpus
+1. understand the basics of text processing in Python,
+2. build upon those basics to develop approaches to text processing,
+3. apply those approaches to a set of texts (a corpus),   
+4. develop a corpus of their own and articulate the better approaches to that corpus,
+5. use the methods we have explored to map that corpus and to derive interesting insights, and
+6. communicate those insights in research notebooks that are richly reported with code that is clearly commented.
 
 We will use a variety of data sets throughout the course, and it is
 expected that those data sets, also known as corpora in some instances,
@@ -118,6 +116,10 @@ Please note: we read broadly from corpus linguistics, corpus stylistics,
 information and data science. Successful participation requires that you
 keep up with the reading.
 
+### Setup
+
+This course requires the use of **Python** and that participants are able to install libraries and other resources as needed. Much of this package management will be handled by **mini conda**, a package manager accessed through the CLI, so it is expected that participants are comfortable with their operating system's terminal or command shell interface. (More advanced participants will perhaps want to edit their config files.) We will use Jupyter notebooks both for their ease of use but also for their ability to create complete documentation solutions: all assignments will be Jupyter notebooks. Code for the class is maintained on a **GitHub** repo, and participants will commit their own code to a course repo designed to make it easy for everyone to see each other's work and to share data.
+
 ### Assignments
 
 More than anything, this is a course where participants *do* things:
@@ -129,18 +131,55 @@ you develop a corpus of your own, either individually or
 collaboratively, to perform some analysis, and to report your findings
 in a clear and cogent fashion. (See section on criteria below for details on how assignments are graded.)
 
-**Exams**. Three times during the semester participants are examined on topics that have been covered in the preceding weeks. The possible exam formats are: oral, where they are asked to walk through a problem in conversation with the instructor; in-class written; and out-of-class written, which are obviously more like writing assignments. Both written assignments may include pseudo-code and/or code as well as comments that explain not only the code but the concepts and methods at stake. E.g., if a step in the overall workflow removes stop words, participants are expected to explain how and why this is occurring.
+**Quizzes & Participation**. At various times during the semester participants are asked to write on topics that have been covered in the preceding weeks. The writing is sometimes on paper (usually individually) and sometimes it is on the whiteboard either with a group or to a group. The focus is not on neither correctness nor exactness but simply on talking your way through a problem. The assignments may include pseudo-code (and/or code) as well as comments that explain not only the code but the concepts and methods at stake. E.g., if a step in the overall workflow removes stopwords, participants are expected to explain how and why this is occurring.
 
-**Project(s)**. This course is really designed to produce a final project of various parts/phases. The plural in the assignment title reflects the multi-stage process in which sub-assemblies are put together in a sequence and feedback is provided, by both the instructor as well as other participants. The final version of the project, which may very well not be finished, gathers all the pieces into an assembly and the producer(s) of the project provide an explanation not only of the pieces and the assembly but also their response to feedback.
+**Notebooks**. This course is really designed to produce a final project of various parts/phases. The plural in the assignment title reflects the multi-stage process in which sub-assemblies are put together in a sequence and feedback is provided, by both the instructor as well as other participants. The final version of the project, which may very well not be finished, gathers all the pieces into an assembly and the producer(s) of the project provide an explanation not only of the pieces and the assembly but also their response to feedback. Possible notebooks include:
+
+- Single Text Operations
+- Corpus Creation
+- Corpus Operations
+- Sentiment and PoS Tagging
+- Word2Vec
+- Network / Transformer
+- CYOA (Choose Your Own Adventure) Notebook
 
 #### Evaluation Criteria (same for all projects)
 
-**Code/Approach** (50%): Does the program produce useful results? Is it properly documented with #comments and doc strings? Does it use appropriate data structures?
+**Code/Approach** (50%): Does the code produce useful results? Is it properly documented with #comments and doc strings? Does it use appropriate data structures?
 
 **Write Up** (50%): Is it clear what was done and why? Does it adequately cite resources used? Does it adequately cite sources, references, and code adapted? Does it include some evaluation? Is there any analysis of errors? Does it point out any remaining issues? Is it formatted correctly?
 
 Assessment problems are generally open ended -- it is not expected that the student can solve them fully: the goal is to see how they approach the problem and understand it.
 
+| Dimension| Expected | Acceptable | Unworkable | Value |
+| -------- | -------- | ---------- | ---------- | ----- |
+| **_Structure_**   | The notebook has a clear structure with headings and explanatory paragraphs followed by code blocks that do what the description says. The code blocks are followed by text blocks that discuss the results. | There are headings that indicate sections of work. Small blocks of text attempt some explanation. | There is no clear structure. One block tumbles after another. There is no way to scan the document.                                                | 30        |
+| **_Text Blocks_** | The text blocks (cells) are used to explain a larger idea, to work through the implications for the code to come, and to work through pseudo-code as necessary. Follow-up text blocks note the results and discuss what changes need to be made. (This can be in the form of "When I first ran this with this code or these parameters, I got these results and I made these changes." | Text blocks explain working code but little more.                                                          | At worst, text blocks are not used. Almost as bad are poorly written text blocks which make no attempt to explain the analyst's thought processes. | 30        |
+| **_Code Blocks_** | First and foremost the code is commented and it's clear what lines or blocks of code is doing. In the excellent category, even the imports are commented! The code itself is "Pythonic" and uses vertical spacing to increase readability.                                                                                                                                          | Comments are brief and do not cover all aspects of the work. The code works, but it is not easy to follow. | Code lacks comments and/or is jumbled.                                                                                                             | 40        |
+
+
 ## Schedule
 
 The schedule for this course can be found in the course's dedicated [repository](https://github.com/johnlaudun/text-as-data) which also includes other course materials.
+
+### 0. Introductions
+
+In the first week we make all the usual introductions: course and participants (all of us in the room). We then begin the first of many considerations of what it means to quantify qualitative things like words from a very “big picture” point of view, if only to remind ourselves that for every insight, there is a blindness. The good news is that there are many questions to ask, and many ways to ask them. We finish with getting ready to begin our analytical journey. 
+
+### 1. Python, Jupyter Notebooks, Git + GitHub
+
+### 2. Single Text Operations
+
+### 3. Creating and Working with a Corpus
+
+### 4. Syntax and Semantics
+
+Parts-of-Speech tagging and sentiment 
+
+### 5. Sequences & Semantic Spaces
+
+Word2vec
+
+### 6. Deep Learning & AI
+
+RNNs, GANs, BERT, GPT. 
