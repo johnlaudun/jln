@@ -14,7 +14,7 @@ layout: page
 * [Introduction to Folk Narrative (332)](courses/332/)
 * [Louisiana Folklore (335)](courses/335/) 
 * [Narrative Games (370)](courses/370-games/)
-* [America in Legend Online and Off (432)](courses/432/): 
+* [America in Legend Online and Off (432)](courses/432/)
 * [Seminar in Narrative Studies (531)](courses/531/)
 * [Proseminar in Folklore Theory (632)](courses/632/)
 
