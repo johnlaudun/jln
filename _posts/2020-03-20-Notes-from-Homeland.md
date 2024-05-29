@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Quarantine Day 1
-date: 2024-03-20
+title: Notes from the Homeland (Quarantine Day 1)
+date: 2020-03-20
 tags: 
 ---
-# Notes from the Homeland: Quarantine Day 1
 
 While we may never know when COVID-19 first appeared, we can definitely date the moment here in the homeland when people realized that maybe they should take it seriously. It was the day the state closed K-12 schools for the month. It was also the day that the local university decided to cancel classes for two days and then re-open as an online-only institution. That was the day the toilet paper really began to fly (off the shelves).
 
