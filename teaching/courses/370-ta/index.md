@@ -168,7 +168,7 @@ In the first week we make all the usual introductions: course and participants (
 
 ### 1. Python, Jupyter Notebooks, Git + GitHub
 
-The code we use is, for the most part, fairly basic, running a lot on a minimal set of control structures like `for` loops and the occasional `if` statement. The more important thing we cover in this unit are data structures. While Python comes with a limited set of data structures (strings, lists, dictionaries, tuples, etc.) a number of libraries we use extend those structures in very interesting ways: the NLTK library, for example, will return a tokenized sentence with parts of speech tags as a list of tuples with the word in the zero index and the PoS tag in the first index. Being able to get data out or iterate through a data structure is essential to doing text analytics. 
+The code we use is, for the most part, fairly basic, running a lot on a minimal set of control structures like `for` loops and the occasional `if` statement. The more important thing we cover in this unit are data structures. (Real Python has a well-written tutorial on [data types](https://realpython.com/python-data-types/).) While Python comes with a limited set of data structures (strings, lists, dictionaries, tuples, etc.) a number of libraries we use extend those structures in very interesting ways: the NLTK library, for example, will return a tokenized sentence with parts of speech tags as a list of tuples with the word in the zero index and the PoS tag in the first index. Being able to get data out or iterate through a data structure is essential to doing text analytics. 
 
 ### 2. Single Text Operations
 

@@ -2,7 +2,7 @@
 title: Interactive Fictions and Narrative Games
 ---
 
-![Branching Fiction Map](/Users/jl/Developer/jln/teaching/courses/370-games/media/course-image-1.png)
+![Branching Fiction Map](media/course-image-1.png)
 
 # Interactive Fictions & Narrative Games
 ENGL 370-002 / TuTh 12:30-13:45 / HLG 
