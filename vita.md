@@ -1,15 +1,14 @@
-JOHN LAUDUN\
-Department of English\
-University of Louisiana at Lafayette\
-Lafayette, LA 70504--4691\
-<https://johnlaudun.net/>\
-\@johnlaudun@hcommons.social\
-<https://github.com/johnlaudun>
+JOHN LAUDUN  
+Department of English  
+University of Louisiana at Lafayette  
+Lafayette, LA 70504--4691  
+https://johnlaudun.net/  
+@johnlaudun@hcommons.social  
+https://github.com/johnlaudun
 
 # Education
 
-Ph.D. Folklore Studies. Indiana University (minor in cultural
-anthropology). 1999.
+Ph.D. Folklore Studies. Indiana University (minor in cultural anthropology). 1999.
 
 M.A. English/Textual Studies. Syracuse University. 1989.
 
@@ -18,69 +17,47 @@ B.A. Philosophy and English (dual major). Louisiana State University.
 
 # Employment
 
-Professor. Department of English. University of Louisiana at Lafayette
-at Lafayette. 1999--present. (On leave 2020--22.)
+Professor. Department of English. University of Louisiana at Lafayette at Lafayette. 1999--present. (On leave 2020--22.)
 
-Professor. Social Informatics. U.S. Army Combined Arms Center (Fort
-Leavenworth, KS). 2020--22.
+Professor. Social Informatics. U.S. Army Combined Arms Center (Fort Leavenworth, KS). 2020--22.
 
-Associate Director. Center for Louisiana Studies/Center for Cultural and
-Eco-Tourism. University of Louisiana at Lafayette. Release time granted.
-2003--05.
+Associate Director. Center for Louisiana Studies/Center for Cultural and Eco-Tourism. University of Louisiana at Lafayette. Release time granted. 2003--05.
 
-Assistant Director. Office of Executive Education. Kelley School of
-Business. Indiana University. 1995--97.
+Assistant Director. Office of Executive Education. Kelley School of Business. Indiana University. 1995--97.
 
 # Grants & Prizes
 
-Laudun, John. 2016. The Amazing Crawfish Boat. Folklore Studies in a
-Multicultural World. Andrew Mellon Foundation.
+Laudun, John. 2016. The Amazing Crawfish Boat. Folklore Studies in a Multicultural World. Andrew Mellon Foundation.
 
-Laudun, John. 2013. The Louisiana Crawfish Boat. Louisiana State Board
-of Regents ATLAS Grant.
+Laudun, John. 2013. The Louisiana Crawfish Boat. Louisiana State Board of Regents ATLAS Grant.
 
-Laudun, John (PI), Claiborne Rice, and Leslie Schilling. 2008. Louisiana
-Digital Humanities Lab. Louisiana State Board of Regents.
+Laudun, John (PI), Claiborne Rice, and Leslie Schilling. 2008. Louisiana Digital Humanities Lab. Louisiana State Board of Regents.
 
-Richard, C. E. and John Laudun. 2007. Acadiana Foodways Documentary
-Project. Louisiana State Board of Regents.
+Richard, C. E. and John Laudun. 2007. Acadiana Foodways Documentary Project. Louisiana State Board of Regents.
 
-Laudun, John (PI) and C. E. Richard. 2005. PI. Acadiana Folklife
-Renewable Documentation Project. Lafayette Convention and Visitors
-Center.
+Laudun, John (PI) and C. E. Richard. 2005. PI. Acadiana Folklife Renewable Documentation Project. Lafayette Convention and Visitors Center.
 
-Laudun, John. 2004.. Lache pas la patate: Digitizing and Restoring
-Endangered Audio Recordings. National Academy of Recordings Arts and
-Sciences (GRAMMY Grant).
+Laudun, John. 2004.. Lache pas la patate: Digitizing and Restoring Endangered Audio Recordings. National Academy of Recordings Arts and Sciences (GRAMMY Grant).
 
-Walton, Shana and John Laudun. 2003. Lessons in Folklife for English
-Language Arts. Louisiana State Board of Regents.
+Walton, Shana and John Laudun. 2003. Lessons in Folklife for English Language Arts. Louisiana State Board of Regents.
 
-Laudun, John. 1988. Delmore Schwartz Prize for Poetry. Syracuse
-University.
+Laudun, John. 1988. Delmore Schwartz Prize for Poetry. Syracuse University.
 
 # Fellowships
 
-2016--18. Senior Scholar in Residence. UCLA Institute for Pure and
-Applied Mathematics.
+2016--18. Senior Scholar in Residence. UCLA Institute for Pure and Applied Mathematics.
 
-2013\. Fellow. NEH/University of Virginia Scholar's Lab Speaking in Code
-Symposium.
+2013\. Fellow. NEH/University of Virginia Scholar's Lab Speaking in Code Symposium.
 
-2010\. Fellow. Institute on Networks and Networking in the Humanities.
-National Endowment for the Humanities.
+2010\. Fellow. Institute on Networks and Networking in the Humanities. National Endowment for the Humanities.
 
-2009\. Fellow. Ethnographic Video for Instruction and Analysis Digital
-Archive (EVIADA). Indiana University / Michigan University.
+2009\. Fellow. Ethnographic Video for Instruction and Analysis Digital Archive (EVIADA). Indiana University / Michigan University.
 
-1999--2004. Research Fellow. Center for Cultural and Eco-Tourism.
-University of Louisiana at Lafayette.
+1999--2004. Research Fellow. Center for Cultural and Eco-Tourism. University of Louisiana at Lafayette.
 
-1993--94. MacArthur Scholar. Indiana Center on Global Change and World
-Peace. Indiana University.
+1993--94. MacArthur Scholar. Indiana Center on Global Change and World Peace. Indiana University.
 
-1987--92. Jacob K. Javits Fellow. United States Department of Education.
-Syracuse University and Indiana University.
+1987--92. Jacob K. Javits Fellow. United States Department of Education. Syracuse University and Indiana University.
 
 # Publications
 
@@ -98,145 +75,77 @@ Foundation). University Press of Mississippi.
 
 ## Articles
 
-Laudun, John, Katherine M. Kinnaird, and Allison J. B. Chaney.
-\[Submitted.\] Speaking Subjects, Subjects Spoken: Using TED Talks to
-Understand Discursive Gender Formations. *Journal of Cultural
-Analytics*.
+Laudun, John, Katherine M. Kinnaird, and Allison J. B. Chaney. \[Submitted.\] Speaking Subjects, Subjects Spoken: Using TED Talks to Understand Discursive Gender Formations. *Journal of Cultural Analytics*.
 
-Laudun, John and Jonathan Goodwin. \[2023\]. Computing Folklore Studies:
-Mapping over a Century of Scholarly Production through Topics. *Overseas
-Folkloristics Studies* 5. Ed. Li Yang. Tr. Li Yang and Qiao Yingfei.
-\[In production.\]
+Laudun, John and Jonathan Goodwin. \[2023\]. Computing Folklore Studies: Mapping over a Century of Scholarly Production through Topics. *Overseas Folkloristics Studies* 5. Ed. Li Yang. Tr. Li Yang and Qiao Yingfei. \[In production.\]
 
-Laudun, John. 2023. Repairing Tradition. *Journal of American Folklore*
-136(541): 274--297.
+Laudun, John. 2023. Repairing Tradition. *Journal of American Folklore* 136(541): 274--297.
 
-Laudun, John, Tom Kroh, Mahbube Sidikki, Robert Arp, and Adam Lowther.
-2021. The Department of Defense's Multidomain Operations
-Challenge. *Global Security Review*.
-https://globalsecurityreview.com/defense-department-multidomain-operations-challenge/.
+Laudun, John, Tom Kroh, Mahbube Sidikki, Robert Arp, and Adam Lowther. 2021. The Department of Defense's Multidomain Operations Challenge. *Global Security Review*. https://globalsecurityreview.com/defense-department-multidomain-operations-challenge/.
 
-Laudun, John. 2021. The Modes of Vernacular Discourse. *Western
-Folklore* 80(3/4): 401--436.
+Laudun, John. 2021. The Modes of Vernacular Discourse. *Western Folklore* 80(3/4): 401--436.
 
-Kinnaird, Katherine and John Laudun. 2019. TED Talks as Data. *Journal
-of Cultural Analytics* (19 July). DOI: 10.31235/osf.io/4yqex.
+Kinnaird, Katherine and John Laudun. 2019. TED Talks as Data. *Journal of Cultural Analytics* (19 July). DOI: 10.31235/osf.io/4yqex.
 
-Laudun, John. 2019. Trucks under Water: A Legend from the 2016 Flood.
-*Louisiana Folklore Miscellany* 28: 20--36.
+Laudun, John. 2019. Trucks under Water: A Legend from the 2016 Flood. *Louisiana Folklore Miscellany* 28: 20--36.
 
-Laudun, John. 2018. Tallying Treasure Tales: A Reconsideration of the
-Structure and Nature of Local Legends. *Contemporary Legend* 3(7):
-1--27.
+Laudun, John. 2018. Tallying Treasure Tales: A Reconsideration of the Structure and Nature of Local Legends. *Contemporary Legend* 3(7): 1--27.
 
-Laudun, John and Jonathan Goodwin. 2016. Computing Folklore Studies:
-Mapping over a Century of Scholarly Production through Topics. *Cultural
-Heritage* 5. Translators (to Chinese): Li Yang and Qiao Yingfei.
+Laudun, John and Jonathan Goodwin. 2016. Computing Folklore Studies: Mapping over a Century of Scholarly Production through Topics. *Cultural Heritage* 5. Translators (to Chinese): Li Yang and Qiao Yingfei.
 
-Gao, Jianbo, Matthew Jockers, John Laudun, Timothy Tangherlini. 2016. A
-multiscale theory for the dynamical evolution of sentiment in novels.
-*International Conference on Behavioral, Economic and Socio-cultural
-Computing* (BESC). DOI: 10.1109/BESC.2016.7804470.
+Gao, Jianbo, Matthew Jockers, John Laudun, Timothy Tangherlini. 2016. A multiscale theory for the dynamical evolution of sentiment in novels. *International Conference on Behavioral, Economic and Socio-cultural Computing* (BESC). DOI: 10.1109/BESC.2016.7804470.
 
-Laudun, John. 2015. Text Statistics with Python. *Programming Historian*
-[URL]{.underline}.
+Laudun, John. 2015. Text Statistics with Python. *Programming Historian* [URL]{.underline}.
 
-Laudun, John. 2014. Counting Tales: Towards a Computational Approach to
-Folk Narrative. *Folk Culture Forum* 5/228: 20--35. Translator (to
-Chinese): An Deming.
+Laudun, John. 2014. Counting Tales: Towards a Computational Approach to Folk Narrative. *Folk Culture Forum* 5/228: 20--35. Translator (to Chinese): An Deming.
 
-Laudun, John and Jonathan Goodwin. 2013. Computing Folklore Studies:
-Mapping over a Century of Scholarly Production through Topics. *Journal
-of American Folklore* 126(502):455--475.
+Laudun, John and Jonathan Goodwin. 2013. Computing Folklore Studies: Mapping over a Century of Scholarly Production through Topics. *Journal of American Folklore* 126(502):455--475.
 
-Laudun, John. 2012. "Talking Shit" in Rayne: How Aesthetic Features
-Reveal Ethical Structures. *Journal of American Folklore*
-125(497):304--326. DOI: 10.5406/jamerfolk.125.497.0304.
+Laudun, John. 2012. "Talking Shit" in Rayne: How Aesthetic Features Reveal Ethical Structures. *Journal of American Folklore* 125(497):304--326. DOI: 10.5406/jamerfolk.125.497.0304.
 
-Laudun, John. 2011. The Technological Landscape. *Technoculture: An
-Online Journal of Technology in Society*.
-http://tcjournal.org/drupal/vol1/laudun.
+Laudun, John. 2011. The Technological Landscape. *Technoculture: An Online Journal of Technology in Society*. http://tcjournal.org/drupal/vol1/laudun.
 
-Laudun, John. 2004. Reading Hurston Writing. *African American Review*
-38(1): 45--60.
+Laudun, John. 2004. Reading Hurston Writing. *African American Review* 38(1): 45--60.
 
-Laudun, John. 2001. Talk about the Past in a Midwestern Town: "It Was
-There at That Time." *Midwestern Folklore* 27(2): 41--54.
+Laudun, John. 2001. Talk about the Past in a Midwestern Town: "It Was There at That Time." *Midwestern Folklore* 27(2): 41--54.
 
-Laudun, John. 2000. "There's Not Much to Talk about When You're Taking
-Pictures of Houses": The Poetics of Vernacular Spaces. *Southern
-Folklore* 57(2):135--158.
+Laudun, John. 2000. "There's Not Much to Talk about When You're Taking Pictures of Houses": The Poetics of Vernacular Spaces. *Southern Folklore* 57(2):135--158.
 
-Laudun, John. 1999. "Talking Shit" in Rayne. *Louisiana Folklore
-Miscellany* 14: 81--86.
+Laudun, John. 1999. "Talking Shit" in Rayne. *Louisiana Folklore Miscellany* 14: 81--86.
 
-Laudun, John. 1998. A Conspiracy of Cartographers: Folklore Studies and
-Postmodernism. *Folklore Forum* 29(2): 120--131.
+Laudun, John. 1998. A Conspiracy of Cartographers: Folklore Studies and Postmodernism. *Folklore Forum* 29(2): 120--131.
 
 ## Book Chapters
 
-Laudun, John. 2023. Weathering the Storm: Folk Ideas about Character. In
-*Wait Five Minutes: Weatherlore in the Twenty-First Century*. Ed.
-Shelley Ingram and Willow Mullins. (In production.)
+Laudun, John. 2023. Weathering the Storm: Folk Ideas about Character. In *Wait Five Minutes: Weatherlore in the Twenty-First Century*. Ed. Shelley Ingram and Willow Mullins. (In production.)
 
-Laudun, John. 2021. Connecting: Folklore Studies and Digital Humanities.
-In *What Folklorists Do*, 14-16. Ed. Tim Lloyd. Indiana University
-Press.
+Laudun, John. 2021. Connecting: Folklore Studies and Digital Humanities. In *What Folklorists Do*, 14-16. Ed. Tim Lloyd. Indiana University Press.
 
-Laudun, John. 2021. Repairing Knowledge. In *Technical Cultures of
-Repair: From Prehistory to the Present Day*, 393--406. Ed. Liliane
-Hilaire-Pérez, Gianenrico Bernasconi, Guillaume Carnino and Olivier
-Raveux. Brepols Publishers.
+Laudun, John. 2021. Repairing Knowledge. In *Technical Cultures of Repair: From Prehistory to the Present Day*, 393--406. Ed. Liliane Hilaire-Pérez, Gianenrico Bernasconi, Guillaume Carnino and Olivier Raveux. Brepols Publishers.
 
-Laudun, John. 2020. The Clown Legend Cascade of 2016. In *Folklore and
-Social Media*, 188--208. Eds. Andrew Peck and Trevor Blank. SUNY Press.
+Laudun, John. 2020. The Clown Legend Cascade of 2016. In *Folklore and Social Media*, 188--208. Eds. Andrew Peck and Trevor Blank. SUNY Press.
 
-Laudun, John. 2019. Folklore as a Networked Economy: How a
-Recently-Invented-but-Traditional Artifact Reveals the Way Folkloric
-Production Has Always Worked. In *Folklorists in the Marketplace*,
-26--46. Ed. Willow Mullins and Puja Batra-Wells. Utah State University
-Press.
+Laudun, John. 2019. Folklore as a Networked Economy: How a Recently-Invented-but-Traditional Artifact Reveals the Way Folkloric Production Has Always Worked. In *Folklorists in the Marketplace*, 26--46. Ed. Willow Mullins and Puja Batra-Wells. Utah State University Press.
 
-Laudun, John. 2018. Intellectual Property. In *The Routledge Companion
-to Fairy-Tale Cultures and Media*, . Ed. Pauline Greenhill, Naomi Hamer,
-Jill Rudy, and Lauren Bosc. Taylor & Francis/Routledge.
+Laudun, John. 2018. Intellectual Property. In *The Routledge Companion to Fairy-Tale Cultures and Media*, . Ed. Pauline Greenhill, Naomi Hamer, Jill Rudy, and Lauren Bosc. Taylor & Francis/Routledge.
 
-Laudun, John. 2011. A Constellation of Stars: The Study of Creativity on
-a Human Scale, or How a Bunch of Cajun and German Farmers and
-Fabricators in Louisiana Invented a Traditional Amphibious Boat. In *The
-Individual in Tradition*. Eds. Ray Cashman, Tom Mould, Pravina Shukla.
-Bloomington, IN: Indiana University Press.
+Laudun, John. 2011. A Constellation of Stars: The Study of Creativity on a Human Scale, or How a Bunch of Cajun and German Farmers and Fabricators in Louisiana Invented a Traditional Amphibious Boat. In *The Individual in Tradition*. Eds. Ray Cashman, Tom Mould, Pravina Shukla. Bloomington, IN: Indiana University Press.
 
-Laudun, John. 2009. Gumbo. In *The New Encyclopedia of Southern Culture*
-14: Folklife, 302--4. Ed. Glenn Hinson and William Ferris. University of
-North Carolina Press.
-http://www.jstor.org/stable/10.5149/9780807898550_hinson.75.
+Laudun, John. 2009. Gumbo. In *The New Encyclopedia of Southern Culture* 14: Folklife, 302--4. Ed. Glenn Hinson and William Ferris. University of North Carolina Press. http://www.jstor.org/stable/10.5149/9780807898550_hinson.75.
 
-Laudun, John. 2008. Gumbo This: The State of a Dish. In *Acadians and
-Cajuns: The Politics and Culture of French Minorities in North America*,
-160--175. Ed. Ursula Mathis-Moser and Günter Bischof. Innsbruck,
-Austria: Innsbruck University Press.
+Laudun, John. 2008. Gumbo This: The State of a Dish. In *Acadians and Cajuns: The Politics and Culture of French Minorities in North America*, 160--175. Ed. Ursula Mathis-Moser and Günter Bischof. Innsbruck, Austria: Innsbruck University Press.
 
-Laudun, John. 2006. Oikotypification. In *Encyclopedia of World Folklore
-and Folklife*, 67--68. Ed. William Clements. London: Greenwood Press.
+Laudun, John. 2006. Oikotypification. In *Encyclopedia of World Folklore and Folklife*, 67--68. Ed. William Clements. London: Greenwood Press.
 
-Laudun, John. 2001. Orality. In *Encyclopedia of Lifewriting*, 680--682.
-Ed. Margaretta Jolly. London: Fitzroy Dearborn.
+Laudun, John. 2001. Orality. In *Encyclopedia of Lifewriting*, 680--682. Ed. Margaretta Jolly. London: Fitzroy Dearborn.
 
-Laudun, John. 2001. The Elegant and the Mundane. In *Elegance Beauty &
-Truth*, 27--30. Ed. Lewis Pyenson. Lafayette: Center for Louisiana
-Studies.
+Laudun, John. 2001. The Elegant and the Mundane. In *Elegance Beauty & Truth*, 27--30. Ed. Lewis Pyenson. Lafayette: Center for Louisiana Studies.
 
-Laudun, John. 1996. John Henry. In *American Folklore: An Encyclopedia*,
-364--365. New York, NY: Garland.
+Laudun, John. 1996. John Henry. In *American Folklore: An Encyclopedia*, 364--365. New York, NY: Garland.
 
-Laudun, John. 1996. Folkways. In *American Folklore: An Encyclopedia*,
-295--298. New York, NY: Garland.
+Laudun, John. 1996. Folkways. In *American Folklore: An Encyclopedia*, 295--298. New York, NY: Garland.
 
-Laudun, John. 1990. The Poetics of Virtual Space: Designing a Contiguous
-Architecture for Hypertexts. In *Multiple Perspectives: Courseware
-Development Using Hypercard*. Syracuse, NY: Syracuse University Writing
-Program.
+Laudun, John. 1990. The Poetics of Virtual Space: Designing a Contiguous Architecture for Hypertexts. In *Multiple Perspectives: Courseware Development Using Hypercard*. Syracuse, NY: Syracuse University Writing Program.
 
 ## Essays, Reviews, Audio, Video, Photography
 
