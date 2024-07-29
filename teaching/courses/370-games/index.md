@@ -19,13 +19,22 @@ This course aims to provide participants with the necessary tools and skills to 
 
 ## Materials
 
-We will be prototyping, and trialing, both physical and virtual narrative game forms. Participants need to be able to generate both. While there are pre-cut square and hexagonal game tiles of various sizes, blank playing cards, and a myriad other ready-made materials, access, and willingness to use one's imagination, cardstock and cardboard are the only things required. (An awful lot can be achieved with 3 x 5 cards.) *And, yes, effective, and compelling, game figures can be created out of cardboard cutouts and markers.* 
+The list of materials, both physical and software, is long. Much of our reading will be in pieces either already available online and/or for download or provided via the Teams instance. 
 
-In order to create the cards, tiles, and boards from a variety of materials, participants will also need to have scissors or other cutting implements -- please exercise caution and remember to use a cutting mat when working -- as well as markers or painting supplies. 
+### Hardware
 
-Participants will need a set of die that includes several D6 and at least one each of D8, D12, and D20 (more is better but not required). 16mm and 19mm dies are more adult human friendly, but functionality matters more than size.
+* Participants will need a set of die that includes several D6 and at least one each of D8, D12, and D20 (more is better but not required). 16mm and 19mm dies are more adult human friendly, but functionality matters more than size.
+* Participants will also need a steady supply of 3 x 5 cards.
+* We will be prototyping, and trialing, both physical and virtual narrative game forms. Participants need to be able to generate both. While there are pre-cut square and hexagonal game tiles of various sizes, blank playing cards, and a myriad other ready-made materials, access, and willingness to use one's imagination, cardstock and cardboard are the only things required. (An awful lot can be achieved with 3 x 5 cards.) *And, yes, effective, and compelling, game figures can be created out of cardboard cutouts and markers.* 
+* In order to create the cards, tiles, and boards from a variety of materials, participants will also need to have scissors or other cutting implements -- please exercise caution and remember to use a cutting mat when working -- as well as markers or painting supplies.
 
-## Requirements
+### Software
+
+* In addition to these physical materials, participants will of course need to access to a computer and software. The university provides a license to Office 365. Use of Teams is mandatory, and you might as well use the other apps as well. There is a fair amount of writing in this course, much of it structured, and so familiarity with the outline view and the relationship between outline headings and styles is highly recommended. PowerPoint can be an interesting platform for interactive fiction with its ability to have clickable links between non-sequential slides.
+* We will be using network graphs to represent interactive fictions and narrative games. You can create simple diagrams in presentation software like PowerPoint or Keynote, but anything more than a few nodes high/deep quickly becomes about managing readability and not about being generating ideas. There are a variety of mind-mapping, as well as diagramming, applications available. Please familiarize yourself with one: you will be making network visualizations both for analysis as well as creativity.
+* For those interested in text-based storytelling, there are two open source applications available for writing and compiling playable stories/games. (See **Resources** below.)
+
+## Grading
 
 More than anything, this course expects and requires that participants be open to new ideas and different kinds of course experiences. This is the first time this course has been offered at UL, and so much of the content, in terms of both readings, lectures, and discussions as well as assignments is exploratory in nature: what do participants need to know to think more clearly about stories and games and the media within which the two combine? 
 
@@ -37,7 +46,10 @@ More than anything, this course expects and requires that participants be open t
 
 ## Resources 
 
-* Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.)
+* Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.) Grids are great for maps of all kinds as well as for planning.
+* [Inform](https://ganelson.github.io/inform-website/) is open source software  for creating interactive fiction. It uses something very close to natural language syntax and makes it easy to draft and then compile a playable text-based game. The website has links not only to the download but also to a variety of useful resources on interactive fiction: writing advice, community forums, and example fictions.
+* [Twine](http://twinery.org) is another piece of open source software for creating interactive fiction / non-linear stories. *Enjoy!*
+* It is too late to enter this year's [Interactive Fiction Competition](https://ifcomp.org/), but there's always next year. In the mean time, this year's entries will be released to the public on September 1.
 
 ### Game Theory
 
@@ -54,4 +66,5 @@ Due to a prior schedule commitment, I will not be available to meet August 29- S
 <!--
 Go to https://ncase.me/trust/. Play the game. Write down two things: (1) Implications of the game theory behind “The Prisoner’s Dilemma” for game design and (2) the implications for life.
 
+Assignment. Your first creative assignment is to write a simple branching narrative with a walk of at least four nodes. There must be at least two branches. (For those keeping track: this means at least three outcomes, but you can write the story such that paths merge past a branch.)
 -->
