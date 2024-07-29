@@ -7,6 +7,7 @@ layout: page
 
 There are some things all students in my courses need, or want, to know:
 
+* If you are writing a draft, and you want my feedback, I have [thoughts](reading_drafts.md).
 * Here's my list of [interview tips](interview_tips.md).
 * If you are not quite sure what a [literature review](lit_review.md) is and you are in a course that requires one, here's a [basic guide](lit_review.md).
 * Revising and [editing](editing.md) go hand-in-hand.
