@@ -19,11 +19,21 @@ This course aims to provide participants with the necessary tools and skills to 
 
 ## Materials
 
+We will be prototyping, and trialing, both physical and virtual narrative game forms. Participants need to be able to generate both. While there are pre-cut square and hexagonal game tiles of various sizes, blank playing cards, and a myriad other ready-made materials, access, and willingness to use one's imagination, cardstock and cardboard are the only things required. (An awful lot can be achieved with 3 x 5 cards.) *And, yes, effective, and compelling, game figures can be created out of cardboard cutouts and markers.* 
 
+In order to create the cards, tiles, and boards from a variety of materials, participants will also need to have scissors or other cutting implements -- please exercise caution and remember to use a cutting mat when working -- as well as markers or painting supplies. 
+
+Participants will need a set of die that includes several D6 and at least one each of D8, D12, and D20 (more is better but not required). 16mm and 19mm dies are more adult human friendly, but functionality matters more than size.
 
 ## Requirements
 
+More than anything, this course expects and requires that participants be open to new ideas and different kinds of course experiences. This is the first time this course has been offered at UL, and so much of the content, in terms of both readings, lectures, and discussions as well as assignments is exploratory in nature: what do participants need to know to think more clearly about stories and games and the media within which the two combine? 
 
+**Participation** (40%) includes all group activities as well as contribution to in- and out-of-class discussions.
+
+**Assignments** (30%) include all the small assignments that will be completed throughout the semester and which should also be collected in a portfolio at the end of the semester. (The assignment portfolio is part of this grade.)
+
+**Project** (30%): participants can choose to work individually or collectively on their *magnum opus* for the course, a narrative game / interactive fiction of a form and in a medium of their choosing. Prior approval of the instructor is required: this course is about ideation, planning, and execution at a high level thanks to drafting and revision; it is not about surprises and last-minute deadline screeching.
 
 ## Resources 
 
@@ -37,4 +47,11 @@ This course aims to provide participants with the necessary tools and skills to 
 
 ## Schedule
 
+### Foundations
+
+Due to a prior schedule commitment, I will not be available to meet August 29- September 5. On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
+
+<!--
 Go to https://ncase.me/trust/. Play the game. Write down two things: (1) Implications of the game theory behind “The Prisoner’s Dilemma” for game design and (2) the implications for life.
+
+-->

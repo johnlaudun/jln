@@ -4,9 +4,9 @@ Please note two things: while the table below suggests that this course follows 
 
 In most cases, the direct link to an article or other kind of resource is posted below, save items on Moodle. In a number of instances, the direct link is to JSTOR, since that is where a number of folklore studies journals are archived. Please see the note on [accessing materials](guides/access.md) for more information on successfully accessing databases and data repositories.
 
-**Aug 24**. *Introduction to the Course* includes review of the syllabus, foundational lecture on folklore studies, and introduction to plain text and Git. Assignment: read syllabus.
+**Aug 27**. *Introduction to the Course* includes review of the syllabus, foundational lecture on folklore studies, and discussion of independent work.
 
-**Aug 31**. *GitHub Essentials*. A link will be provided to you.
+**Aug 29, Sep 3 & 5**. *No class meetings*, but there is work.
 
 **Sep 7**: *Satanic Panic Redux* With the Satanic Panic being back in the news, one good way to start this course is by tracing the history of these panics and by talking about rumors and panics in general.
 
