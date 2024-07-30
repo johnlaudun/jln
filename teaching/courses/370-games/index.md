@@ -32,7 +32,8 @@ The list of materials, both physical and software, is long. Much of our reading 
 
 * In addition to these physical materials, participants will of course need to access to a computer and software. The university provides a license to Office 365. Use of Teams is mandatory, and you might as well use the other apps as well. There is a fair amount of writing in this course, much of it structured, and so familiarity with the outline view and the relationship between outline headings and styles is highly recommended. PowerPoint can be an interesting platform for interactive fiction with its ability to have clickable links between non-sequential slides.
 * We will be using network graphs to represent interactive fictions and narrative games. You can create simple diagrams in presentation software like PowerPoint or Keynote, but anything more than a few nodes high/deep quickly becomes about managing readability and not about being generating ideas. There are a variety of mind-mapping, as well as diagramming, applications available. Please familiarize yourself with one: you will be making network visualizations both for analysis as well as creativity.
-* For those interested in text-based storytelling, there are two open source applications available for writing and compiling playable stories/games. (See **Resources** below.)
+* In some cases, the paths available to a reader are actually places within a storyworld -- rooms in a house or buildings in a town -- and authors of those fictions/games may find diagramming software useful. (We will still use networks to visualize reader/player paths through a game/fiction.)
+* For those interested in text-based storytelling, there are multiple open source applications available for writing and compiling playable stories/games. (See **Resources** below for descriptions and links.)
 
 ## Grading
 
@@ -47,15 +48,18 @@ More than anything, this course expects and requires that participants be open t
 ## Resources 
 
 * Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.) Grids are great for maps of all kinds as well as for planning.
+
+### Interactive Fiction
+
+[Teaching and Learning With Interactive Fiction](https://bdesilets.com/if/) has a lot of resources, including links to famous interactive fictions. (You can download the entire site as a PDF.) There is also the [The Interactive Fiction DatabaseAdventures](https://ifdb.org/) which list interactive fiction and text adventures.
+
+For those interested in writing, interactive fiction there are a lot options in terms of applications that are available. The three below are both free to use and open source. They also have active development and user communities, which means help, advice, and encouragement are never far away. The apps are listed in order of ease-of-use for a beginner. Both Twine and Inky use a plain text markup language which can actually be written in any text editor: Microsoft Visual Studio Code extensions are available for both *twee* and *ink*.
+
+* [Twine](http://twinery.org) is another piece of open source software for creating interactive fiction / non-linear stories. Twine is based on a markup language that you can write in any text editor -- I use , *twee*, as well as *ink* (below). You can also download the free Twine editor which has a GUI that allows you create the kinds of visualizations discussed above.
+* [Ink](https://www.inklestudios.com/ink/) is a easy-to-understand markup language that has Unity and Unreal compatibility. (See the website for about plugins and compatibility.)
 * [Inform](https://ganelson.github.io/inform-website/) is open source software  for creating interactive fiction. It uses something very close to natural language syntax and makes it easy to draft and then compile a playable text-based game. The website has links not only to the download but also to a variety of useful resources on interactive fiction: writing advice, community forums, and example fictions.
-* [Twine](http://twinery.org) is another piece of open source software for creating interactive fiction / non-linear stories. *Enjoy!*
-* It is too late to enter this year's [Interactive Fiction Competition](https://ifcomp.org/), but there's always next year. In the mean time, this year's entries will be released to the public on September 1.
 
-### Game Theory
-
-* Martin Osborne’s [Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/) is an online book.
-* Open Textbook Library has Nordstrom and Oregon[Introduction to Game Theory: A Discovery Approach](https://open.umn.edu/opentextbooks/textbooks/802) available both online and as a downloadable PDF.
-* Coursera has Stanford’s[Game Theory](https://www.coursera.org/learn/game-theory-1) class. The claim you can finish it in 17 hours.
+It is too late to enter this year's [Interactive Fiction Competition](https://ifcomp.org/), but there's always next year. In the mean time, this year's entries will be released to the public on September 1.
 
 ## Schedule
 
@@ -63,8 +67,14 @@ More than anything, this course expects and requires that participants be open t
 
 Due to a prior schedule commitment, I will not be available to meet August 29- September 5. On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
 
-<!--
+### Game Theory
+
+* Martin Osborne’s [Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/) is an online book.
+* Open Textbook Library has Nordstrom and Oregon[Introduction to Game Theory: A Discovery Approach](https://open.umn.edu/opentextbooks/textbooks/802) available both online and as a downloadable PDF.
+* Coursera has Stanford’s[Game Theory](https://www.coursera.org/learn/game-theory-1) class. The claim you can finish it in 17 hours.
+
 Go to https://ncase.me/trust/. Play the game. Write down two things: (1) Implications of the game theory behind “The Prisoner’s Dilemma” for game design and (2) the implications for life.
 
+Sooner or later…
+
 Assignment. Your first creative assignment is to write a simple branching narrative with a walk of at least four nodes. There must be at least two branches. (For those keeping track: this means at least three outcomes, but you can write the story such that paths merge past a branch.)
--->
