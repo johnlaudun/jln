@@ -39,3 +39,6 @@ Once upon a time, the blog, the teaching materials, and the portfolio lived in t
 - Laudun-2014-Library_of_Congress.pdf
 - Laudun-2017-Construit.pdf
 
+### Workshops
+
+- [Life in Transition: Taking Charge in Personal Storytelling](workshops/life_in_transition.md) -- *This one is from the archive.*

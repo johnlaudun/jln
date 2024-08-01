@@ -61,6 +61,10 @@ For those interested in writing, interactive fiction there are a lot options in 
 
 It is too late to enter this year's [Interactive Fiction Competition](https://ifcomp.org/), but there's always next year. In the mean time, this year's entries will be released to the public on September 1.
 
+### Game Design
+
+* [The Level Design Book](https://book.leveldesignbook.com/)
+
 ## Schedule
 
 ### Foundations
