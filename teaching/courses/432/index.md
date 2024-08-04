@@ -25,11 +25,12 @@ For matters of daily comportment and responsibility, please see [The Essentials]
 
 ###  Texts
 
-A great deal of the readings are scholarly in nature and will be available either as links to JSTOR and Project Muse or through the course’s Moodle site, either as PDFs or as links to sites. In addition to the on-line materials, there is at least one book required for this course.
+A great deal of the readings are scholarly in nature and will be available either as links to JSTOR and Project Muse or through Teams, either as PDFs or as links to sites. In addition to the on-line materials, there is at least one book required for this course:
 
 Shifman, Limor. 2014. _Memes in Digital Culture_. MIT Press.
 
-Please arrange to purchase the book through your preferred vendor. (Please make sure you have a complete version of the book and can access it readily.) Depending upon the make-up of the class and emergent interests, there may be a second book to purchase, so be sure to set aside a portion of your budget for that expense, in addition to the cost of printing other materials as needed.
+Please arrange to purchase the book through your preferred vendor. (Please make sure you have a complete version of the book and can access it readily.) Depending upon the make-up of the class and emergent interests, there may be a second book to purchase, so be sure to set aside a portion of your budget for that expense, in addition to the cost of printing other materials as needed. I strongly recommend spending the little bit of money required to print PDFs. Print them, mark on them, doodle on them, highlight them. Studies have shown that hand-written notes are better for intellectual development. I suspect the same will eventually be discovered for reading.
+
 
 ### Assignments
 
@@ -37,7 +38,7 @@ The assignment schedule for this course is simple:
 
 * **Participation** (30%). Half the participation grade is dependent upon your being in class and being an active part of discussions through active listening and thoughtful contributions. The other half of the participation grade is a function of a collection of small assignments: taking responsibility for a discussion, completion of in-class writing assignment, etc.
 * **Mid-term essay/exam** (20%). At the mid-term, this course asks that you write an essay synthesizing your understanding of the study of vernacular culture based on the materials we have read and the discussions we have had. The essay must be well--structured and sourced. (Bonus points are awarded for quoting a fellow participant.)
-* **Course Project** (50%). The course project requires independent enterprise on the part of course participants, who are free to choose from a wide variety of topics, so long as they can make a case to me both in the intial proposal and in the paper itself that it fits within the scope of the course. The wide possible scope is on purpose, but negotiating the parameters of the project with the instructor is *required*. For more, see the [course project](project-0.md) specifications page.
+* **Course Project** (50%). The course project requires independent enterprise on the part of course participants, who are free to choose from a wide variety of topics, so long as they can make a case to me both in the intial proposal and in the paper itself that it fits within the scope of the course. The wide possible scope is on purpose, but negotiating the parameters of the project with the instructor is *required*. For more, see the [course project](project-0.md) specifications page. Note well: half the credit for the project is for the drafting stage, which requires participants to turn in materials on time and completed.
 
 
 ### Infrastructure

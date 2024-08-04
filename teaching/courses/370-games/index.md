@@ -71,6 +71,12 @@ It is too late to enter this year's [Interactive Fiction Competition](https://if
 
 Due to a prior schedule commitment, I will not be available to meet August 29- September 5. On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
 
+### Play
+
+- [The Power of Play: The Unexpected Truth about Play in Nature](https://www.youtube.com/watch?v=AJnBp83iPaA) on Youtube.
+- [Toddler Brothers Being Silly & Playing Together](https://www.youtube.com/watch?v=bYaJQSP9AGM) on YouTube.
+- [3 & 5 Year Old Brothers Playing Together](https://www.youtube.com/watch?v=bSevqOuovBM) on Youtube.
+
 ### Game Theory
 
 * Martin Osborne’s [Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/) is an online book.
@@ -82,3 +88,6 @@ Go to https://ncase.me/trust/. Play the game. Write down two things: (1) Implica
 Sooner or later…
 
 Assignment. Your first creative assignment is to write a simple branching narrative with a walk of at least four nodes. There must be at least two branches. (For those keeping track: this means at least three outcomes, but you can write the story such that paths merge past a branch.)
+
+
+* Play/read ["Lost Pig"](https://ifdb.org/viewgame?id=mohwfk47yjzii14w). 

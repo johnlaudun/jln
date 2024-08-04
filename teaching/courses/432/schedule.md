@@ -1,12 +1,19 @@
 # 432 Agenda
 
-Please note two things: while the table below suggests that this course follows a fixed, calendrical schedule, it is labeled an agenda for a good reason: sometimes discussions move more quickly or more slowly and schedules change. If you miss class, reach out to one of your fellow participants to ascertain where we are in the agenda. 
+Please note two things: while the dates below suggests that this course follows a fixed, calendrical schedule, it is labeled an agenda for a good reason: sometimes discussions move more quickly or more slowly and schedules change. If you miss class, reach out to one of your fellow participants to ascertain where we are in the agenda. 
 
-In most cases, the direct link to an article or other kind of resource is posted below, save items on Moodle. In a number of instances, the direct link is to JSTOR, since that is where a number of folklore studies journals are archived. Please see the note on [accessing materials](guides/access.md) for more information on successfully accessing databases and data repositories.
+In most cases, the direct link to an article or other kind of resource is posted below. In a number of instances, the direct link is to JSTOR, since that is where a number of folklore studies journals are archived. Please see the note on [accessing materials](guides/access.md) for more information on successfully accessing databases and data repositories. For those materials not linked, they will be found in Teams: **Files > readings**. 
 
 **Aug 27**. *Introduction to the Course* includes review of the syllabus, foundational lecture on folklore studies, and discussion of independent work.
 
-**Aug 29, Sep 3 & 5**. *No class meetings*, but there is work.
+**Aug 29, Sep 3 & 5**. *No class meetings*, but there is work. First, read Jakobson and Bogatyrev's short essay and then consider artifacts and products in your own life: are they literary or folkloric? List at least five examples of each and determine if there is something more you can say about either the categories or the boundaries between the categories. That is your response should include two lists and then some synthesis. Due: Labor Day weekend. 
+
+Second, read Dégh and Vázsonyi. (*Warning*: it's much longer, so start as soon as possible.) List the groups of which you are a part and then, using a network graph, try to chart the usual flow of information through those groups. What role do you play? Are you the bridge between groups or are there a number of people who overlap a group? How does that affect the flow of information.) Your assignment is to report on your findings and to submit a network graph of at least three groups of which you are a part. (Please just label everyone not you with their initials: we are not engaged in social graph surveillance in this course.)
+
+Jakobson, Roman, and Petr Bogatyrev. 1971. On the Boundary Between Studies of Folklore and Literature. In _Readings in Russian Poetics: Formalist and Structuralist Views_, 91–93. Edited by Ladislav Matejka and Krystyna Pomorska. Michigan Slavic Productions.
+
+Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. In _Folklore. Performance and Communication_, edited by Dan Ben-Amos, and Kenneth Goldstein, 207–55. Den Haag: Mouton.
+
 
 **Sep 7**: *Satanic Panic Redux* With the Satanic Panic being back in the news, one good way to start this course is by tracing the history of these panics and by talking about rumors and panics in general.
 
@@ -18,7 +25,6 @@ Xiao, Q, W Huang, X Zhang, S Wan, and X Li. 2021. “Internet Rumors During the 
 
 **Sep 14**. *Conduits and Cascades*. 
 
-Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. In _Folklore. Performance and Communication_, edited by Dan Ben-Amos, and Kenneth Goldstein, 207–55. Den Haag: Mouton.
 
 Tangherlini, Timothy. 2017. Toward a Generative Model of Legend: Pizzas, Bridges, Vaccines, and Witches. _Humanities_ 7 (1): 2017. 10.3390/h7010001.
 
@@ -26,7 +32,6 @@ Laudun, John. 2020. The Clown Legend Cascade of 2016. In _Folklore and Social Me
 
 **Sep 21**. *It's Folklore All the Way Down*.
 
-Jakobson, Roman, and Petr Bogatyrev. 1971. On the Boundary Between Studies of Folklore and Literature. In Readings in Russian Poetics: Formalist and Structuralist Views, 91–93. Edited by Ladislav Matejka, and Krystyna Pomorska. 
 
 Shifman, Limor. 2014. _Memes in Digital Culture_. MIT Press.
 
