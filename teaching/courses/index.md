@@ -12,8 +12,8 @@ These are the courses in which I am currently involved:
 * [English 334 Digital Storytelling](334-storytelling/index.md): Digital Storytelling
 * [English 335](courses/335/index.md): Louisiana Folklore
 * [English 370 - Texts](370-ta/index.md): Introduction to Text Analytics
-* [English 370 - Games](370-games/index.md): Narrative Games
-* [English 432](432/index.md): America in Legend Online and Off
+* [English 370 - Games](370-games-syllabus.md): Narrative Games
+* [English 432](432-syllabus.md): America in Legend Online and Off
 * [English 531](531/index.md): Seminar in Narrative Studies
 * [English 632](632/index.md): Proseminar in Folklore Theory
 

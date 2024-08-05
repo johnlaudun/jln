@@ -7,17 +7,15 @@ layout: page
 
 # Teaching
 
-
 ## Courses
 
 * [Honors Academic Writing (115)](courses/115/)
 * [Introduction to Folk Narrative (332)](courses/332/)
-* [Louisiana Folklore (335)](courses/335/) 
-* [Narrative Games (370)](courses/370-games/)
-* [America in Legend Online and Off (432)](courses/432/)
+* [Louisiana Folklore (335)](courses/335/)
+* [Narrative Games (370)](courses/370-games-syllabus.md)
+* [America in Legend Online and Off (432)](courses/432-syllabus.md)
 * [Seminar in Narrative Studies (531)](courses/531/)
 * [Proseminar in Folklore Theory (632)](courses/632/)
-
 
 ## New *Digital Culture & Analytics Curriculum* Courses
 
@@ -25,12 +23,10 @@ layout: page
 * [Digital Storytelling (334)](courses/334-storytelling/)
 * [Introduction to Text Analytics (370)](courses/370-ta/)
 
-
 ## Courses in Development (*Coming Soon!*)
 
 * [What We Think When We Think about Machine Thinking](courses/qh300/index.html)
 * [The Spread of (Mis)Information](courses/qh400/index.html)
-
 
 ## Guides and Statements
 

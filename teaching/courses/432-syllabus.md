@@ -7,7 +7,7 @@ layout: page
 
 <p><img alt="Illustration of Digital Culture's Complex Networks" src="https://loristics.net/images/data-wisdom-theory.jpg" width="350" align = "center"/></p>
 
-ENGL 432 / HLG 321 / W 17:30 – 20:15 / [Schedule](schedule.md)
+ENGL 432 / HLG 321 / W 17:30 – 20:15 / [Schedule](432-schedule.md)
 
 Pr. John Laudun / HLG 356 / W 14:30 – 16:30 & by appt / laudun@louisiana.edu
 
