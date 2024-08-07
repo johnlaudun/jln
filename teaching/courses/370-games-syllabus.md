@@ -66,6 +66,15 @@ It is too late to enter this year's [Interactive Fiction Competition](https://if
 * [The Level Design Book](https://book.leveldesignbook.com/)
 * Map Crow's ["Draw Your DnD World"](https://www.youtube.com/watch?v=dUH-FLcfTmA) is about maps, but it's also about how you should always orient your fiction/game toward actions your audience/player can take. There's a lot of good content on his Youtube channel. For example, in ["How to Build a Better Dungeon"](https://www.youtube.com/watch?v=K3_kKntWcC8) he thinks through the process of creating a dungeon for an RPG gaming session, which includes important narrative elements like how many encounters to have in a map/session and, just as importantly, what kind of themes or premises do you want running throughout the dungeon session. FTR, Map Crow suggests 4-6 encounters per session with maybe 2 of those being substantial combat encounters. His ["Jaquaysing the Dungeon"](https://www.youtube.com/watch?v=yJXnrRd9qns) is useful for thinking about how to enrich the experience of your users-readers-audience.
 
+#### Quantification
+
+One of the things you have to do when you create a game is to start building mechanics of play, and those mechanics are almost always quantifications of abilities and skills as inputs and actions as outcomes. 
+
+* Matthew Colville addresses some of the basics of quantification in ["Worldbuilding: The Demographics of Capital"](https://www.youtube.com/watch?v=h0mTHFjzy80). (*Capital* is the game he was working on.) 
+
+#### Game Narratives
+
+
 ## Schedule
 
 ### Foundations
