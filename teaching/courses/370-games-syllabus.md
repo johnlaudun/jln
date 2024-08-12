@@ -39,40 +39,15 @@ The list of materials, both physical and software, is long. Much of our reading 
 
 More than anything, this course expects and requires that participants be open to new ideas and different kinds of course experiences. This is the first time this course has been offered at UL, and so much of the content, in terms of both readings, lectures, and discussions as well as assignments is exploratory in nature: what do participants need to know to think more clearly about stories and games and the media within which the two combine? 
 
-**Participation** (40%) includes all group activities as well as contribution to in- and out-of-class discussions.
+**Participation** (20%) includes all group activities as well as contribution to in- and out-of-class discussions.
 
-**Assignments** (30%) include all the small assignments that will be completed throughout the semester and which should also be collected in a portfolio at the end of the semester. (The assignment portfolio is part of this grade.)
+**Assignments** (50%) include all the small assignments that will be completed throughout the semester and which should also be collected in a portfolio at the end of the semester. (The assignment portfolio is part of this grade.)
 
 **Project** (30%): participants can choose to work individually or collectively on their *magnum opus* for the course, a narrative game / interactive fiction of a form and in a medium of their choosing. Prior approval of the instructor is required: this course is about ideation, planning, and execution at a high level thanks to drafting and revision; it is not about surprises and last-minute deadline screeching.
 
-## Resources 
+## The Small Print
 
-* Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.) Grids are great for maps of all kinds as well as for planning.
-
-### Interactive Fiction
-
-[Teaching and Learning With Interactive Fiction](https://bdesilets.com/if/) has a lot of resources, including links to famous interactive fictions. (You can download the entire site as a PDF.) There is also the [The Interactive Fiction DatabaseAdventures](https://ifdb.org/) which list interactive fiction and text adventures.
-
-For those interested in writing, interactive fiction there are a lot options in terms of applications that are available. The three below are both free to use and open source. They also have active development and user communities, which means help, advice, and encouragement are never far away. The apps are listed in order of ease-of-use for a beginner. Both Twine and Inky use a plain text markup language which can actually be written in any text editor: Microsoft Visual Studio Code extensions are available for both *twee* and *ink*.
-
-* [Twine](http://twinery.org) is another piece of open source software for creating interactive fiction / non-linear stories. Twine is based on a markup language that you can write in any text editor -- I use , *twee*, as well as *ink* (below). You can also download the free Twine editor which has a GUI that allows you create the kinds of visualizations discussed above.
-* [Ink](https://www.inklestudios.com/ink/) is a easy-to-understand markup language that has Unity and Unreal compatibility. (See the website for about plugins and compatibility.)
-* [Inform](https://ganelson.github.io/inform-website/) is open source software  for creating interactive fiction. It uses something very close to natural language syntax and makes it easy to draft and then compile a playable text-based game. The website has links not only to the download but also to a variety of useful resources on interactive fiction: writing advice, community forums, and example fictions.
-
-It is too late to enter this year's [Interactive Fiction Competition](https://ifcomp.org/), but there's always next year. In the mean time, this year's entries will be released to the public on September 1.
-
-### Game Design
-
-* [The Level Design Book](https://book.leveldesignbook.com/)
-* Map Crow's ["Draw Your DnD World"](https://www.youtube.com/watch?v=dUH-FLcfTmA) is about maps, but it's also about how you should always orient your fiction/game toward actions your audience/player can take. There's a lot of good content on his Youtube channel. For example, in ["How to Build a Better Dungeon"](https://www.youtube.com/watch?v=K3_kKntWcC8) he thinks through the process of creating a dungeon for an RPG gaming session, which includes important narrative elements like how many encounters to have in a map/session and, just as importantly, what kind of themes or premises do you want running throughout the dungeon session. FTR, Map Crow suggests 4-6 encounters per session with maybe 2 of those being substantial combat encounters. His ["Jaquaysing the Dungeon"](https://www.youtube.com/watch?v=yJXnrRd9qns) is useful for thinking about how to enrich the experience of your users-readers-audience.
-
-#### Quantification
-
-One of the things you have to do when you create a game is to start building mechanics of play, and those mechanics are almost always quantifications of abilities and skills as inputs and actions as outcomes. 
-
-* Matthew Colville addresses some of the basics of quantification in ["Worldbuilding: The Demographics of Capital"](https://www.youtube.com/watch?v=h0mTHFjzy80). (*Capital* is the game he was working on.) 
-
-#### Game Narratives
+There is a common set of guidelines/requirements on how to be a participant in a course I facilitate. Read [The Essentials](https://johnlaudun.net/teaching/guides/essentials.html). That note is part of a collections of notes I have compiled over the years in response to common questions and needs. Please consult those [guides](https://johnlaudun.net/teaching/guides/) to see if your question already has an answer. (In all cases, my answer there will be better.)
 
 
 ## Schedule
@@ -99,5 +74,36 @@ Sooner or later…
 
 Assignment. Your first creative assignment is to write a simple branching narrative with a walk of at least four nodes. There must be at least two branches. (For those keeping track: this means at least three outcomes, but you can write the story such that paths merge past a branch.)
 
-
 * Play/read ["Lost Pig"](https://ifdb.org/viewgame?id=mohwfk47yjzii14w). 
+
+## Opportunities
+
+* It is too late to enter this year's [Interactive Fiction Competition](https://ifcomp.org/), but there's always next year. In the mean time, this year's entries will be released to the public on September 1.
+* malev_minis posted about a community challenge for a [One Box Wargame](https://www.instagram.com/p/C-bCbpSS4Jl/). 
+
+## Resources 
+
+* Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.) Grids are great for maps of all kinds as well as for planning.
+
+### Interactive Fiction
+
+[Teaching and Learning With Interactive Fiction](https://bdesilets.com/if/) has a lot of resources, including links to famous interactive fictions. (You can download the entire site as a PDF.) There is also the [The Interactive Fiction DatabaseAdventures](https://ifdb.org/) which list interactive fiction and text adventures.
+
+For those interested in writing, interactive fiction there are a lot options in terms of applications that are available. The three below are both free to use and open source. They also have active development and user communities, which means help, advice, and encouragement are never far away. The apps are listed in order of ease-of-use for a beginner. Both Twine and Inky use a plain text markup language which can actually be written in any text editor: Microsoft Visual Studio Code extensions are available for both *twee* and *ink*.
+
+* [Twine](http://twinery.org) is another piece of open source software for creating interactive fiction / non-linear stories. Twine is based on a markup language that you can write in any text editor -- I use , *twee*, as well as *ink* (below). You can also download the free Twine editor which has a GUI that allows you create the kinds of visualizations discussed above.
+* [Ink](https://www.inklestudios.com/ink/) is a easy-to-understand markup language that has Unity and Unreal compatibility. (See the website for about plugins and compatibility.)
+* [Inform](https://ganelson.github.io/inform-website/) is open source software  for creating interactive fiction. It uses something very close to natural language syntax and makes it easy to draft and then compile a playable text-based game. The website has links not only to the download but also to a variety of useful resources on interactive fiction: writing advice, community forums, and example fictions.
+
+### Game Design
+
+* [The Level Design Book](https://book.leveldesignbook.com/)
+* Map Crow's ["Draw Your DnD World"](https://www.youtube.com/watch?v=dUH-FLcfTmA) is about maps, but it's also about how you should always orient your fiction/game toward actions your audience/player can take. There's a lot of good content on his Youtube channel. For example, in ["How to Build a Better Dungeon"](https://www.youtube.com/watch?v=K3_kKntWcC8) he thinks through the process of creating a dungeon for an RPG gaming session, which includes important narrative elements like how many encounters to have in a map/session and, just as importantly, what kind of themes or premises do you want running throughout the dungeon session. FTR, Map Crow suggests 4-6 encounters per session with maybe 2 of those being substantial combat encounters. His ["Jaquaysing the Dungeon"](https://www.youtube.com/watch?v=yJXnrRd9qns) is useful for thinking about how to enrich the experience of your users-readers-audience.
+
+#### Quantification
+
+One of the things you have to do when you create a game is to start building mechanics of play, and those mechanics are almost always quantifications of abilities and skills as inputs and actions as outcomes. 
+
+* Matthew Colville addresses some of the basics of quantification in ["Worldbuilding: The Demographics of Capital"](https://www.youtube.com/watch?v=h0mTHFjzy80). (*Capital* is the game he was working on.) 
+
+#### Game Narratives
