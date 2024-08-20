@@ -56,11 +56,17 @@ There is a common set of guidelines/requirements on how to be a participant in a
 
 Due to a prior schedule commitment, I will not be available to meet August 29- September 5. On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
 
-### Play
+### Things in Common
 
 - [The Power of Play: The Unexpected Truth about Play in Nature](https://www.youtube.com/watch?v=AJnBp83iPaA) on Youtube.
 - [Toddler Brothers Being Silly & Playing Together](https://www.youtube.com/watch?v=bYaJQSP9AGM) on YouTube.
 - [3 & 5 Year Old Brothers Playing Together](https://www.youtube.com/watch?v=bSevqOuovBM) on Youtube.
+
+* While "theater of the mind" is an overly dramatic turn of phrase, the idea is fairly compelling, and this description captures what's at stake in providing readers and players with the feeling of being there: - [Elevate Your D&D games with "Theater of the Mind"](https://www.youtube.com/watch?v=S3SGt4BsOrg).
+
+### Puzzles
+
+- Dungeon Masterpiece on why[RIVEN is a D&D Puzzle Masterclass](https://www.youtube.com/watch?v=TlQQrh_EmyY).
 
 ### Game Theory
 
@@ -80,10 +86,21 @@ Assignment. Your first creative assignment is to write a simple branching narrat
 
 * It is too late to enter this year's [Interactive Fiction Competition](https://ifcomp.org/), but there's always next year. In the mean time, this year's entries will be released to the public on September 1.
 * malev_minis posted about a community challenge for a [One Box Wargame](https://www.instagram.com/p/C-bCbpSS4Jl/). 
+* It’s okay if you have no interest in working in the games or literary industries. If fan fiction has proven anything, it’s proven that the boundaries between being an amateur and being a professional have long been blurred. Nathalie Lawhead recently gave a [talk](https://www.gamedeveloper.com/design/from-monopolies-to-tiny-tools-by-solo-devs) essentially arguing that hobby makers are important to the games industry.
 
 ## Resources 
 
 * Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.) Grids are great for maps of all kinds as well as for planning.
+* The simple d6 oracle: 6-Yes And, 5-Yes, 4-Yes But, 3-No But, 2-No, 1-No And.
+
+## Podcasts/Channels
+
+There are a lot of podcasts to follow! Some you listen to and some you watch:
+
+- [Critical Roll](https://www.youtube.com/@criticalrole) is the granddaddy of RPG Youtube channels.
+- Trevor Devall's [Me, Myself, & Die](https://www.youtube.com/@MeMyselfandDieRPG) began as a solo RPG effort but grew into a lot more.
+- [The Infernal Schoolhouse](https://infernalschoolhouse.podbean.com/) explores Dungeons and Dragons, retro gaming, and gaming culture.
+- [Worldbuild with Us](https://worldbuildwithus.com/) has a name that tells you what it's about.
 
 ### Interactive Fiction
 
@@ -99,6 +116,7 @@ For those interested in writing, interactive fiction there are a lot options in 
 
 * [The Level Design Book](https://book.leveldesignbook.com/)
 * Map Crow's ["Draw Your DnD World"](https://www.youtube.com/watch?v=dUH-FLcfTmA) is about maps, but it's also about how you should always orient your fiction/game toward actions your audience/player can take. There's a lot of good content on his Youtube channel. For example, in ["How to Build a Better Dungeon"](https://www.youtube.com/watch?v=K3_kKntWcC8) he thinks through the process of creating a dungeon for an RPG gaming session, which includes important narrative elements like how many encounters to have in a map/session and, just as importantly, what kind of themes or premises do you want running throughout the dungeon session. FTR, Map Crow suggests 4-6 encounters per session with maybe 2 of those being substantial combat encounters. His ["Jaquaysing the Dungeon"](https://www.youtube.com/watch?v=yJXnrRd9qns) is useful for thinking about how to enrich the experience of your users-readers-audience.
+* Game Design Skills has a [Player-Centric Crash Course](https://gamedesignskills.com/thank-you-player-centric-framework/) for those who would like to be (video) game designers.
 
 #### Quantification
 
@@ -107,3 +125,7 @@ One of the things you have to do when you create a game is to start building mec
 * Matthew Colville addresses some of the basics of quantification in ["Worldbuilding: The Demographics of Capital"](https://www.youtube.com/watch?v=h0mTHFjzy80). (*Capital* is the game he was working on.) 
 
 #### Game Narratives
+
+Procedurally-Generated
+
+* [Featured Blog | Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
