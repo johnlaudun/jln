@@ -1,11 +1,11 @@
 ---
-title: America in Legend
+title: 432 Syllabus
 layout: page
 ---
 
 # America in Legends Online and Off
 
-<p><img alt="Illustration of Digital Culture's Complex Networks" src="https://loristics.net/images/data-wisdom-theory.jpg" width="350" align = "center"/></p>
+<p><img alt="Illustration of Digital Culture's Complex Networks" src="https://johnlaudun.net/images/data-wisdom-theory.jpg" width="350" align = "center"/></p>
 
 ENGL 432 / HLG 321 / W 17:30 – 20:15 / [Schedule](432-schedule.md)
 

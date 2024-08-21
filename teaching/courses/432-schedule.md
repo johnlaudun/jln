@@ -1,3 +1,8 @@
+---
+title: 432 Schedule
+layout: page
+---
+
 # 432 Agenda
 
 Please note two things: while the dates below suggests that this course follows a fixed, calendrical schedule, it is labeled an agenda for a good reason: sometimes discussions move more quickly or more slowly and schedules change. If you miss class, reach out to one of your fellow participants to ascertain where we are in the agenda. 
@@ -6,11 +11,23 @@ In most cases, the direct link to an article or other kind of resource is posted
 
 **Aug 27**. *Introduction to the Course* includes review of the syllabus, foundational lecture on folklore studies, and discussion of independent work.
 
-**Aug 29, Sep 3 & 5**. *No class meetings*, but there is work. First, read Jakobson and Bogatyrev's short essay and then consider artifacts and products in your own life: are they literary or folkloric? List at least five examples of each and determine if there is something more you can say about either the categories or the boundaries between the categories. That is your response should include two lists and then some synthesis. Due: Labor Day weekend. 
+**Aug 29, Sep 3 & 5**. *No class meetings*, but there is work. See below.
 
-Second, read Dégh and Vázsonyi. (*Warning*: it's much longer, so start as soon as possible.) List the groups of which you are a part and then, using a network graph, try to chart the usual flow of information through those groups. What role do you play? Are you the bridge between groups or are there a number of people who overlap a group? How does that affect the flow of information.) Your assignment is to report on your findings and to submit a network graph of at least three groups of which you are a part. (Please just label everyone not you with their initials: we are not engaged in social graph surveillance in this course.)
+**Aug 29**. First, read Jakobson and Bogatyrev's short essay and then consider artifacts and products in your own life: are they literary or folkloric? List at least five examples of each and determine if there is something more you can say about either the categories or the boundaries between the categories. That is your response should include two lists and then some synthesis. Due: Labor Day weekend. 
 
 Jakobson, Roman, and Petr Bogatyrev. 1971. On the Boundary Between Studies of Folklore and Literature. In _Readings in Russian Poetics: Formalist and Structuralist Views_, 91–93. Edited by Ladislav Matejka and Krystyna Pomorska. Michigan Slavic Productions.
+
+**Sep 3**. Read Bascom’s “Four Functions of Folklore.” Make sure you understand both contexts and functions. Apply Bascom’s heuristic to one item from your list from the previous assignment. Due by Friday, Sep 6.
+
+Bascom, William. 1954. Four Functions of Folklore. *Journal of American Folklore* 67 (266): 333-349. https://www.jstor.org/stable/10.2307/536411.
+
+**Sep 5**. Read O’Connor and Weatherall’s “Why We Trust Lies.” Neither of them are folklorists: what are their backgrounds and how do you think that affects their understanding of information, of learning, and of trust? Come to class on Tuesday, September 10 to synthesize this essay with the other things you have encountered in this course so far, including the first day’s lecture.
+
+O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most Effective Misinformation Starts with Seeds of Truth. *Scientific American* September: 54-61. 
+
+---
+
+Read Dégh and Vázsonyi. (*Warning*: it's much longer, so start as soon as possible.) List the groups of which you are a part and then, using a network graph, try to chart the usual flow of information through those groups. What role do you play? Are you the bridge between groups or are there a number of people who overlap a group? How does that affect the flow of information.) Your assignment is to report on your findings and to submit a network graph of at least three groups of which you are a part. (Please just label everyone not you with their initials: we are not engaged in social graph surveillance in this course.)
 
 Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. In _Folklore. Performance and Communication_, edited by Dan Ben-Amos, and Kenneth Goldstein, 207–55. Den Haag: Mouton.
 
