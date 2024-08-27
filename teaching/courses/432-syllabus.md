@@ -5,7 +5,7 @@ layout: page
 
 # America in Legends Online and Off
 
-<p><img alt="Illustration of Digital Culture's Complex Networks" src="https://johnlaudun.net/images/data-wisdom-theory.jpg" width="350" align = "center"/></p>
+<p><img alt="Illustration of Digital Culture's Complex Networks" src="https://johnlaudun.net/teaching/images/data-wisdom-theory.jpg" width="350" align = "center"/></p>
 
 ENGL 432 / HLG 321 / W 17:30 – 20:15 / [Schedule](432-schedule.md)
 
@@ -29,7 +29,7 @@ A great deal of the readings are scholarly in nature and will be available eithe
 
 Shifman, Limor. 2014. _Memes in Digital Culture_. MIT Press.
 
-Please arrange to purchase the book through your preferred vendor. (Please make sure you have a complete version of the book and can access it readily.) Depending upon the make-up of the class and emergent interests, there may be a second book to purchase, so be sure to set aside a portion of your budget for that expense, in addition to the cost of printing other materials as needed. I strongly recommend spending the little bit of money required to print PDFs. Print them, mark on them, doodle on them, highlight them. Studies have shown that hand-written notes are better for intellectual development. I suspect the same will eventually be discovered for reading.
+Please arrange to purchase the book through your preferred vendor. (Please make sure you have a complete version of the book and can access it readily.) Depending upon the make-up of the class and emergent interests, there may be a second book to purchase, so be sure to set aside a portion of your budget for that expense, in addition to the cost of printing other materials as needed. I strongly recommend spending the little bit of money to print PDFs. Print them, mark on them, doodle on them, highlight them. Studies have shown that hand-written notes are better for intellectual development. I suspect the same will eventually be discovered for reading.
 
 
 ### Assignments
@@ -57,3 +57,6 @@ A map of this floor is posted near the elevator marking the evacuation route and
 
 The university maintains a wide variety of services and centers designed to help students who have either ongoing or emergent needs. Please do not hesitate to contact [Academic Support Services](http://louisiana.edu/academics/academic-support-services), and don’t be embarrassed to talk to me.
 
+## Schedule
+
+In addition to the link at the top of this document, there is a link [here](432-schedule.md).
