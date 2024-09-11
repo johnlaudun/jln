@@ -23,7 +23,18 @@ Bascom, William. 1954. Four Functions of Folklore. *Journal of American Folklore
 
 **Sep 5**. Read O’Connor and Weatherall’s “Why We Trust Lies.” Neither of them are folklorists: what are their backgrounds and how do you think that affects their understanding of information, of learning, and of trust? Come to class on Tuesday, September 10 to synthesize this essay with the other things you have encountered in this course so far, including the first day’s lecture.
 
-O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most Effective Misinformation Starts with Seeds of Truth. *Scientific American* September: 54-61. 
+O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most Effective Misinformation Starts with Seeds of Truth. *Scientific American* September: 54-61.
+
+**Sep 10**. Today's discussion will focus on eliciting the important dimensions from what we read and synthesizing them into the larger conceptual framework which undergirds this course.
+
+**Sep 12**. Read Burke's "Literature as Equipment for Living." In that essay, Burke argues, first, that proverbs aren't simply things we say, but rather we do things with them. One of the things they do is name situations, giving us a way to deal with them. He then argues that other genres of discourse do something similar. Novels, for example, name situations. Following Burke, you could argue that pop songs name situations, or, as we might put it, "speak for us." As you read Burke, find at least one situation that has multiple proverbs associated with it and list the proverbs, noting how the different proverbs offer different ways of understanding and treating the situation. As you read about the second section, list a novel and/or song(s) that speak for you. You might find that certain songs are associated with certain moments in your life. How and why did that happen?
+
+**Sep 17**. 
+
+
+---
+
+***Everything below is not yet a part of the schedule.***
 
 ---
 
