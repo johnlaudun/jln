@@ -32,6 +32,7 @@ O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most
 **Sep 17**. 
 
 
+
 ---
 
 ***Everything below is not yet a part of the schedule.***
@@ -42,8 +43,10 @@ Read Dégh and Vázsonyi. (*Warning*: it's much longer, so start as soon as poss
 
 Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. In _Folklore. Performance and Communication_, edited by Dan Ben-Amos, and Kenneth Goldstein, 207–55. Den Haag: Mouton.
 
+Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. _Journal of Political Economy_ 100 (5): 992-1026. 10.2307/2138632.
 
-**Sep 7**: *Satanic Panic Redux* With the Satanic Panic being back in the news, one good way to start this course is by tracing the history of these panics and by talking about rumors and panics in general.
+
+**DAY**: *Satanic Panic Redux* With the Satanic Panic being back in the news, one good way to start this course is by tracing the history of these panics and by talking about rumors and panics in general.
 
 Ellis, Bill. 1989. “Death By Folklore: Ostension, Contemporary Legend, and Murder.” *Western Folklore* 48 (3): 201–20. DOI: 10.2307/1499739.
 
@@ -51,19 +54,19 @@ Victor, Jeffrey. 1990. “Satanic Cult Rumors as Contemporary Legend.” *Wester
 
 Xiao, Q, W Huang, X Zhang, S Wan, and X Li. 2021. “Internet Rumors During the Covid-19 Pandemic: Dynamics of Topics and Public Psychologies.” *Frontiers in Public Health* 9: 788848. DOI: 10.3389/fpubh.2021.788848.
 
-**Sep 14**. *Conduits and Cascades*. 
+**DAY**. *Conduits and Cascades*. 
 
 
 Tangherlini, Timothy. 2017. Toward a Generative Model of Legend: Pizzas, Bridges, Vaccines, and Witches. _Humanities_ 7 (1): 2017. 10.3390/h7010001.
 
 Laudun, John. 2020. The Clown Legend Cascade of 2016. In _Folklore and Social Media_, edited by Andrew Peck and Trevor J. Blank, 188–208. University Press of Colorado. 10.2703/j.ctv19fvx6q.14.
 
-**Sep 21**. *It's Folklore All the Way Down*.
+**DAY**. *It's Folklore All the Way Down*.
 
 
 Shifman, Limor. 2014. _Memes in Digital Culture_. MIT Press.
 
-**Sep 28**. *Case Studies*. 
+**DAY**. *Case Studies*. 
 
 Ellis, Bill. 2015. What Bronies See When They Brohoof: Queering Animation on the Dark and Evil Internet. Journal of American Folklore 128/509: 298-314. muse.jhu.edu/article/589182.
 
@@ -71,27 +74,27 @@ Bock, Sheila. 2017. "Ku Klux Kasserole and Strange Fruit Pies: A Shouting Match 
 
 Klein, C, P Clutton, and AG Dunn. 2019. Pathways to Conspiracy: The Social and Linguistic Precursors of Involvement in Reddit’s Conspiracy Theory Forum. _PLoS One_ 14 (11): e0225098.
 
-**Oct 5**. *More Case Studies.*
+**DAY**. *More Case Studies.*
 
 Blank, Trevor. 2015. “Faux Your Entertainment: Amazon.com Product Reviews as a Locus of Digital Performance.” Journal of American Folklore 128 (509): 286–97. https://doi.org/10.5406/jamerfolk.128.509.0286. 
 
-**Oct 12**. *Mid-Term Assignment*: research proposal that includes 100-200 words of proposal; 100-200 word description of data collected so far or plans for data collection; and 3-5 scientific/scholarly publications upon which you might draw for insight into your materials.
+**DAY**. *Mid-Term Assignment*: research proposal that includes 100-200 words of proposal; 100-200 word description of data collected so far or plans for data collection; and 3-5 scientific/scholarly publications upon which you might draw for insight into your materials.
 
-**Oct 19**. *TBD*. Both this week and next we will read materials that are drawn from convergences in your research projects. (Don't worry: we will engage in an in-class activity that will help to determine what these are.) 
+**DAY**. *TBD*. Both this week and next we will read materials that are drawn from convergences in your research projects. (Don't worry: we will engage in an in-class activity that will help to determine what these are.) 
 
-**Oct 26**. *See above.*
+**DAY**. *See above.*
 
-**Nov 2**. *Course Project 1*. Basic corpus of materials due.
+**DAY**. *Course Project 1*. Basic corpus of materials due.
 
 D’Ignazio, Catherine, & Klein, Lauren. 2020. The Numbers Don’t Speak for Themselves. In _Data Feminism_. Retrieved from https://data-feminism.mitpress.mit.edu/pub/czq9dfs5.
 
-**Nov 9**. *Course Project 2*. Annotated bibliography of scholarly sources due.
+**DAY**. *Course Project 2*. Annotated bibliography of scholarly sources due.
 
-**Nov 16**. *Course Project 3*. Draft body paragraphs due.
+**DAY**. *Course Project 3*. Draft body paragraphs due.
 
-**Nov 30**. *Course Project 4*. First draft of analytical essay due.
+**DAY**. *Course Project 4*. First draft of analytical essay due.
 
-**Dec 7**. *Course Project 5*. Final draft of essay due.
+**DAY**. *Course Project 5*. Final draft of essay due.
 
 
 ## Resources
