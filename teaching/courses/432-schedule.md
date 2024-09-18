@@ -9,6 +9,8 @@ Please note two things: while the dates below suggests that this course follows 
 
 In most cases, the direct link to an article or other kind of resource is posted below. In a number of instances, the direct link is to JSTOR, since that is where a number of folklore studies journals are archived. Please see the note on [accessing materials](guides/access.md) for more information on successfully accessing databases and data repositories. For those materials not linked, they will be found in Teams: **Files > readings**. 
 
+## Foundations 
+
 **Aug 27**. *Introduction to the Course* includes review of the syllabus, foundational lecture on folklore studies, and discussion of independent work.
 
 **Aug 29, Sep 3 & 5**. *No class meetings*, but there is work. See below.
@@ -29,8 +31,31 @@ O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most
 
 **Sep 12**. Read Burke's "Literature as Equipment for Living." In that essay, Burke argues, first, that proverbs aren't simply things we say, but rather we do things with them. One of the things they do is name situations, giving us a way to deal with them. He then argues that other genres of discourse do something similar. Novels, for example, name situations. Following Burke, you could argue that pop songs name situations, or, as we might put it, "speak for us." As you read Burke, find at least one situation that has multiple proverbs associated with it and list the proverbs, noting how the different proverbs offer different ways of understanding and treating the situation. As you read about the second section, list a novel and/or song(s) that speak for you. You might find that certain songs are associated with certain moments in your life. How and why did that happen?
 
-**Sep 17**. 
+## Conduits & Cascades
 
+Beyond the core concepts of folklore studies, there are some particular concepts, and terms, we need to include within our analytical toolkit in order to understand how online "communities" work. (The quotation marks indicate that we need to think about how we use terms: what it naturalizes and what it does not.)
+
+**Sep 17**. Read Dégh and Vázsonyi's essay on the "Multi-Conduit Transmission in Folklore." Exercise: List the groups of which you are a part and then, using a network graph, try to chart the usual flow of information through those groups. What role do you play? Are you the bridge between groups or are there a number of people who overlap a group? How does that affect the flow of information.) Your assignment is to report on your findings and to submit a network graph of at least three groups of which you are a part. (Please just label everyone not you with their initials: we are not engaged in social graph surveillance in this course.)
+
+Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. In _Folklore. Performance and Communication_, edited by Dan Ben-Amos, and Kenneth Goldstein, 207–55. Den Haag: Mouton.
+
+**Sep 19**. Read Bikhchandani et al. 
+
+Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. _Journal of Political Economy_ 100 (5): 992-1026. 10.2307/2138632.
+
+**Sep 24**. Read: Ellis. These days it seems we just go from one panic to another. 
+
+Ellis, Bill. 1989. “Death By Folklore: Ostension, Contemporary Legend, and Murder.” *Western Folklore* 48 (3): 201–20. DOI: 10.2307/1499739.
+
+**Sep 26**. Read Laudun 2020. 
+
+Laudun, John. 2020. The Clown Legend Cascade of 2016. In _Folklore and Social Media_, edited by Andrew Peck and Trevor J. Blank, 188–208. University Press of Colorado. 10.2703/j.ctv19fvx6q.14.
+
+**Oct 1**. Read Tangherlini et al.
+
+Tangherlini, Timothy. 2017. Toward a Generative Model of Legend: Pizzas, Bridges, Vaccines, and Witches. _Humanities_ 7 (1): 2017. 10.3390/h7010001.
+
+Shifman, Limor. 2014. _Memes in Digital Culture_. MIT Press.
 
 
 ---
@@ -39,32 +64,12 @@ O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most
 
 ---
 
-Read Dégh and Vázsonyi. (*Warning*: it's much longer, so start as soon as possible.) List the groups of which you are a part and then, using a network graph, try to chart the usual flow of information through those groups. What role do you play? Are you the bridge between groups or are there a number of people who overlap a group? How does that affect the flow of information.) Your assignment is to report on your findings and to submit a network graph of at least three groups of which you are a part. (Please just label everyone not you with their initials: we are not engaged in social graph surveillance in this course.)
 
-Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. In _Folklore. Performance and Communication_, edited by Dan Ben-Amos, and Kenneth Goldstein, 207–55. Den Haag: Mouton.
-
-Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. _Journal of Political Economy_ 100 (5): 992-1026. 10.2307/2138632.
-
-
-**DAY**: *Satanic Panic Redux* With the Satanic Panic being back in the news, one good way to start this course is by tracing the history of these panics and by talking about rumors and panics in general.
-
-Ellis, Bill. 1989. “Death By Folklore: Ostension, Contemporary Legend, and Murder.” *Western Folklore* 48 (3): 201–20. DOI: 10.2307/1499739.
 
 Victor, Jeffrey. 1990. “Satanic Cult Rumors as Contemporary Legend.” *Western Folklore* 49 (1): 51–81. DOI: 10.2307/1499482.
 
 Xiao, Q, W Huang, X Zhang, S Wan, and X Li. 2021. “Internet Rumors During the Covid-19 Pandemic: Dynamics of Topics and Public Psychologies.” *Frontiers in Public Health* 9: 788848. DOI: 10.3389/fpubh.2021.788848.
 
-**DAY**. *Conduits and Cascades*. 
-
-
-Tangherlini, Timothy. 2017. Toward a Generative Model of Legend: Pizzas, Bridges, Vaccines, and Witches. _Humanities_ 7 (1): 2017. 10.3390/h7010001.
-
-Laudun, John. 2020. The Clown Legend Cascade of 2016. In _Folklore and Social Media_, edited by Andrew Peck and Trevor J. Blank, 188–208. University Press of Colorado. 10.2703/j.ctv19fvx6q.14.
-
-**DAY**. *It's Folklore All the Way Down*.
-
-
-Shifman, Limor. 2014. _Memes in Digital Culture_. MIT Press.
 
 **DAY**. *Case Studies*. 
 

@@ -90,8 +90,10 @@ Assignment. Your first creative assignment is to write a simple branching narrat
 
 ## Resources 
 
-* Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.) Grids are great for maps of all kinds as well as for planning.
-* The simple d6 oracle: 6-Yes And, 5-Yes, 4-Yes But, 3-No But, 2-No, 1-No And.
+- The simple d6 oracle: 6-Yes And, 5-Yes, 4-Yes But, 3-No But, 2-No, 1-No And.
+- Incompetech has a grid generator as well as pre-formatted grid PDFs you can print: [Grid Paper PDFs](https://incompetech.com/graphpaper/). (Feel free to search for “grid generator” to see what else is out there.) Grids are great for maps of all kinds as well as for planning.
+- [The Crooked Staff Blog](https://www.crookedstaff.co.uk/) offers a wide variety of fantasy and scifi architecture and furniture PDFs that you print, glue onto cardboard or foam core board, and then cut out. It's impressive.
+- [Dungeon Scrawl](https://app.dungeonscrawl.com/) lets you create dungeons simply by clicking and dragging to create corridors and rooms. It's a lot of fun.
 
 ## Podcasts/Channels
 
