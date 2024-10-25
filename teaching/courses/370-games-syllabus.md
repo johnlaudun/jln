@@ -116,6 +116,7 @@ For those interested in writing, interactive fiction there are a lot options in 
 
 ### Game Design
 
+* For a one-stop shop for a variety of game development topics,  [GDC’s YouTube channel](https://www.youtube.com/@Gdconf/playlists) is impressive. We watch some of these videos as part of this course.
 * [The Level Design Book](https://book.leveldesignbook.com/)
 * Map Crow's ["Draw Your DnD World"](https://www.youtube.com/watch?v=dUH-FLcfTmA) is about maps, but it's also about how you should always orient your fiction/game toward actions your audience/player can take. There's a lot of good content on his Youtube channel. For example, in ["How to Build a Better Dungeon"](https://www.youtube.com/watch?v=K3_kKntWcC8) he thinks through the process of creating a dungeon for an RPG gaming session, which includes important narrative elements like how many encounters to have in a map/session and, just as importantly, what kind of themes or premises do you want running throughout the dungeon session. FTR, Map Crow suggests 4-6 encounters per session with maybe 2 of those being substantial combat encounters. His ["Jaquaysing the Dungeon"](https://www.youtube.com/watch?v=yJXnrRd9qns) is useful for thinking about how to enrich the experience of your users-readers-audience.
 * Game Design Skills has a [Player-Centric Crash Course](https://gamedesignskills.com/thank-you-player-centric-framework/) for those who would like to be (video) game designers.

@@ -11,35 +11,23 @@ In most cases, the direct link to an article or other kind of resource is posted
 
 ## Foundations 
 
-**Aug 27**. *Introduction to the Course* includes review of the syllabus, foundational lecture on folklore studies, and discussion of independent work.
-
-**Aug 29, Sep 3 & 5**. *No class meetings*, but there is work. See below.
-
-**Aug 29**. First, read Jakobson and Bogatyrev's short essay and then consider artifacts and products in your own life: are they literary or folkloric? List at least five examples of each and determine if there is something more you can say about either the categories or the boundaries between the categories. That is your response should include two lists and then some synthesis. Due: Labor Day weekend. 
+**Week 1: Essentials**. On the first day of the course, after we review the syllabus, we lay out some foundational concepts in folklore studies. For the following class, we read Jakobson and Bogatyrev's short essay and then consider artifacts and products in your own life: are they literary or folkloric? List at least five examples of each and determine if there is something more you can say about either the categories or the boundaries between the categories. That is your response should include two lists and then some synthesis.
 
 Jakobson, Roman, and Petr Bogatyrev. 1971. On the Boundary Between Studies of Folklore and Literature. In _Readings in Russian Poetics: Formalist and Structuralist Views_, 91–93. Edited by Ladislav Matejka and Krystyna Pomorska. Michigan Slavic Productions.
 
-**Sep 3**. Read Bascom’s “Four Functions of Folklore.” Make sure you understand both contexts and functions. Apply Bascom’s heuristic to one item from your list from the previous assignment. Due by Friday, Sep 6.
+**Week 2: Functions**. Read Bascom’s “Four Functions of Folklore.” Make sure you understand both contexts and functions. Apply Bascom’s heuristic to one item from your list from the previous assignment. Afterwards, read Burke's "Literature as Equipment for Living." In that essay, Burke argues, first, that proverbs aren't simply things we say, but rather we do things with them. One of the things they do is name situations, giving us a way to deal with them. He then argues that other genres of discourse do something similar. Novels, for example, name situations. Following Burke, you could argue that pop songs name situations, or, as we might put it, "speak for us." As you read Burke, find at least one situation that has multiple proverbs associated with it and list the proverbs, noting how the different proverbs offer different ways of understanding and treating the situation. As you read about the second section, list a novel and/or song(s) that speak for you. You might find that certain songs are associated with certain moments in your life. How and why did that happen?
 
 Bascom, William. 1954. Four Functions of Folklore. *Journal of American Folklore* 67 (266): 333-349. https://www.jstor.org/stable/10.2307/536411.
 
-**Sep 5**. Read O’Connor and Weatherall’s “Why We Trust Lies.” Neither of them are folklorists: what are their backgrounds and how do you think that affects their understanding of information, of learning, and of trust? Come to class on Tuesday, September 10 to synthesize this essay with the other things you have encountered in this course so far, including the first day’s lecture.
+Burke, Kenneth. 1941. Literature as Equipment for Living. In *The Philosophy of Literary Form*, 293-304. University of California Press.
 
-O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most Effective Misinformation Starts with Seeds of Truth. *Scientific American* September: 54-61.
-
-**Sep 10**. Today's discussion will focus on eliciting the important dimensions from what we read and synthesizing them into the larger conceptual framework which undergirds this course.
-
-**Sep 12**. Read Burke's "Literature as Equipment for Living." In that essay, Burke argues, first, that proverbs aren't simply things we say, but rather we do things with them. One of the things they do is name situations, giving us a way to deal with them. He then argues that other genres of discourse do something similar. Novels, for example, name situations. Following Burke, you could argue that pop songs name situations, or, as we might put it, "speak for us." As you read Burke, find at least one situation that has multiple proverbs associated with it and list the proverbs, noting how the different proverbs offer different ways of understanding and treating the situation. As you read about the second section, list a novel and/or song(s) that speak for you. You might find that certain songs are associated with certain moments in your life. How and why did that happen?
-
-## Conduits & Cascades
+**Week 3: Conduits & Cascades**. 
 
 Beyond the core concepts of folklore studies, there are some particular concepts, and terms, we need to include within our analytical toolkit in order to understand how online "communities" work. (The quotation marks indicate that we need to think about how we use terms: what it naturalizes and what it does not.)
 
-**Sep 17**. Read Dégh and Vázsonyi's essay on the "Multi-Conduit Transmission in Folklore." Exercise: List the groups of which you are a part and then, using a network graph, try to chart the usual flow of information through those groups. What role do you play? Are you the bridge between groups or are there a number of people who overlap a group? How does that affect the flow of information.) Your assignment is to report on your findings and to submit a network graph of at least three groups of which you are a part. (Please just label everyone not you with their initials: we are not engaged in social graph surveillance in this course.)
+First, ead Dégh and Vázsonyi's essay on the "Multi-Conduit Transmission in Folklore." Exercise: List the groups of which you are a part and then, using a network graph, try to chart the usual flow of information through those groups. What role do you play? Are you the bridge between groups or are there a number of people who overlap a group? How does that affect the flow of information.) Your assignment is to report on your findings and to submit a network graph of at least three groups of which you are a part. (Please just label everyone not you with their initials: we are not engaged in social graph surveillance in this course.) We follow up the discussion of conduits with a foundational essay in network theory and read Bikhchandani et al. 
 
 Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. In _Folklore. Performance and Communication_, edited by Dan Ben-Amos, and Kenneth Goldstein, 207–55. Den Haag: Mouton.
-
-**Sep 19**. Read Bikhchandani et al. 
 
 Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. _Journal of Political Economy_ 100 (5): 992-1026. 10.2307/2138632.
 
@@ -63,6 +51,10 @@ Shifman, Limor. 2014. _Memes in Digital Culture_. MIT Press.
 ***Everything below is not yet a part of the schedule.***
 
 ---
+
+Read O’Connor and Weatherall’s “Why We Trust Lies.” Neither of them are folklorists: what are their backgrounds and how do you think that affects their understanding of information, of learning, and of trust? Come to class on Tuesday, September 10 to synthesize this essay with the other things you have encountered in this course so far, including the first day’s lecture.
+
+O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most Effective Misinformation Starts with Seeds of Truth. *Scientific American* September: 54-61.
 
 
 
