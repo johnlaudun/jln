@@ -115,4 +115,4 @@ Laudun, John. 2020. The Clown Legend Cascade of 2016. In _Folklore and Social Me
 
 O’Connor, Cailin, and James Owen Weatherall. 2019. Why We Trust Lies: The Most Effective Misinformation Starts with Seeds of Truth. *Scientific American* September: 54-61.
 
-Tangherlini, Timothy. 2017. Toward a Generative Model of Legend: Pizzas, Bridges, Vaccines, and Witches. _Humanities_ 7 (1): 2017. 10.3390/h7010001.
+Tangherlini, Timothy, Vwani Roychowdhury, and Peter Broadwell. 2020. Bridges, Sex Slaves, Tweets, and Guns: A Multi-Domain Model of Conspiracy Theory. In *Folklore and Social Media*, eds. Andrew Peck, and Trevor Blank, 39-65. University Press of Colorado, Utah State University Press. https://www.jstor.org/stable/10.2307/j.ctv19fvx6q.

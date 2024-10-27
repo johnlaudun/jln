@@ -19,7 +19,13 @@ This course aims to provide participants with the necessary tools and skills to 
 
 ## Materials
 
-The list of materials, both physical and software, is long. Much of our reading will be in pieces either already available online and/or for download or provided via the Teams instance. 
+There is a textbook for this class:
+
+Heussner, Tobias, Toiya Kristen Finley, Jennifer Brandes Hepler, and Ann Lemay. 2023. *The Game Narrative Toolbox*. Focal Press Game Design Workshops.
+
+As far as textbooks goes, it is a useful compromise. (Suggestions for better are welcome.) There will be additional readings available online, via portals like JSTOR, or under the files tab in our Teams instance.
+
+In addition to the textbook, there is also a list of materials: 
 
 ### Hardware
 
@@ -49,12 +55,13 @@ More than anything, this course expects and requires that participants be open t
 
 There is a common set of guidelines/requirements on how to be a participant in a course I facilitate. Read [The Essentials](https://johnlaudun.net/teaching/guides/essentials.html). That note is part of a collections of notes I have compiled over the years in response to common questions and needs. Please consult those [guides](https://johnlaudun.net/teaching/guides/) to see if your question already has an answer. (In all cases, my answer there will be better.)
 
+## Agenda
 
-## Schedule
+Please note that this course follows an agenda, not a schedule. The actual timing of discussions will be determined by the interest, experience, and expertise in the room. Some topics will expand; others will contract. If you are unsure about the date for a particular reading or discussion or assignment, first check Teams to see if an update has been posted and then check with a classmate. 
 
 ### Foundations
 
-Due to a prior schedule commitment, I will not be available to meet August 29- September 5. On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
+On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
 
 ### Things in Common
 
