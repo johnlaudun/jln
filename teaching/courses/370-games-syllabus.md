@@ -139,3 +139,5 @@ One of the things you have to do when you create a game is to start building mec
 Procedurally-Generated
 
 * [Featured Blog | Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
+
+The award for TTRPGs is called the [Ennies](https://ennie-awards.com/) which are given out at GenCon every year.
