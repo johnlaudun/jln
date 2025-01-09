@@ -4,14 +4,14 @@ title: Interactive Fictions and Narrative Games
 
 ![Branching Fiction Map](370-games-syllabus-image-1.png)
 
-# Interactive Fictions & Narrative Games
+# Narrative Games
 ENGL 370-002 / TuTh 12:30-13:45 / HLG 320
 
 Pr. John Laudun / HLG 356 / laudun@louisiana.edu
 
 ## Description
 
-Branching narratives, interactive fiction, text adventures, CYOA (Choose Your Own Adventure) all describe a form of entertainment—be it literary, performed in a group, or in a video game—in which a reader is given choices and their choices determine the nature and outcome of the story. This course explores the history of narrative games, from collaborative storytelling in oral cultures to the robust open-world games to cinematic universes in which multiple storylines exist (and sometimes interact). Course inputs include reading, viewing, and playing. Course outputs include analytical explorations of forms and mechanisms and the development of fictions of your own.
+Branching narratives, interactive fiction, text adventures, CYOA (Choose Your Own Adventure) all describe a form of entertainment—be it literary, performed in a group, or in a video game—in which a reader is given choices and their choices determine the nature and outcome of the story. This course surveys the history of narrative games, from collaborative storytelling in oral cultures to the robust open-world games to cinematic universes in which multiple storylines exist (and sometimes interact). Course inputs include reading, viewing, and playing. Course outputs include analytical explorations of forms and mechanisms and the development of games of your own.
 
 ## Objectives
 
@@ -37,19 +37,20 @@ In addition to the textbook, there is also a list of materials:
 ### Software
 
 * In addition to these physical materials, participants will of course need to access to a computer and software. The university provides a license to Office 365. Use of Teams is mandatory, and you might as well use the other apps as well. There is a fair amount of writing in this course, much of it structured, and so familiarity with the outline view and the relationship between outline headings and styles is highly recommended. PowerPoint can be an interesting platform for interactive fiction with its ability to have clickable links between non-sequential slides.
-* We will be using network graphs to represent interactive fictions and narrative games. You can create simple diagrams in presentation software like PowerPoint or Keynote, but anything more than a few nodes high/deep quickly becomes about managing readability and not about being generating ideas. There are a variety of mind-mapping, as well as diagramming, applications available. Please familiarize yourself with one: you will be making network visualizations both for analysis as well as creativity.
-* In some cases, the paths available to a reader are actually places within a storyworld -- rooms in a house or buildings in a town -- and authors of those fictions/games may find diagramming software useful. (We will still use networks to visualize reader/player paths through a game/fiction.)
-* For those interested in text-based storytelling, there are multiple open source applications available for writing and compiling playable stories/games. (See **Resources** below for descriptions and links.)
+* We will be using network graphs to represent interactive fictions and narrative games. You can create simple diagrams in presentation software like PowerPoint or Keynote, but anything more than a few nodes high/deep quickly becomes about managing readability and not about being generating ideas. There are a variety of mind-mapping, as well as diagramming, applications available. Please familiarize yourself with one: you will be making network visualizations both for analysis as well as creativity. (In some cases, the paths available to a reader are actually places within a storyworld -- rooms in a house or buildings in a town -- and authors of those fictions/games may find diagramming software useful.)
+* For prototyping, we will use Twine, which is one of several open source options for creating interactive fictions / RPGs. 
 
 ## Grading
 
-More than anything, this course expects and requires that participants be open to new ideas and different kinds of course experiences. This is the first time this course has been offered at UL, and so much of the content, in terms of both readings, lectures, and discussions as well as assignments is exploratory in nature: what do participants need to know to think more clearly about stories and games and the media within which the two combine? 
+More than anything, this course expects and requires that participants be open to new ideas and different kinds of course experiences. This course was first offered in 2024, and it remains exploratory in many ways, always seeking to answer the question: what do participants need to know to think more clearly about stories and games and the media within which the two combine? 
 
 **Participation** (20%) includes all group activities as well as contribution to in- and out-of-class discussions.
 
-**Assignments** (50%) include all the small assignments that will be completed throughout the semester and which should also be collected in a portfolio at the end of the semester. (The assignment portfolio is part of this grade.)
+In the case of both the TTRPG and the CRPG assignments, they are made up of first an essay in which you analyze a narrative game and then a prototype of your own devising. In all cases, prior approval of the instructor is required: this course is about ideation, planning, and execution at a high level thanks to drafting and revision; it is not about surprises and last-minute deadline screeching.
 
-**Project** (30%): participants can choose to work individually or collectively on their *magnum opus* for the course, a narrative game / interactive fiction of a form and in a medium of their choosing. Prior approval of the instructor is required: this course is about ideation, planning, and execution at a high level thanks to drafting and revision; it is not about surprises and last-minute deadline screeching.
+**TTRPG** (40%). Table-Top Role-Playing Games are a great way to “see” the mechanics that underlie computer games and other automated systems. 
+
+**RPG** (40%): Computer Role-Playing Games are what most people think about if they don’t think about *Dungeons and Dragons* first. As our textbook makes clear, most CRPGs are created by teams for a reason: there’s a lot to the end product. Here, we are prototyping a game, using Twine as the basis: there is a surprising amount of functionality under its hood and it keeps you focused on the essentials of good narrative game design: the critical path and the choices you present the player.
 
 ## The Small Print
 
@@ -62,6 +63,14 @@ Please note that this course follows an agenda, not a schedule. The actual timin
 ### Foundations
 
 On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
+
+### TTRPGs
+
+**Analysis**. You are free to choose any TTRPG for your analysis your analytical essay, but I do recommend considering a smaller TTRPG (one whose rule set is less than 100 pages). 
+
+**Build**. The rule set for your TTRPG must be at least 1000 words. It must contain clear directions. It is recommended that you do not require players to have too many particular materials, though it is not unreasonable to require figures. (If you have particular figures in mind and can point people to their 3D print files, then all the better.) Focus on games playable in small spaces (no more than 24 x 24 inches). 
+
+## Resources
 
 ### Things in Common
 

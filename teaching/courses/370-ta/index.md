@@ -8,7 +8,7 @@ layout: page
 
 Pr. John Laudun / HLG 356 / laudun@louisiana.edu
 
-ENGL 370 TR 11:00--12:15 (Oliver 202)
+ENGL 370 TR 12:30--13:45 (HLG 320)
 
 ## Description
 
