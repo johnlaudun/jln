@@ -5,10 +5,10 @@ layout: page
 
 # Seminar in Narrative Studies
 
-ENGL 531-001 / Tuesdays 15:30–18:201800-2050 / HLG 321 / [Schedule](schedule.md)
+ENGL 531-001 / Tuesdays 15:30–18:20 / HLG 320 
 ## Instructor
 
-[Pr. John Laudun](https://johnlaudun.net/) / HLG 356 / TuTh 14:00–18:20 & by appt
+[Pr. John Laudun](https://johnlaudun.net/) / HLG 356 / TBA & by appt
 
 ## Course Description
 
