@@ -92,7 +92,13 @@ approaching the question of text analytics from a variety of
 perspectives, from the humanities to the human sciences to information
 and computer science.
 
-We will be using one of the following texts:
+We will also be using the following book, which is also available for
+free as a website–the URL is included with the information.
+
+Bird, Steven, Ewan Klein, and Edward Loper. 2009. *Natural Language
+Processing with Python*. O'Reilly Media. <https://www.nltk.org/book/>.
+
+In addition, there are a number of textbooks, or books a lot like classical textbooks, which an interested practitioner might find useful:
 
 Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. 2021. *Humanities
 Data Analysis: Case Studies with Python*. Princeton University Press.
@@ -104,12 +110,6 @@ Learning_. O'Reilly Media.
 Grimmer, Justin. 2022. _Text as Data: A New Framework for Machine
 Learning and the Social Sciences_. Princeton University Press.
 
-We will also be using the following book, which is also available for
-free as a website–the URL is included with the information.
-
-Bird, Steven, Ewan Klein, and Edward Loper. 2009. *Natural Language
-Processing with Python*. O'Reilly Media. <https://www.nltk.org/book/>.
-
 Jacob Perkins, author of *Python 3 Text Processing with NLTK 3 Cookbook*, has demos on stemming and lemmatization, sentiment analysis, tagging and chunk extraction, and phrase extraction and named entity recognition. [URL](http://text-processing.com).
 
 Please note: we read broadly from corpus linguistics, corpus stylistics,
@@ -118,7 +118,7 @@ keep up with the reading.
 
 ### Setup
 
-This course requires the use of **Python** and that participants are able to install libraries and other resources as needed. Much of this package management will be handled by **mini conda**, a package manager accessed through the CLI, so it is expected that participants are comfortable with their operating system's terminal or command shell interface. (More advanced participants will perhaps want to edit their config files.) We will use Jupyter notebooks both for their ease of use but also for their ability to create complete documentation solutions: all assignments will be Jupyter notebooks. Code for the class is maintained on a **GitHub** repo, and participants will commit their own code to a course repo designed to make it easy for everyone to see each other's work and to share data.
+This course requires the use of **Python** and that participants are able to install libraries and other resources as needed. Much of this package management will be handled by **mini conda**, a package manager accessed through the CLI, so it is expected that participants are comfortable with their operating system’s terminal or command shell interface. (More advanced participants will perhaps want to edit their config files.) We will use Jupyter notebooks both for their ease of use but also for their ability to create complete documentation solutions: all assignments will be Jupyter notebooks. Code for the class is maintained on a **GitHub** repo, and participants will commit their own code to a course repo designed to make it easy for everyone to see each other's work and to share data.
 
 ### Assignments
 

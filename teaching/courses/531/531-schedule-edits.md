@@ -1,5 +1,3 @@
-<!--
-
 ## (F27-M20) Towards a Structuralist Study of Narrative
 
 The notion that stories can only be understood in terms of sequence dates back to Aristotle who argued that all narratives develop longitudinally, from beginning to middle and the end through the selection and combination of events. Taking their cue from the formalists, structuralists thinkers like Roland Barthes and Tzvetan Todorov (and later A.J. Grimes and Gerard Genette) argued that that was but one way to approach narrative, as a syntagm. There are also paradigms at work, and that was where the study of narrative, if it was to become a science, should look.
@@ -36,7 +34,14 @@ Bal, Mieke. 1985. Excerpts on Focalization from *Narratology: Introduction to th
 
 Ricouer, Paul. 1985. Excerpts on time and narrating from *Time and Narrative*. University of Chicago Press.
 
-## (M27-A3) Recent Developments
+### Text-Worlds
+
+Gains.
+
+### Stories & Minds
+
+* [Stories and Minds: Cognitive Approaches to Literary Narrative on JSTOR](https://www.jstor.org/stable/j.ctt1ddr7zh)
+* [Storytelling and the Sciences of Mind: Cognitive Narratology, Discursive Psychology, and Narratives in Face-to-Face Interaction on JSTOR](https://www.jstor.org/stable/30219260)
 
 Herman’s synthesis.
 

@@ -84,13 +84,15 @@ Using a group chat application -- okay, Teams is more than that -- also means th
 
 Our own interests, expertise, and discoveries will determine more clearly how we will actually spend our time. For those reasons, I prefer to establish an agenda for a course, with the proviso that how much we dwell on a topic or gloss it will affect the timing of matters. Thanks to the Mardi Gras holiday, our semester is broken neatly into two blocks of six weeks, with a final seminar held for participant presentations and discussion.
 
-### 1. A Very Bayesian Beginning (J25)
+### 1. A Very Bayesian Beginning (J21)
 
-*Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least one quotation. To make it easier to share, please copy and paste them into a document that you can then print out and bring sufficient copies for all to have one. We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the review of Brooks’ _Seduced by Story_  (see Teams for a PDF version) and various videos in this seminar. (Maya Eilam created an [infographic](https://tenderhuman.com/shapes-of-stories-infographic) of Vonnegut’s shapes.)
+*Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least one quotation. To make it easier to share, please copy and paste them into a document that you can then print out and bring sufficient copies for all to have one. We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the review of Brooks’ _Seduced by Story_  (see Teams for a PDF version) and various videos in this seminar. 
 
-Read: Stewart, Susan. 2022. Beware the 'Storification' of the Internet. _The Atlantic_ (November 17). https://www.theatlantic.com/books/archive/2022/11/seduced-by-story-peter-brooks-book-review/672135/. 
+Stewart, Susan. 2022. Beware the 'Storification' of the Internet. _The Atlantic_ (November 17). https://www.theatlantic.com/books/archive/2022/11/seduced-by-story-peter-brooks-book-review/672135/. 
 
-Watch: Sagmeister, Stefan. 2014. You Are Not a Storyteller. FITC. https://vimeo.com/98368484. 
+Sagmeister, Stefan. 2014. You Are Not a Storyteller. FITC. https://vimeo.com/98368484. 
+
+Connell, Richard. 1924. The Most Dangerous Game. *Collier’s*.
 
 ### 2. The Shape of Stories (J28)
 
@@ -106,7 +108,11 @@ The most famous version of this mid-century formula is, of course, the Hollywood
 
 Cooper, Duncan. 1991. WHO KILLED SPARTACUS? *Cinéaste*, *18*(3): 18–27. http://www.jstor.org/stable/41687089. 
 
-There are a lot more shapes to consider: [Reedsy outlines 7](https://blog.reedsy.com/guide/story-structure/) in a 2018 post, but we will wrap up our consideration of such structures/shapes with the story circle, which most writers attribute to Dan Harmon, who suggests that it became more clear to him while working on _Community_. (I will leave it to your independent investigatory impulses to explore the connections between Harmon’s *story circle* and Joseph Campbell’s *hero’s journey*.)
+There are a lot more shapes to consider: [Reedsy outlines 7](https://blog.reedsy.com/guide/story-structure/) in a 2018 post, which includes a discussion of the story circle, which most writers attribute to Dan Harmon, who suggests that it became more clear to him while working on _Community_. (I will leave it to your independent investigatory impulses to explore the connections between Harmon’s *story circle* and Joseph Campbell’s *hero’s journey*.)
+
+Finally, Kurt Vonnegut once famously offered his own take on “the shape of stories,” which is captured in this famous lecture he gave at the Case College Scholars Program 4 February 2004: [YouTube](https://www.youtube.com/watch?v=GOGru_4z1Vc). Maya Eilam created an [infographic](https://tenderhuman.com/shapes-of-stories-infographic) of Vonnegut’s shapes. And there were a number of attempts to actualize Vonnegut’s theory computationally, including one from the UVM Story Lab:
+
+Reagan, Andrew J, Lewis Mitchell, Dilan Kiley, Christopher M Danforth, and Peter Sheridan Dodds. 2016. “The Emotional Arcs of Stories Are Dominated By Six Basic Shapes.” *EPJ Data Science* 5 (1): 175. [10.1140/epjds/s13688-016-0093-1](https://doi.org/10.1140/epjds/s13688-016-0093-1). 
 
 We will start our discussion with texts like Conrad’s _[Heart of Darkness](https://loristics.net/texts/hod.html)_ (1899), Connell’s [“The Most Dangerous Game”](https://loristics.net/texts/mdg.html) (1924), _Casablanca_ (1942), _Star Wars: A New Hope_ (1977) — because Lucas helped revive Campbell), and _Die Hard_ (1988), but feel free to bring examples of your own: there are pyramids and circles (and beats and whatever else) everywhere you turn.
 
