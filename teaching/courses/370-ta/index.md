@@ -131,7 +131,7 @@ you develop a corpus of your own, either individually or
 collaboratively, to perform some analysis, and to report your findings
 in a clear and cogent fashion. (See section on criteria below for details on how assignments are graded.)
 
-**Quizzes & Participation**. At various times during the semester participants are asked to write on topics that have been covered in the preceding weeks. The writing is sometimes on paper (usually individually) and sometimes it is on the whiteboard either with a group or to a group. The focus is not on neither correctness nor exactness but simply on talking your way through a problem. The assignments may include pseudo-code (and/or code) as well as comments that explain not only the code but the concepts and methods at stake. E.g., if a step in the overall workflow removes stopwords, participants are expected to explain how and why this is occurring.
+**Quizzes & Participation**. At various times during the semester participants are asked to write on topics that have been covered in the preceding weeks. The writing is sometimes on paper (usually individually) and sometimes it is on the whiteboard either with a group or to a group. The focus is on talking your way through a problem with clarity of process (and the practicality of the process) being the feature assessed. The assignments may include pseudo-code (and/or code) as well as comments that explain not only the code but the concepts and methods at stake. E.g., if a step in the overall workflow removes stopwords, participants are expected to explain how and why this is occurring.
 
 **Notebooks**. This course is really designed to produce a final project of various parts/phases. The plural in the assignment title reflects the multi-stage process in which sub-assemblies are put together in a sequence and feedback is provided, by both the instructor as well as other participants. The final version of the project, which may very well not be finished, gathers all the pieces into an assembly and the producer(s) of the project provide an explanation not only of the pieces and the assembly but also their response to feedback. Possible notebooks include:
 
@@ -145,11 +145,13 @@ in a clear and cogent fashion. (See section on criteria below for details on how
 
 #### Evaluation Criteria (same for all projects)
 
-**Code/Approach** (50%): Does the code produce useful results? Is it properly documented with #comments and doc strings? Does it use appropriate data structures?
+**Code/Approach** (50%): Does the code produce useful results? Is it properly documented with `# comments` and/or doc strings? Does it use appropriate data structures?
 
 **Write Up** (50%): Is it clear what was done and why? Does it adequately cite resources used? Does it adequately cite sources, references, and code adapted? Does it include some evaluation? Is there any analysis of errors? Does it point out any remaining issues? Is it formatted correctly?
 
 Assessment problems are generally open ended -- it is not expected that the student can solve them fully: the goal is to see how they approach the problem and understand it.
+
+#### Rubric
 
 | Dimension| Expected | Acceptable | Unworkable | Value |
 | -------- | -------- | ---------- | ---------- | ----- |
@@ -162,26 +164,28 @@ Assessment problems are generally open ended -- it is not expected that the stud
 
 The schedule for this course can be found in the course's dedicated [repository](https://github.com/johnlaudun/text-as-data) which also includes other course materials.
 
-### 0. Introductions
-
-In the first week we make all the usual introductions: course and participants (all of us in the room). We then begin the first of many considerations of what it means to quantify qualitative things like words from a very “big picture” point of view, if only to remind ourselves that for every insight, there is a blindness. The good news is that there are many questions to ask, and many ways to ask them. We finish with getting ready to begin our analytical journey. 
+In the introductory phase we make all the usual introductions: course and participants (all of us in the room). We then begin the first of many considerations of what it means to quantify qualitative things like words from a very “big picture” point of view, if only to remind ourselves that for every insight, there is a blindness. The good news is that there are many questions to ask, and many ways to ask them. We finish with getting ready to begin our analytical journey. 
 
 ### 1. Python, Jupyter Notebooks, Git + GitHub
 
-The code we use is, for the most part, fairly basic, running a lot on a minimal set of control structures like `for` loops and the occasional `if` statement. The more important thing we cover in this unit are data structures. (Real Python has a well-written tutorial on [data types](https://realpython.com/python-data-types/).) While Python comes with a limited set of data structures (strings, lists, dictionaries, tuples, etc.) a number of libraries we use extend those structures in very interesting ways: the NLTK library, for example, will return a tokenized sentence with parts of speech tags as a list of tuples with the word in the zero index and the PoS tag in the first index. Being able to get data out or iterate through a data structure is essential to doing text analytics. 
+The code we use is, for the most part, fairly basic, running a lot on a minimal set of control structures. The more important thing we cover in this unit are data structures. (Real Python has a well-written tutorial on [data types](https://realpython.com/python-data-types/).) While Python comes with a limited set of data structures (strings, lists, dictionaries, tuples, etc.) a number of libraries we use extend those structures in very interesting ways: the NLTK library, for example, will return a tokenized sentence with parts of speech tags as a list of tuples with the word in the zero index and the PoS tag in the first index. Being able to get data out or iterate through a data structure is essential to doing text analytics. 
 
 ### 2. Single Text Operations
 
+Using “The Most Dangerous Game” as our starting point, we will work through a single text to understand how we might quantify it: what does it mean to transform a string into a “bag of words”? What is lost and for what gain?  
+
 ### 3. Creating and Working with a Corpus
 
-### 4. Syntax and Semantics
+Toy data sets prepared for instructional use have limited utility: the true value of quantitative approaches occurs when the texts involved mean something to or interest you in particular. How do you go about building a corpus of your own? There are Python libraries, as well as some `bash` commands that take your game from copy-and-paste to “scrape.”
 
-Parts-of-Speech tagging and sentiment 
+### 4. Texts as Matrices
+
+What do you do with a collection of texts? One of the first things you can do is build a Document-Term Matrix and begin to use basic features to explore common and rare words within your corpus as well as ways to understand how texts might clump together using topic modeling and other forms of *community detection*.
 
 ### 5. Sequences & Semantic Spaces
 
-Word2vec
+So far, for the sake of getting ourselves immersed in quantitative methods, we have largely ignored the fact that texts are not bags of words but sequences of words, sequences punctuated by marks indicating clauses and sentences and usually even larger sub-sequences like paragraphs, chapters, etc. There are a variety of ways to begin to approach these sequences, including n-grams and collocation networks as well as parts-of-speech tagging. We will also cover the applicability of sentiment analysis and end with an exploration of approaches to semantic spaces like `word2vec`.
 
 ### 6. Deep Learning & AI
 
-RNNs, GANs, BERT, GPT. 
+RNNs, GANs, BERT, GPT, oh my! Dorothy and her companions never imagined a landscape filled with neural networks, and yet that is exactly where much of the focus of NLP is. Building anything but the simplest neural network is beyond the scope of this course, but as the end of the course we attempt to build bridges between methods we have covered and the building blocks that go into large language models like recurrent neural networks.
