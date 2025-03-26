@@ -2,18 +2,14 @@
 
 # John Laudun
 
-Professor of English  
-- B.A., Philosophy & English (dual major), Louisiana State University  
-- M.A., Syracuse, 1989  
-- Ph.D., Indiana University, 1999
+**Professor** of English and Folklore Studies. (B.A., Philosophy & English, Louisiana State University; M.A., Syracuse, 1989; Ph.D., Indiana University, 1999.)  
 
-Office: H. L. Griffin 356, 337-482-5493
-E-mail: laudun AT louisiana.edu  
-Pronouns: he/him/his
+**Office**: H. L. Griffin 356, 337-482-5493, laudun AT louisiana.edu  
+**Pronouns**: he/him/his
 
 **Teaching and Research Areas**: narrative studies, culture analytics, text mining, computational humanities, creativity studies.
 
-**Noteworthy**: While working on the MA in literary studies from Syracuse University the PhD in folklore studies from the Folklore Institute at Indiana University, I was thankful for the support of a Jacob K. Javits Fellowship (1987-1992) and a MacArthur Scholarship at the Indiana Center for Global Change and World Peace (1993-94). Grants secured include funding from  the Grammy Foundation and the Louisiana Board of Regents. I was honored by a fellowship with the EVIA Digital Archive and a scholarship in residence with UCLA's Institute for Pure and Applied Mathematics. My first book, *The Amazing Crawfish Boat*, is a longitudinal ethnographic study of creativity and tradition within a material folk culture domain. My second book (due out soon) is *A Pirate in a Tree: Cultural Memory and Slavery*. A third book on *How Stories Work* is in process.
+**Noteworthy**: While completing the MA in literary studies from Syracuse University and the PhD in folklore studies from IU’s Folklore Institute, I was grateful for the support of a Jacob K. Javits Fellowship (1987-1992) and a MacArthur Scholarship at the Indiana Center for Global Change and World Peace (1993-94). Grants secured include funding from  the Grammy Foundation and the Louisiana Board of Regents. I was honored by a fellowship with the EVIA Digital Archive and a scholarship in residence with UCLA's Institute for Pure and Applied Mathematics. My first book, *The Amazing Crawfish Boat*, is a longitudinal ethnographic study of creativity and tradition within a material folk culture domain. My second book (due out soon) is *A Pirate in a Tree: Cultural Memory and Slavery*. A third book on *How Stories Work* is in process.
 
 **Courses Taught**: Introduction to Folklore (332), Louisiana Folklore (335), Narrative Games (370), Introduction to Text Analytics, America in Legends Online and Off (432), Seminar in Narrative Studies (531), Proseminar in Folklore Theory (632).
 
