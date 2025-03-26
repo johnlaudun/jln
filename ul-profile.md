@@ -65,3 +65,7 @@ ENGL 632: Proseminar in Folklore Theory
 2017. A History of Gumbo. The Southern Gumbo Trail. Southern Foodways Project, University of Mississippi. (http://www.southerngumbotrail.com/laudun.shtml)
 2018. "At Home with a Master," *La Louisiane* (Autumn): 22-25.
 2019. "Roasting a Pig Inside an Enigma," *New York Times* (January 7).
+
+### Acknowledgements
+
+UL Lafayette markets itself on its warm and welcoming community. This community must be for all and be for justice. In 1954, UL (then Southwestern Louisiana Institute) was the first university in the south to desegregate. This is justifiably a point of pride for the University, but we have rested too long on this laurel: close to seventy years later, we still have a great deal of work to do in fighting the legacy of racism on our campus. We in the English Department commit to the path of decolonization, anti-racism, and reparation. We call upon the University to recognize the urgency of this commitment and to act swiftly in the interest of justice.
