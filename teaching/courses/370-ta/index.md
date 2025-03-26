@@ -189,3 +189,9 @@ So far, for the sake of getting ourselves immersed in quantitative methods, we h
 ### 6. Deep Learning & AI
 
 RNNs, GANs, BERT, GPT, oh my! Dorothy and her companions never imagined a landscape filled with neural networks, and yet that is exactly where much of the focus of NLP is. Building anything but the simplest neural network is beyond the scope of this course, but as the end of the course we attempt to build bridges between methods we have covered and the building blocks that go into large language models like recurrent neural networks.
+
+Possible Readings/Viewings
+
+- Computerphile explores how [“DeepSeek is a Game Changer for AI”](https://www.youtube.com/watch?v=gY4Z-9QlZ64).
+- [OpenAI's nightmare: Deepseek R1 on a Raspberry Pi](https://www.youtube.com/watch?v=o1sN1lB76EA&t=8s).
+- 

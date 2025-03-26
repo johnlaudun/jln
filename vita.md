@@ -534,15 +534,12 @@ http://blog.lafayettetravel.com/what-makes-gumbo-gumbo/.
 2013\. Food Is Just as Much a Part of Family History. *The Sunday
 Advertiser* (July 7): 9A.
 
-Falgout, Anne. 2013. Creating the Monster. *The Daily Advertiser* (June
-10. URL:
+Falgout, Anne. 2013. Creating the Monster. *The Daily Advertiser* (June 10. URL:
 http://blogs.theadvertiser.com/chefannespecials/2013/06/10/creating-the-monster/.
 
 2012\. "First you make a roux" not true of early gumbo. *The Daily
 Advertiser* (October 22). Picked up by Associated Press and appeared,
-for example, on
-*\[KATC-TV3\]((http://www.katc.com/news/first-you-make-a-roux-not-true-of-early-gumbo/)*
-and also *The Worcester Telegram*.
+for example, on *[KATC-TV3\]((http://www.katc.com/news/first-you-make-a-roux-not-true-of-early-gumbo/)* and also *The Worcester Telegram*.
 
 2012\. Cooks adapt gumbo to time, place. *The Advocate* (October 22):
 3B.
@@ -550,7 +547,7 @@ and also *The Worcester Telegram*.
 2012\. "A Living, Breathing Dish." *The Daily Advertiser* (September
 26).
 
-2008\. Louisiana Story: The Reverse Angle. Louisiana Public
+2008\. *Louisiana Story: The Reverse Angle*. Louisiana Public
 Broadcasting.
 
 2008\. "Friday is Gumbo Day in New Orleans," *Philadelphia Inquirer*
@@ -593,53 +590,31 @@ University Writing Program.
 
 ## Courses Taught
 
-*For a fuller description of the courses listed below, please see*
-<https://johnlaudun.net/teaching>.
+*For a fuller description of the courses listed below, please see* <https://johnlaudun.net/teaching>.
 
-***Undergraduate***. Honors Freshman English (115), Introduction to Folk
-Narrative (332), Digital Folklore and Culture (334), Digital
-Storytelling (334), Louisiana Folklore (335), Text Analytics (370),
-American Legends Online and Off (432), Field Research Methods (449),
+***Undergraduate***. Honors Freshman English (115), Introduction to Folk Narrative (332), Digital Folklore and Culture (334), Digital Storytelling (334), Louisiana Folklore (335), Text Analytics (370), Narrative Games (370), American Legends Online and Off (432), Field Research Methods (449),
 Folklore Genres (482).
 
-***Graduate***. American Legends Online and Off (432), Field Research
-Methods (449), Folklore Genres (482), Seminar in Narrative Studies
-(531), The Poetics of Creativity (531), Projects in Folklore and Digital
-Humanities (532), Seminar in Folklore Theory (632).
+***Graduate***. American Legends Online and Off (432), Field Research Methods (449), Folklore Genres (482), Seminar in Narrative Studies (531), The Poetics of Creativity (531), Projects in Folklore and Digital Humanities (532), Seminar in Folklore Theory (632).
 
 ## Supervision of Student Work
 
-*In 2021 I was honored with an university-wide\
-*Outstanding Mentor *award from the UL-Lafayette Graduate School.*
+2021\. Outstanding PhD Mentor. UL-Lafayette Graduate School.
 
-***Dissertations (English)***. 2023, Emily Vega and Mystery Harwood;
-2016, Amanda Laroche; 2014, Brenna Heffner and Kristen Bradley; 2012,
-Brandon Barker; 2008, Wanda Addison; 2006, James Reitter; 2004, Lana
-Henry; 2003. Connie Herndon. Ph.D. Dissertation; 2003, Billy Fontenot;
-2002, Jeanne Soileau; 2001, Matt Dube; 2000, Kenneth Bearden.
+***Dissertations (English)***. 2023, Emily Vega and Mystery Harwood; 2016, Amanda Laroche; 2014, Brenna Heffner and Kristen Bradley; 2012, Brandon Barker; 2008, Wanda Addison; 2006, James Reitter; 2004, Lana
+Henry; 2003. Connie Herndon. Ph.D. Dissertation; 2003, Billy Fontenot; 2002, Jeanne Soileau; 2001, Matt Dube; 2000, Kenneth Bearden.
 
-***MA Theses (English)***. 2010, Monique Dupas and Louis Toliver; 2005,
-Cheramie Richard ("Shortbread: Oral History as Community Creation");
-2004. Kristi Guillory ("Cajun Music: An Analysis of a Lyrical
+***MA Theses (English)***. Erin Rosson, 2024. 2010, Monique Dupas and Louis Toliver; 2005, Cheramie Richard ("Shortbread: Oral History as Community Creation"); 2004. Kristi Guillory ("Cajun Music: An Analysis of a Lyrical
 Tradition").
 
-***MA Theses (Francophone Studies)***. 2006, Carmen D'Entremont; 2001,
-Luc Guglielmi.
+***MA Theses (Francophone Studies)***. 2006, Carmen D'Entremont; 2001, Luc Guglielmi.
 
-***MA Theses (Architecture)***. 2020, John Oliver; 2014, Joe Frick;
-2009, Ashley LeBlanc; 2005, Matthew Baker ("From Cajun to Urban:
-Developing a Regional Design Program for Public Structures"); 2004,
-Chris Fowler ("Conditional Thresholds of Conflict: Spatial,
-Phenomenological, Geographical, and Environmental Effects").
+***MA Theses (Architecture)***. 2020, John Oliver; 2014, Joe Frick; 2009, Ashley LeBlanc; 2005, Matthew Baker ("From Cajun to Urban: Developing a Regional Design Program for Public Structures"); 2004,
+Chris Fowler ("Conditional Thresholds of Conflict: Spatial, Phenomenological, Geographical, and Environmental Effects").
 
-***Undergraduate Honors***. 2004, Matthew Spizale ("The Cultural
-Evolution of the Sicilian Immigrant Community of New Orleans from 1880
-to World War II"); 2003, Keith Manuel ("Parsimonious Injustice?: Spain's
-Detention of Military Hostages during the American Revolution,
-1781--1783"); 2001, Sarah Mertins ("La Llorona: A Legend Examined").
+***Undergraduate Honors***. 2004, Matthew Spizale ("The Cultural Evolution of the Sicilian Immigrant Community of New Orleans from 1880 to World War II"); 2003, Keith Manuel ("Parsimonious Injustice?: Spain's Detention of Military Hostages during the American Revolution, 1781--1783"); 2001, Sarah Mertins ("La Llorona: A Legend Examined").
 
-***Mentorships***. 2010--2011, HASTAC Scholars John Anderson and Kyle
-Felker.
+***Mentorships***. 2010-2011, HASTAC Scholars John Anderson and Kyle Felker.
 
 ## Teaching Interests 
 
@@ -771,9 +746,9 @@ University.
 2023\. Referee for promotion and tenure. Daniel Peretti (Memorial
 University).
 
-2022--present. Co-editor, *Contemporary Legend*.
+2022—. Co-editor, *Contemporary Legend*.
 
-2013--present. Committee member, Case Studies in Contemporary Legend (a
+2013—. Committee member, Case Studies in Contemporary Legend (a
 joint effort of ISCLR and USU Press).
 
 2013\. Referee for promotion and tenure. Tim Tangherlini (UCLA).
@@ -781,13 +756,13 @@ joint effort of ISCLR and USU Press).
 2013\. Referee for promotion and tenure. Greg Schrempp (Indiana
 University--Bloomington).
 
-2008--2012. Editor, American Folklore Society website,
+2008-2012. Editor, American Folklore Society website,
 www.americanfolkloresociety.org. (Release time granted.)
 
-2008--12. American Folklore Society Scholarly Communications in Folklore
+2008-12. American Folklore Society Scholarly Communications in Folklore
 Working Group.
 
-2007--12. American Folklore Society Publications Committee.
+2007-12. American Folklore Society Publications Committee.
 
 2006\. Participant, Professional Development Survey, American Folklore
 Society.
@@ -804,16 +779,16 @@ Association.
 2001\. Chair, Folklore and Literature Discussion Group, Modern Language
 Association.
 
-2000--05. Board Member, Folk Art Discussion Group, American Folklore
+2000-05. Board Member, Folk Art Discussion Group, American Folklore
 Society.
 
 1999--2003. Board Member, Folklore and Literature Discussion Group,
 Modern Language Association.
 
-1999--2003. Board Member, AFS@MLA, American Folklore Society.\
+1999-2003. Board Member, AFS@MLA, American Folklore Society.\
 Community
 
-2011--16. Consultant. Boy Scouts of America, Evangeline Council.
+2011-16. Consultant. Boy Scouts of America, Evangeline Council.
 
 2006\. Nominee. Man of the Year. Acadiana Leukemia and Lymphoma Society.
 
@@ -823,15 +798,15 @@ Community
 
 2003\. DAF Grant Panelist, Acadiana Arts Council (Lafayette, Louisiana).
 
-2000--02. Consultant, Saint Landry Foodways Research Center (Washington,
+2000-02. Consultant, Saint Landry Foodways Research Center (Washington,
 Louisiana).
 
-2000--01. Consultant and Coordinator, La Vie en Acadie Folklife
+2000-01. Consultant and Coordinator, La Vie en Acadie Folklife
 Festival, Lafayette Jaycees (Lafayette, Louisiana).
 
 ## Documentary Consultant
 
-2010--2015. Evangeline Council of the Boy Scouts of America.
+Evangeline Council of the Boy Scouts of America. 2010-2015. Archive of Citizen Scholarship on Traditional Culture.
 
 Castille, Conni. 2007. *I Always Do My Collars First* (film).
 
