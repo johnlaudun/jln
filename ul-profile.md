@@ -2,70 +2,71 @@
 
 # John Laudun
 
-## Professor of English
+Professor of English  
+- B.A., Philosophy & English (dual major), Louisiana State University  
+- M.A., Syracuse, 1989  
+- Ph.D., Indiana University, 1999
 
-### M.A., Syracuse, 1989 Ph.D., Indiana University, 1999
-
-Office: Griffin 356
-Phone: 337-482-5493
-E-mail: laudun AT louisiana.edu
-Web: http://johnlaudun.org/
-
+Office: H. L. Griffin 356, 337-482-5493
+E-mail: laudun AT louisiana.edu  
 Pronouns: he/him/his
 
-### Teaching and Research Areas
+**Teaching and Research Areas**: narrative studies, culture analytics, text mining, computational humanities, creativity studies.
 
-Culture analytics, text mining, narrative studies, computational folkloristics, creativity studies
+**Noteworthy**: While working on the MA in literary studies from Syracuse University the PhD in folklore studies from the Folklore Institute at Indiana University, I was thankful for the support of a Jacob K. Javits Fellowship (1987-1992) and a MacArthur Scholarship at the Indiana Center for Global Change and World Peace (1993-94). Grants secured include funding from  the Grammy Foundation and the Louisiana Board of Regents. I was honored by a fellowship with the EVIA Digital Archive and a scholarship in residence with UCLA's Institute for Pure and Applied Mathematics. My first book, *The Amazing Crawfish Boat*, is a longitudinal ethnographic study of creativity and tradition within a material folk culture domain. My second book (due out soon) is *A Pirate in a Tree: Cultural Memory and Slavery*. A third book on *How Stories Work* is in process.
 
-### Noteworthy
+**Courses Taught**: Introduction to Folklore (332), Louisiana Folklore (335), Narrative Games (370), Introduction to Text Analytics, America in Legends Online and Off (432), Seminar in Narrative Studies (531), Proseminar in Folklore Theory (632).
 
-John Laudun received his MA in literary studies from Syracuse University in 1989 and his PhD in folklore studies from the Folklore Institute at Indiana University in 1999. He was a Jacob K. Javits Fellow while at Syracuse and Indiana (1987-1992), and a MacArthur Scholar at the Indiana Center for Global Change and World Peace (1993-94). He has written grants that have been funded by the Grammy Foundation and the Louisiana Board of Regents, been a fellow with the EVIA Digital Archive and a scholar in residence with UCLA's Institute for Pure and Applied Mathematics. His book, *The Amazing Crawfish Boat*, is a longitudinal ethnographic study of creativity and tradition within a material folk culture domain.
-
-### Current Research
-
-Laudun's current work is in the realm of culture analytics. He is currently engaged in several collaborations with physicists and other scientists seeking to understand how texts can be modeled computationally in order to better describe functions and features.
+**Acknowledgements**: UL Lafayette markets itself on its warm and welcoming community. This community must be for all and be for justice. In 1954, UL (then Southwestern Louisiana Institute) was the first university in the south to desegregate. This is justifiably a point of pride for the University, but we have rested too long on this laurel: close to seventy years later, we still have a great deal of work to do in fighting the legacy of racism on our campus. We in the English Department commit to the path of decolonization, anti-racism, and reparation. We call upon the University to recognize the urgency of this commitment and to act swiftly in the interest of justice.
 
 ### Recent Publications
 
-2015. Text Statistics with Python. Programming Historian (http://programminghistorian.org/lessons/basic-text-stats-with-python/).
+Laudun, John and Jonathan Goodwin. 2023. Computing Folklore Studies: Mapping over a Century of Scholarly Production through Topics. *Overseas Folkloristics Studies* 5. Ed. Li Yang. Tr. Li Yang and Qiao Yingfei. \[In production.\]
 
- 
+Laudun, John. 2023. Weathering the Storm: Folk Ideas about Character. In *Wait Five Minutes: Weatherlore in the Twenty-First Century*. Ed. Shelley Ingram and Willow Mullins. (In production.)
 
-2014. Counting Tales: Towards a Computational Approach to Folk Narrative. Folk Culture Forum 5/228: 20-35. Translator (to Chinese): An Deming.
-2015. With Jonathan Goodwin. Computing Folklore Studies: Mapping over a Century of Scholarly Production through Topics. Journal of American Folklore 126(502):455–475.
-2016. "Talking Shit" in Rayne: How Aesthetic Features Reveal Ethical Structures. Journal of American Folklore 125(497):304–326.
-2017. A Constellation of Stars: The Study of Creativity on a Human Scale, or How a Bunch of Cajun and German Farmers and Fabricators in Louisiana Invented a Traditional Amphibious Boat. In The Individual in Tradition. Eds. Ray Cashman, Tom Mould, Pravina Shukla. Bloomington, IN: Indiana University Press.
+Laudun, John. 2023. Repairing Tradition. *Journal of American Folklore* 136(541): 274--297.
 
-### Courses Taught
+Laudun, John, Tom Kroh, Mahbube Sidikki, Robert Arp, and Adam Lowther. 2021. The Department of Defense's Multidomain Operations Challenge. *Global Security Review*. https://globalsecurityreview.com/defense-department-multidomain-operations-challenge/.
 
-ENGL 115: Freshman Honors Academic Writing
-ENGL 332: Introduction to Folklore
-ENGL 335: Louisiana Folklore
-ENGL 365: Technical Writing
-ENGL 482: Stories and Storytelling
-ENGL 531: Folklore in Culture: Narrative Studies
-ENGL 632: Proseminar in Folklore Theory
+Laudun, John. 2021. The Modes of Vernacular Discourse. *Western Folklore* 80(3/4): 401--436.
+
+Laudun, John. 2021. Connecting: Folklore Studies and Digital Humanities. In *What Folklorists Do*, 14-16. Ed. Tim Lloyd. Indiana University Press.
+
+Laudun, John. 2020. The Clown Legend Cascade of 2016. In *Folklore and Social Media*, 188--208. Eds. Andrew Peck and Trevor Blank. SUNY Press.
 
 ### Recent Presentations
 
-2015. Counting Tales: A Computational Approach to Fairy Tale Study. At the Crossroads of Data and Wonder Symposium. Brigham Young University (Provost, UT).
-2016. The Shape of Legends: Towards an Algorithmic/Augmented Analysis of Folk Narrative. International Society for Contemporary Legend Research. (San Antonio, TX.)
-2017. The Story of a Pirate in a Tree: Using Network Analysis to Find Treasure. Modern Language Association (Vancouver, British Columbia, Canada).
-2018. The Vernacular in Architecture and What It Means for the Future. Vernacular Inventions, Center for Louisiana Studies (Lafayette, LA).
-2019. With Jonathan Goodwin. Mapping Networks in Service of Intellectual History: How Topic Models and Co-Citation Networks Describe a Paradigm Shift in a Humanities Discipline. Texas Digital Humanities Conference (Houston, Texas).
-2020. Using Topic Models and Morphologies to Understand Folk Narrative. Modern Language Association (Chicago, Illinois).
-2021. The Matter of Mardi Gras: How Local Festivals Gather and Disperse Materiel across a Landscape. The Mathers Museum, Indiana University (Bloomington, Indiana).
+2024\. Mistaken for Narrative: Rethinking the Status of Narrative in Legends and Conspiracy Theories. American Folklore Society (Albuquerque, NM). 
+
+2024\. Using an LLM to Map the Structure of Conspiracy Theories. College of Liberal Arts Colloquium (Lafayette, LA). 
+
+2023\. Speaking Subjects, Subjects Spoken: Using TED Talks to Understand
+Discursive Gender Formations. Text as Data/TADA (Amherst, MA). With
+Katherine M. Kinnaird and Allison J. B. Chaney.
+
+2023\. Folklore's Nature & Memory's Coefficient. American Folklore
+Society (Portland, OR).
+
+2023\. Who's Afraid of ChatGPT: Legends as/and Large Language Models.
+International Society for Contemporary Legend Research (Sheffield, UK).
+
+2022\. Folk Ideas: Folk Discourse as Transport Layer for Ideas. American
+Folklore Society (Tulsa, OK).
+
+2022\. Possibilities for Modeling and Simulation: Microtargeting a
+Missilleer. Annual conference of Strategic Command (Lawrence Livermore
+Labs).
 
 ### Selected Media Appearances
 
-2013. "Louisiana’s Melting Pot." *The Sunday Advertiser* (July 7): 1A, 8A-9A.
-2014. "A Living, Breathing Dish." *The Daily Advertiser* (September 26).
-2015. *Louisiana Story: The Reverse Angle*. Louisiana Public Broadcasting.
-2016. "Friday is Gumbo Day in New Orleans," *Philadelphia Inquirer* (February 6).
-2017. A History of Gumbo. The Southern Gumbo Trail. Southern Foodways Project, University of Mississippi. (http://www.southerngumbotrail.com/laudun.shtml)
-2018. "At Home with a Master," *La Louisiane* (Autumn): 22-25.
-2019. "Roasting a Pig Inside an Enigma," *New York Times* (January 7).
+Carpenter, Perry and Mason Amadeus. 2023. Statistically Conscious
+(Artificial Intelligence). Digital Folklore. November 14.
+<https://digitalfolklore.fm/episodes/s2e6>.
 
-### Acknowledgements
+Lowther, Adam. 2023. How to Craft Your Narrative of Deterrence.
+*NucleCast: The Official Podcast of the ANWA Deterrence Center*.
+February 3. <https://rss.com/podcasts/nuclecast-podcast/847731/>.
 
-UL Lafayette markets itself on its warm and welcoming community. This community must be for all and be for justice. In 1954, UL (then Southwestern Louisiana Institute) was the first university in the south to desegregate. This is justifiably a point of pride for the University, but we have rested too long on this laurel: close to seventy years later, we still have a great deal of work to do in fighting the legacy of racism on our campus. We in the English Department commit to the path of decolonization, anti-racism, and reparation. We call upon the University to recognize the urgency of this commitment and to act swiftly in the interest of justice.
+Wyatt, Megan. 2022. Who do some people put tomatoes in their gumbo? *The
+Daily Advertizer* (August 29): 1E, 4E.
