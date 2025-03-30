@@ -250,6 +250,8 @@ Louisiana).
 
 ## Conference Papers
 
+2025\. The Crossroads Are Not a Metaphor. Roundtable for Global Souths Conference (Lafayette, LA).
+
 2024\. Mistaken for Narrative: Rethinking the Status of Narrative in Legends and Conspiracy Theories. American Folklore Society (Albuquerque, NM). 
 
 2024\. Using an LLM to Map the Structure of Conspiracy Theories. College of Liberal Arts Colloquium (Lafayette, LA). 

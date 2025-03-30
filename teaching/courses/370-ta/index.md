@@ -143,6 +143,24 @@ in a clear and cogent fashion. (See section on criteria below for details on how
 - Network / Transformer
 - CYOA (Choose Your Own Adventure) Notebook
 
+Please note that the goal of the notebooks is to develop good code, commenting, and documentation habits. These habits will serve you in the last notebook of the course, which is handwritten in class without the aid of any devices. While exact code is not expected, nor required, Pythonic pseudo-code is. The following block of code is not acceptable:
+
+```python
+# Load the Data
+load the files
+```
+
+Whereas the following block of code is:
+
+```python
+# Load the data
+my_strings = []
+for file in directory:
+	append file contents to my_strings
+```
+
+
+
 #### Evaluation Criteria (same for all projects)
 
 **Code/Approach** (50%): Does the code produce useful results? Is it properly documented with `# comments` and/or doc strings? Does it use appropriate data structures?
