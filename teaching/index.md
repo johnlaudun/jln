@@ -30,6 +30,8 @@ layout: page
 
 ## Guides and Statements
 
+**UPDATED**: If you've asked about sources for cultural data, that [list](guides/data.html) has been updated.
+
 There are some things all participants in a course I lead/facilitate need, or want, to know:
 
 * If you need texts as data, start with [here](guides/data.html). 

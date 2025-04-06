@@ -10,14 +10,9 @@ layout: page
 
 # People—Stories—Ideas
 
-I am a researcher focused on exploring how people create worlds in and through  stories. Understanding this process is at the heart of **narrative intelligence**. 
+I am a researcher focused on exploring how people create worlds in and through  stories based on shared understanding (ideas). 
 
-**UPDATED**: If you've asked about sources for cultural data, that [list](guides/data.html) has been updated.
-
-
-## About Me
-
-My research focuses on computational models of discourse, especially narratives and how they cascade through socio-cultural networks. In over 50 peer-reviewed publications I have examined how ideas are embedded in narrative (), how narratives are transformed by networks (), and how narratives and the ideas they contain create social realities () as well as economic opportunities ([2016]()).
+My research focuses on qualitative and quantitative models of discourse, especially narrative discourse, and how texts cascade through socio-cultural networks. In over 50 peer-reviewed publications I have examined how ideas are embedded in narrative (), how narratives are transformed by networks (), and how narratives and the ideas they contain create social realities () as well as economic opportunities ([2016]()).
 
 In addition to my published work in academic journals and edited volumes (some of which have been translated into Chinese and French), I have been cited or interviewed in newspapers like the _New York Times_, the _L.A. Times_, and _The Philadelphia Inquirer_ as well as public television documentaries and podcasts. I have been a Jacob K. Javits Fellow, a MacArthur Scholar, a fellow at the EVIA Digital Archive, a fellow with the Institute on Network Studies in the Humanities, and a senior researcher at UCLA’s Institute for Pure and Applied Mathematics. 
 

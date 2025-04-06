@@ -1,7 +1,5 @@
 *Welcome visitors from UL-Lafayette! I maintain my faculty profile here on my personal website so that it can be updated readily and regularly.*
 
-# John Laudun
-
 **Professor** of English and Folklore Studies. (B.A., Philosophy & English, Louisiana State University; M.A., Syracuse, 1989; Ph.D., Indiana University, 1999.)  
 
 **Office**: H. L. Griffin 356, 337-482-5493, laudun AT louisiana.edu  
