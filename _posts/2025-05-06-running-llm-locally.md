@@ -7,9 +7,9 @@ tags: computing, ai
 
 I spent a portion of today following Cody Wabiszewski’s guide on how to [download and run the Dolphin Llama 3 model](https://www.gsnetwork.com/author/cbw50077/). His directions are quite good, but they miss a few things, especially when it comes to setting things up on a Mac. So for those Mac users who want expand the scope of running an LLM locally beyond Apple Intelligence, I suggest the following:
 
-Head over to the [Ollama website](https://ollama.com/) to download one of the available models. Wabiszewski recommends **`dolphin-llama3`** and that’s what I went with.
+1. Head over to the [Ollama website](https://ollama.com/) to download one of the available models. Wabiszewski recommends **`dolphin-llama3`** and that’s what I went with.
 
-You start with the **Ollama.app**. (I’m not crazy with this, but I wanted the friendliest possible way of doing this because I wanted to make this as accessible as possible and Wabiszewski’s approach seems the best that I’ve seen for setting things up locally.)
+2. You start with the **Ollama.app**. (I’m not crazy with this, but I wanted the friendliest possible way of doing this because I wanted to make this as accessible as possible and Wabiszewski’s approach seems the best that I’ve seen for setting things up locally.) Once it’s running, you can then user the terminal to run `ollama serve` and, in another terminal tab,  `ollama run dolphin-llama3`. 
 
 When I downloaded the Dolphin Llama 3 model, it was not located where any of the posts I read suggested. Instead, I needed to use `locate` to find the directory. (If you have not run `locate` before, you will need to let it build its database, but that does not take long -- less than 10 minutes on my M1 MacBook Air with 1TB storage.)
 

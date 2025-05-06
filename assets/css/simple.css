@@ -267,10 +267,10 @@ input:enabled:focus-visible:where(
 /* Format navigation */
 
 header > nav {
-  display: grid;
+  /* display: grid;
   grid-template-columns: auto auto;
   grid-gap: 0px;
-}
+} */
 .logo {
   align-content:right;
 }
