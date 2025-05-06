@@ -140,6 +140,14 @@ Meanwhile, as they say, there was this ongoing method of breaking stories into p
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
+### 7. 
+
+
+
+Friend, M, and RP Bates. 2014. The Union of Narrative and Executive Function: Different But Complementary. *Frontiers in Psychology* 5: 469.
+
+Herman, David. 2007. Storytelling and the Sciences of Mind: Cognitive Narratology, Discursive Psychology, and Narratives in Face-To-face Interaction. *Narrative* 15 (3): 306–34.
+
 ## Resources
 
 _The lists below are by no means comprehensive, only suggestive. If you find something that should be added here, please let me know._
