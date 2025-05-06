@@ -5,8 +5,6 @@ date: 2025-03-30
 tags: university, folklore_studies
 ---
 
-# Global Souths Roundtable Notes
-
 I was asked to be a part of a faculty roundtable for this year’s Global Souths Conference, a conference hosted by graduate students in UL-Lafayette’s Department of English. This year’s effort was very well done, and I look forward to seeing what they do next year. Here are the questions they gave us in advance that might be discussed (in italics) along with my initial written responses, some of which I said during the roundtable and much of which I did not. (It was a lot of people and not a lot of time.)
 
 *How can scholars, educators, and practitioners work collaboratively to address the challenges facing Global Souths communities? What kinds of interdisciplinary approaches do you find promising?*

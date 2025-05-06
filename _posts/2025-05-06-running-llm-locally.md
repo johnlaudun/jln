@@ -9,5 +9,8 @@ I spent a portion of today following Cody Wabiszewski’s guide on how to [downl
 
 Head over to the [Ollama website](https://ollama.com/) to download one of the available models. Wabiszewski recommends **`dolphin-llama3`** and that’s what I went with.
 
+You start with the **Ollama.app**. (I’m not crazy with this, but I wanted the friendliest possible way of doing this because I wanted to make this as accessible as possible and Wabiszewski’s approach seems the best that I’ve seen for setting things up locally.)
+
 When I downloaded the Dolphin Llama 3 model, it was not located where any of the posts I read suggested. Instead, I needed to use `locate` to find the directory. (If you have not run `locate` before, you will need to let it build its database, but that does not take long -- less than 10 minutes on my M1 MacBook Air with 1TB storage.)
 
+Eventually I found it in a hidden directory in my users folder: `./ollama`. (I would eventually like to move that to a home directory dedicated to models, but I left it there for the time being.)
