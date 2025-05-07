@@ -271,24 +271,25 @@ header {
   color: var(--text-light);
   text-transform:uppercase;
   text-align: center;
-  border-bottom: 1px solid var(--border);
 }
 
 .header-title p {
   margin: auto; 
-  text-size: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 100;
 }
 
 .navlist ul {
   list-style: none;
   text-decoration: none;
   display: inline;
+  font-size: 0.85rem;
 }
 
 .navlist ul li {
   display: inline;
   text-decoration: none;
-  text-size: 0.8rem;
+  margin: 0 1 0 1rem;
 }
 
 .logo {
