@@ -1,11 +1,10 @@
 <div class="navbar">
   <p class="title"><a href="{{site.url}}">John Laudun</a></p>
-  <p><ul class="navlist">
+  <ul class="navlist">
     {% for item in site.data.navigation %}
     <li><a href="{{site.url}}/{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
   </ul>
-</p>
 </div>
 
 

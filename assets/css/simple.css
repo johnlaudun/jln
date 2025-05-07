@@ -281,6 +281,11 @@ input:enabled:focus-visible:where(
   text-decoration: none;
 }
 
+.navlist ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
 .logo {
   align-content:right;
 }
