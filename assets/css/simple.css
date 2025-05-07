@@ -288,8 +288,7 @@ header {
 
 .navlist ul li {
   display: inline;
-  text-decoration: none;
-  margin: 0 1 0 1rem;
+  padding: 0 2 0 2rem;
 }
 
 .logo {
@@ -299,11 +298,9 @@ header {
 .navbar a:hover,
 .navbar a.current,
 .navbar a[aria-current="page"] {
-  border-color: var(--accent);
-  color: var(--accent);
+  color: var(--text);
   cursor: pointer;
   text-decoration: none;
-  color: var(--text);
 }
 
 /* Reduce nav side on mobile */
@@ -346,7 +343,6 @@ footer ul {
   font-size: 0.85rem;
   text-transform: uppercase;
   align-content: left;
-  /* justify-content: left; */
   list-style-type: none;
   margin: 0;
   padding: 0;
