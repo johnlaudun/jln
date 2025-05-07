@@ -264,7 +264,7 @@ input:enabled:focus-visible:where(
   outline-offset: 1px;
 }
 
-/* Format navigation */
+/* FORMAT NAVBAR */
 
 .navbar {
   display: flex;
@@ -277,18 +277,19 @@ input:enabled:focus-visible:where(
   margin: auto; 
 }
 
-.navlist {
+.navlist ul {
   display: flex; 
   justify-content: space-between;
+  text-decoration: none;
 }
 
 .logo {
   align-content:right;
 }
 
-navbar a:hover,
-navbar a.current,
-navbar a[aria-current="page"] {
+.navbar a:hover,
+.navbar a.current,
+.navbar a[aria-current="page"] {
   border-color: var(--accent);
   color: var(--accent);
   cursor: pointer;
@@ -298,7 +299,7 @@ navbar a[aria-current="page"] {
 
 /* Reduce nav side on mobile */
 @media only screen and (max-width: 720px) {
-  header > nav a {
+  .navbar a {
     border: none;
     padding: 0;
     text-decoration: underline;
