@@ -277,8 +277,8 @@ input:enabled:focus-visible:where(
 
 .navlist ul {
   list-style: none;
-  justify-content: space-between;
   text-decoration: none;
+  display: inline;
 }
 
 .navlist ul li {
