@@ -276,13 +276,13 @@ input:enabled:focus-visible:where(
 }
 
 .navlist ul {
-  display: flex; 
+  list-style: none;
   justify-content: space-between;
   text-decoration: none;
 }
 
 .navlist ul li {
-  list-style: none;
+  display: inline;
   text-decoration: none;
 }
 
