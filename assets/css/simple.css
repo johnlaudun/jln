@@ -270,67 +270,30 @@ input:enabled:focus-visible:where(
   display: flex;
   justify-content: space-between;
   text-transform:uppercase;
+  color:var(--accent);
 }
 
 .title {
   margin: auto; 
 }
 
+.navlist {
+  display: flex; 
+  justify-content: space-between;
+}
 
-header > nav {
-  /* display: grid;
-  grid-template-columns: auto auto;
-  grid-gap: 0px;
-} */
 .logo {
   align-content:right;
 }
-nav-id p {
-  font-size: 2rem;
-  color:var(--accent);
-  line-height: 1rem;
-  text-align:center;
-  text-transform:uppercase;
-  font-weight:100;
-  /* font-style:italic; */
-  margin: 0;
-  padding: 0;
-}
 
-/* Use flexbox to allow items to wrap, as needed */
-header > nav ul {
-  line-height: 1rem;
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  font-weight:bold;
-  align-content: left;
-  /* justify-content: left; */
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-/* List items are inline elements, make them behave more like blocks */
-nav ul li {
-  display: inline-block;
-}
-
-header > nav a,
-header > nav a:visited {
-  /* border: 1px solid var(--border);
-  border-radius: var(--standard-border-radius); */
-  color: var(--text);
-  /* display: inline-block; */
-  /* padding: 1rem; */
-  text-decoration: none;
-}
-
-header > nav a:hover,
-header > nav a.current,
-header > nav a[aria-current="page"] {
+navbar a:hover,
+navbar a.current,
+navbar a[aria-current="page"] {
   border-color: var(--accent);
   color: var(--accent);
   cursor: pointer;
+  text-decoration: none;
+  color: var(--text);
 }
 
 /* Reduce nav side on mobile */
