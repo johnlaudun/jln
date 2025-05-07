@@ -267,8 +267,6 @@ input:enabled:focus-visible:where(
 /* FORMAT NAVBAR */
 
 .navbar {
-  display: flex;
-  justify-content: space-between;
   text-transform:uppercase;
   color:var(--accent);
 }
