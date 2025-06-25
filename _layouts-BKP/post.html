@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+<h2>{{ post.title }}</h2>
+<h2>{{ page.title }}</h2>
+<p><em>{{ page.date | date_to_string }}</em></p>
+
+{{ content }}
+
+<p>
+    <em>
+        You can go back to the <a href="{{site.url}}/logbook.html">logbook</a> or dive into the <a href="{{site.url}}/archive.html">archive</a>. Choose your own adventure!
+    </em>
+</p>
