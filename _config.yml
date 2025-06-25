@@ -61,16 +61,20 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  bluesky: laudun
+  ORCID: 0000-0002-7555-7562
   rss: true  # toggles RSS link at bottom of page
   github: johnlaudun
+  linkedin: johnlaudun
+  # mastodon: hcommons.social/@johnlaudun/
+  # medium: johnlaudun
+  # email: "someone@example.com"
+  #  google-scholar: Zbvss7Sjr2sC
   # twitter: johnlaudun
   # patreon: johnlaudun
   # youtube: "@johnlaudun"
   # whatsapp: 15551212
-  medium: johnlaudun
 #  reddit: yourname or r/yoursubreddit
-  linkedin: johnlaudun
 #  xing: yourname
 #  stackoverflow: "users/12345678/yourname"
 #  snapchat: yourname
@@ -82,10 +86,6 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-  # mastodon: hcommons.social/@johnlaudun/
-  bluesky: laudun
-  ORCID: 0000-0002-7555-7562
-#  google-scholar: Zbvss7Sjr2sC
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
