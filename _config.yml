@@ -23,12 +23,20 @@ feed:
   posts_limit: 20
 
 navbar-links:
-  About Me: "aboutme"
+  Vita: "vita"
+  Research: "research"
+  Teaching: "teaching"
+  Statements:
+    - Research: "statements/research"
+    - Teaching: "statements/teaching"
+    - Diversity: "statements/diversity"
+  Blog: "log"
+  About Me: "about"
+
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  
 ################
 # --- Logo --- #
 ################
@@ -147,8 +155,8 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
+# Alternatively, the navbar, footer, and page background 
+# can be set to an image instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
@@ -249,7 +257,7 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%Y %B %-d"
 
 # Facebook App ID
 #fb_app_id: ""
