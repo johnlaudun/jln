@@ -56,17 +56,17 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # toggles RSS link at bottom of page
   github: johnlaudun
-  # twitter: daattali
-  # patreon: DeanAttali
-  # youtube: "@daattali"
+  # twitter: johnlaudun
+  # patreon: johnlaudun
+  # youtube: "@johnlaudun"
   # whatsapp: 15551212
-  medium: yourname
+  medium: johnlaudun
 #  reddit: yourname or r/yoursubreddit
-  linkedin: daattali
+  linkedin: johnlaudun
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "users/12345678/yourname"
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -74,10 +74,10 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: laudun
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  # mastodon: hcommons.social/@johnlaudun/
+  bluesky: laudun
+  ORCID: 0000-0002-7555-7562
+#  google-scholar: Zbvss7Sjr2sC
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -96,21 +96,18 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-  reddit: false
+  bluesky: true
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "johnlaudun.net"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 500
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
