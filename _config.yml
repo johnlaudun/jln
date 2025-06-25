@@ -61,7 +61,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  bluesky: laudun
+  bluesky: laudun.bsky.social # https://bsky.app/profile/laudun.bsky.social
   ORCID: 0000-0002-7555-7562
   rss: true  # toggles RSS link at bottom of page
   github: johnlaudun
