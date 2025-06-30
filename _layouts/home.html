@@ -8,7 +8,18 @@ layout: page
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
+  <!-- {% for post in posts %} -->
+
+{% assign posts_per_page = 10 %}
+{% assign current_page = 2 %} {# Let's say we want to show posts for the second page #}
+{% assign offset = current_page | minus: 1 | times: posts_per_page %}
+
+{% for post in site.posts offset:offset limit:posts_per_page %}
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
+
+
   <li class="post-preview">
     <article>
 
@@ -46,13 +57,10 @@ layout: page
         {% endif %}
       </a>
 
-      {% if post.author %}
+      <!-- {% if post.author %}
         <span>By <strong>{{ post.author | strip_html }}</strong></span>
-      {% endif %}
-      <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
-      </p>
+      {% endif %} -->
+
 
       {% if thumbnail != "" %}
       <div class="post-image post-image-small">
@@ -72,17 +80,22 @@ layout: page
       {% endif %}
 
       <div class="post-entry">
-        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{post.content}}
+        <!-- {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
           <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
+        {% endif %} -->
       </div>
       {% endunless %}
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}
       <div class="blog-tags">
+              <p>
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        Posted on {{ post.date | date: date_format }}
+      </p>
         <span>Tags:</span>
         <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
         <ul class="d-inline list-inline" role="list">
