@@ -10,7 +10,7 @@ layout: page
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
 
-{% for post in site.posts offset:offset limit:10 %}
+{% for post in site.posts limit:10 %}
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <p>{{ post.excerpt }}</p>
 {% endfor %}

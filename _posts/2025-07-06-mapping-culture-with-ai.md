@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mapping Culture with AI
-date: 2025-05-13
+date: 2025-0-06
 tags: ai
 ---
 
@@ -13,3 +13,4 @@ To be fair, Farrell et al are more interested in large scale analytical possibil
 
 ![DALL-E’s “Make of Culture”](../media/2025-07-09-dall-e-map-of-culture.png)
 
+Farrell, Henry et al. 2025. Large AI models are cultural and social technologies. _Science_ 387(1153-1156). DOI:10.1126/science.adt9819.
