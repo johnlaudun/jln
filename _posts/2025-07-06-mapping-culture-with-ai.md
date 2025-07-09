@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mapping Culture with AI
-date: 2025-0-06
+date: 2025-07-06
 tags: ai
 ---
 
