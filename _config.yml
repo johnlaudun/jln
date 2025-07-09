@@ -20,7 +20,7 @@ baseurl: ""
 
 # RSS feeds
 feed:
-  posts_limit: 20
+  posts_limit: 10
 
 navbar-links:
   Vita: "vita"
@@ -271,7 +271,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+# paginate: 5
 
 kramdown:
   input: GFM
