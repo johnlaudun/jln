@@ -11,7 +11,7 @@ The current version of this site is built entirely using open source technologie
 
 The work I have done is to develop templates and style sheets -- along with some Amazon AWS scribbles to deliver media --  to make the actual running of this website "code-less". If that interests you, then you are welcome to step into the equipment shed and see how this thing is held together with licks, promises, bailing wire, and assorted other miscellany from old folk sayings: [GitHub repo][].
 
-The template for this site is based on Hyde, an adaptation of the Poole template for Jekyll. The basic mechanics have remained largely undisturbed, though I have the ability to *pin a post* as a function I would like to add.
+The design of this site is mostly [Beautiful Jekyll](https://beautifuljekyll.com), which is responsible for everything graceful and good looking. Anything broken or ugly is an patchy abomination and entirely my fault.
 
 For those interested in the site's design, or at least the design impulse behind what you see here, I have always been an advocate for simplicity coupled with generous white space. Whether designing a document like a syllabus, a website, or a journal article, I never want a user/reader/viewer to wonder where they are or what they are looking at. I want, so far as such things are possible, the user to be immersed and for any available controls to feel "natural" -- there's probably not enough quotation marks for *natural*, but there you have it.
 

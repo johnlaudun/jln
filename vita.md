@@ -6,6 +6,8 @@ https://johnlaudun.net/
 @johnlaudun@hcommons.social  
 https://github.com/johnlaudun
 
+**Statements**: [Research](statements/research.md), [Teaching](statements/teaching.md), [Diversity](statements/diversity.md)
+
 # Education
 
 Ph.D. Folklore Studies. Indiana University (minor in cultural anthropology). 1999.

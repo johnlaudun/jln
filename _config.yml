@@ -26,16 +26,11 @@ navbar-links:
   Vita: "vita"
   Research: "research"
   Teaching: "teaching"
-  Statements:
-    - Research: "statements/research"
-    - Teaching: "statements/teaching"
-    - Diversity: "statements/diversity"
-  Blog: "log"
-  About Me: "about"
-
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # Statements:
+  #   - Research: "statements/research"
+  #   - Teaching: "statements/teaching"
+  #   - Diversity: "statements/diversity"
+  About: "about"
   
 ################
 # --- Logo --- #
