@@ -86,11 +86,13 @@ On our first day of class we will need to cover the usual course overview and th
 
 ### Game Theory
 
+“Game theory” is a field of mathematics. While it is not central to this course, some of you may want to explore it both for ideas for game mechanics but also to anticipate possible problems with mechanics you are considering.
+
 * Martin Osborne’s [Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/) is an online book.
 * Open Textbook Library has Nordstrom and Oregon[Introduction to Game Theory: A Discovery Approach](https://open.umn.edu/opentextbooks/textbooks/802) available both online and as a downloadable PDF.
-* Coursera has Stanford’s[Game Theory](https://www.coursera.org/learn/game-theory-1) class. The claim you can finish it in 17 hours.
+* Coursera has Stanford’s [Game Theory](https://www.coursera.org/learn/game-theory-1) class. The claim you can finish it in 17 hours.
 
-Go to https://ncase.me/trust/. Play the game. Write down two things: (1) Implications of the game theory behind “The Prisoner’s Dilemma” for game design and (2) the implications for life.
+If you want to get a glimpse of game theory before exploring any of the links above, [Nicky Case](https://ncase.me) has a fantastic interactive rendition of “The Prisoner’s Dilemma,” [Trust](https://ncase.me/trust/). Play the game. Write down two things: (1) Implications of the game theory behind  for game design and (2) the implications for life.
 
 Sooner or later…
 
