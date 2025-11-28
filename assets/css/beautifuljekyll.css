@@ -753,7 +753,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   bottom: 0;
   display: none;
 }
-@media (min-width: 850px) {
+@media (min-width: 700px) {
   .intro-header {
     margin-top: 8.125rem;
   }
@@ -800,11 +800,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   margin-left: auto;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .pagination.blog-pager {
     margin-top: 0.625rem;
   }
-}
+} */
 
 .pagination .page-item .page-link {
   font-family: var(--header-font);
