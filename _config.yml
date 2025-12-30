@@ -55,16 +55,6 @@ modular_scale: modular_scale_1em
 # modular_scale: modular_scale_ratio_1_125
 
 
-
-
-#       ____       ____            ____
-#      / __ \___  / __/___ ___  __/ / /_
-#     / / / / _ \/ /_/ __ `/ / / / / __/
-#    / /_/ /  __/ __/ /_/ / /_/ / / /_
-#   /_____/\___/_/  \__,_/\__,_/_/\__/
-#
-# Default Settings
-
 defaults:
   -
     scope:
