@@ -7,9 +7,7 @@ tags:
 
 These photos reveal how the package from Sage arrived:
 
-
 ![sage-1](../media/sage-1.jpeg)
-
 
 ![sage-2](../media/sage-2.jpeg)
 
