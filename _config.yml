@@ -1,242 +1,149 @@
-# Name of website
-title: John Laudun
+# CONFIG
 
-# Your name to show in the footer
-# author: John Laudun
+# Title and description of your site
+title         : 'John Laudun'
+description   : 'portfolio of research and teaching activity'
+slogan        : 'again the agon'
 
+# Build settings
+url           : 'https://johnlaudun.github.io/jln'
+baseurl       : ''
+markdown      : kramdown
+highlighter   : rouge
+permalink     : /:categories/:title/
+encoding      : utf-8
+destination   : _site
+lang          : 'en'             
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  # - jekyll-paginate
+# Frontpage-Layout-Settings
+posts_with_teaser_limit  : 1     # Define how many posts should be shown with headline, teaser, image, video
+posts_list_limit         : 15    # Define how many posts should be shown in the list beneath the post(s)
+excerpt_separator: <!--more-->   # Use <!--more--> in your posts to generate an excerpt and a teaser
 
-# SEO Stuff
-summary: a website for the agon
-lang: en
-locale: en_US
-# url:    "https://johnlaudun.github.io/jln"
-url: "https://johnlaudun.net"
-baseurl: ""
+#   Choose one of the following color schemes. Available color schemes:
+#  - simplicity
+#  - gloom
+#  - glowfish
+#  - legacy
+#  - yule
 
-# RSS feeds
-feed:
-  posts_limit: 10
+color_scheme: simplicity
 
-navbar-links:
-  Vita: "vita"
-  Research: "research"
-  Teaching: "teaching"
-  # Statements:
-  #   - Research: "statements/research"
-  #   - Teaching: "statements/teaching"
-  #   - Diversity: "statements/diversity"
-  About: "about"
-  
-################
-# --- Logo --- #
-################
+#   Choose one of the following font combinations:
+#
+#   import is necessary to import the font from google
+#   the settings for the fonts are used in /assets/css/simplicity.scss
+font:
+  import: 'Source+Code+Pro|Source+Sans+Pro:400,400italic,700,700italic'
+#  import: 'Titillium+Web:400,400italic,700,700italic'
+#  import: 'Roboto:400,400italic,700,700italic|Roboto+Mono'
+#  import: 'Merriweather:400,400italic,700,700italic'
+#  import: 'Arvo:400,400italic,700,700italic'
+#  import: 'Gentium+Basic:400,400italic,700,700italic'
+#  import: 'Fira+Sans:400,400italic,700,700italic|Fira+Mono'
+  font-family-serif         : 'Georgia, "Times New Roman", serif;'
+  font-family-sans-serif    : '"Source Sans Pro", "Neue Helvetica", Arial, serif;'
+  base-font-family          : '"Source Sans Pro", "Neue Helvetica", Arial, serif;'
+  font-family-monospace     : '"Source Code Pro", "Courier New", Monaco, monospace;'
+  header-font-family        : '"Source Sans Pro", "Neue Helvetica", Arial, serif;'
 
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/kilroy.jpg"
+#   Choose a modular scale.
+#   What is a modular scale?
+#   Read this › http://alistapart.com/article/more-meaningful-typography
 
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-#title-img: /path/to/image
-
-
-#####################################
-# --- Footer social media links --- #
-#####################################
-
-# Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  bluesky: laudun.bsky.social # https://bsky.app/profile/laudun.bsky.social
-  ORCID: 0000-0002-7555-7562
-  rss: true  # toggles RSS link at bottom of page
-  github: johnlaudun
-  linkedin: johnlaudun
-  # mastodon: hcommons.social/@johnlaudun/
-  # medium: johnlaudun
-  # email: "someone@example.com"
-  #  google-scholar: Zbvss7Sjr2sC
-  # twitter: johnlaudun
-  # patreon: johnlaudun
-  # youtube: "@johnlaudun"
-  # whatsapp: 15551212
-#  reddit: yourname or r/yoursubreddit
-#  xing: yourname
-#  stackoverflow: "users/12345678/yourname"
-#  snapchat: yourname
-#  instagram: yourname
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
-#  strava: youruserid
-
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: The accumulated wisdom of a confused mind.
-
-###########################
-# --- General options --- #
-###########################
-
-# Select which social network share links to show in posts
-share-links-active:
-  bluesky: true
-  linkedin: false
-
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "johnlaudun.net"
-
-# Add the website title to the title of every page
-title-on-all-pages: true
-
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
-
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
-
-# Add a search button to the navbar
-post_search: true
-
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
-
-# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
-# If this setting is off, then long sub-menu words might get cut off
-# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
-
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
-
-######################################
-# --- Colours / background image --- #
-######################################
-
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
-
-# Alternatively, the navbar, footer, and page background 
-# can be set to an image instead of colour
-
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
-
-# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
-
-# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
-
-# If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
-
-#################################
-# --- Web Analytics Section --- #
-#################################
-
-# Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
-
-# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# Google Universal Analytics ID -- deprecated
-# As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
-# you should switch to using the `gtag` field above instead.
-#google_analytics: "UA-XXXXXXXX-X"
+modular_scale: modular_scale_1em
+# modular_scale: modular_scale_ratio_1_125
 
 
-################
-# --- Misc --- #
-################
-
-# Ruby Date Format to show dates of posts
-date_format: "%Y %B %-d"
 
 
-#################################################################################
-# --- You don't need to touch anything below here (but you can if you want) --- #
-#################################################################################
+#       ____       ____            ____
+#      / __ \___  / __/___ ___  __/ / /_
+#     / / / / _ \/ /_/ __ `/ / / / / __/
+#    / /_/ /  __/ __/ /_/ / /_/ / / /_
+#   /_____/\___/_/  \__,_/\__,_/_/\__/
+#
+# Default Settings
 
-# Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-# paginate: 5
-
-kramdown:
-  input: GFM
-
-# Default YAML values (more information on Jekyll's site)
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path: ''        # an empty string here means all files in the project
+      type: 'pages'
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      layout: page      # Set default layout to page
+      show_meta: false  # Hide metadata for all pages
+      comments: false
+      author: 'Moritz »mo.« Sauer'     # Default author for pages
   -
     scope:
-      path: "" # any file that's not a post will be a "page" layout by default
+      path: ''
+      type: 'posts'
     values:
-      layout: "page"
+      layout: page      # Set default layout to page
+      show_meta: true   # Show metadata for all posts
+      comments: false
+      author: 'Moritz »mo.« Sauer'     # Default author for posts
 
-# Exclude these files from production site
+# Verify Website to Webmaster Tools
+# google_site_verification   : ''
+# bing_webmastertools_id   : ''
+# alexa_verify_id          : ''
+
+
+
+# Favicons, Chrome, Android & Apple Touch Buttons
+favicon-32x32:                          'favicon-32x32.png'
+touch-icon-192x192:                     'touch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+msapplication_tilecolor:                '#fabb00'
+
+# SASS settings
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# used in _includes/_4_footer_scripts
+# google_analytics_tracking_id:
+
+
+socialmedia:
+    # youtube: PhlowMedia
+    github: johnlaudun
+    # twitter: phlow
+    # facebook: phlow.media
+    # soundcloud: phlow
+    # tumblr: johnlaudun
+    # instagram: phlow_de
+    # rss: # Full URL needed
+
+
+plugins:
+    - jekyll-gist
+    - jekyll-sitemap
+    - jekyll-paginate
+
+# Exclude these files from your production _site
 exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - INSTALL.md
+    - vendor
+
+compress_html:
+  clippings : all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
