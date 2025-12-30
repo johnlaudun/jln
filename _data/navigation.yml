@@ -1,0 +1,12 @@
+- title: Home
+  url: /
+- title: About
+  url: /about.html
+- title: Vita
+  url: /vita.html
+- title: Research
+  url: /research.html
+- title: Teaching
+  url: /teaching/
+# - title: Contact
+#   url: /contact.html

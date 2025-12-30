@@ -6,7 +6,7 @@ link: /
 layout: page
 ---
 
-<img src="{{site.url}}/assets/images/psi-3.jpg" alt="logo" width="700">
+<img src="{{site.url}}/media/psi-3.jpg" alt="logo" width="700">
 
 # People—Stories—Ideas
 
