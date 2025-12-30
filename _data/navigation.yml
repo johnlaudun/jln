@@ -1,12 +1,14 @@
 - title: Home
   url: /
 - title: About
-  url: /about.html
+  url: /about.md
 - title: Vita
-  url: /vita.html
+  url: /vita.md
 - title: Research
-  url: /research.html
+  url: /research.md
 - title: Teaching
   url: /teaching/
+- title: Log
+  url: /log.md
 # - title: Contact
 #   url: /contact.html

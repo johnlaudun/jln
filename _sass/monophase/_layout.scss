@@ -21,7 +21,7 @@
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
   margin: auto;
-  text-align: center;
+  align-items: center;
 }
 
 .masthead-title {
@@ -56,12 +56,12 @@
 
     &:hover,
     &:focus {
-      text-decoration: line-through;
+      background-color: powderblue;
     }
   }
 
   a.current {
-    background-color: powderblue; 
+    font-weight: bold; 
   }
 }
 
