@@ -20,7 +20,8 @@
 .masthead {
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
-  margin-bottom: var(--spacer-3);
+  margin: auto;
+  text-align: center;
 }
 
 .masthead-title {
@@ -60,7 +61,7 @@
   }
 
   a.current {
-    text-decoration: line-through;
+    background-color: powderblue; 
   }
 }
 
