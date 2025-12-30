@@ -1,54 +1,44 @@
 ---
-layout: page
+layout: default
 ---
 
-<!-- {{ content }} -->
-
-{% assign posts = paginator.posts | default: site.posts %}
-
-<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
-<ul class="posts-list list-unstyled" role="list">
-  {% for post in posts limit: 10 %}
-
-
-  <li class="post-preview">
-    <article>
-
-      <div class="post-entry">
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        {{post.content}}
-      </div>
-
-
-      <div class="post-meta">
-        <span class="post-date">{{ post.date | date: "%-d %B  %Y" }}</span> | 
-        {% if post.tags.size > 0 %}
-          TAG{% if post.tags.size > 1 %}S{% endif %}:
-        {{ post.tags | sort | join: ", " }}
-        {% endif %}
-        
-    </article>
-  </li>
-  {% endfor %}
-</ul>
-
-<!-- {% if paginator.total_pages > 1 %}
-<ul class="pagination main-pager">
-  {% if paginator.previous_page %}
-  <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
-      <i class="fas fa-arrow-left" alt="Newer Posts"></i>
-      <span class="d-none d-sm-inline-block">Newer Posts</span>
-    </a>
-  </li>
+<div class="posts">
+  {% assign posts = site.posts %}
+  {% if paginator %}
+    {% assign posts = paginator.posts %}
   {% endif %}
-  {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
-      <span class="d-none d-sm-inline-block">Older Posts</span>
-      <i class="fas fa-arrow-right" alt="Older Posts"></i>
-    </a>
-  </li>
-  {% endif %} -->
-</ul>
+  {% for post in posts %}
+    <div class="post">
+      <h2 class="post-title">
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta">{{ post.date | date_to_string }}</time>
+
+      <p class="post-excerpt">
+        {% if post.description %}
+          {{ post.description | strip_html }}
+        {% else %}
+          {{ post.excerpt | strip_html }}
+        {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>
+
+{% if paginator %}
+  <div class="pagination">
+    {% if paginator.next_page %}
+      <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+    {% else %}
+      <span class="pagination-item older">Older</span>
+    {% endif %}
+    {% if paginator.previous_page %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">Newer</a>
+    {% else %}
+      <span class="pagination-item newer">Newer</span>
+    {% endif %}
+  </div>
 {% endif %}
