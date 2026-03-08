@@ -17,7 +17,7 @@ Branching narratives, interactive fiction, text adventures, CYOA (Choose Your Ow
 
 This course aims to provide participants with the necessary tools and skills to analyze and, at least begin, to create narrative games. To do this, participants will need to master: foundational concepts in narrative studies and game studies, experiment with a variety of game mechanics, engage others collaboratively (and occasionally competitively), document their work both individually and collectively, and be able to present their work to an audience.
 
-## Materials
+## Course Materials
 
 There is a textbook for this class:
 
@@ -29,20 +29,20 @@ In addition to the textbook, there is also a list of materials:
 
 ### Hardware
 
-* Participants will need a set of die that includes several D6 and at least one each of D8, D12, and D20 (more is better but not required). 16mm and 19mm dies are more adult human friendly, but functionality matters more than size.
-* Participants will also need a steady supply of 3 x 5 cards.
-* We will be prototyping, and trialing, both physical and virtual narrative game forms. Participants need to be able to generate both. While there are pre-cut square and hexagonal game tiles of various sizes, blank playing cards, and a myriad other ready-made materials, access, and willingness to use one's imagination, cardstock and cardboard are the only things required. (An awful lot can be achieved with 3 x 5 cards.) *And, yes, effective, and compelling, game figures can be created out of cardboard cutouts and markers.* 
-* In order to create the cards, tiles, and boards from a variety of materials, participants will also need to have scissors or other cutting implements -- please exercise caution and remember to use a cutting mat when working -- as well as markers or painting supplies.
+* **Dice**: Participants will need a set of die that includes several D6 and at least one each of D8, D12, and D20 (more is better but not required). 16mm and 19mm dies are more adult human friendly, but functionality matters more than size.
+* **3 x 5 cards**: We will be prototyping, and trialing, first physical and, perhaps later, virtual narrative game forms. Participants need to be able to generate both. While there are pre-cut square and hexagonal game tiles of various sizes, blank playing cards, and a myriad other ready-made materials, access, and willingness to use one's imagination, cardstock and cardboard are the only things required. (An awful lot can be achieved with 3 x 5 cards.) *And, yes, effective, and compelling, game figures can be created out of cardboard cutouts and markers.* 
+* **Markers & Scissors**: In order to create the cards, tiles, and boards from a variety of materials, participants will also need to have scissors or other cutting implements -- please exercise caution and remember to use a cutting mat when working -- as well as markers or painting supplies.
 
 ### Software
 
-* In addition to these physical materials, participants will of course need to access to a computer and software. The university provides a license to Office 365. Use of Teams is mandatory, and you might as well use the other apps as well. There is a fair amount of writing in this course, much of it structured, and so familiarity with the outline view and the relationship between outline headings and styles is highly recommended. PowerPoint can be an interesting platform for interactive fiction with its ability to have clickable links between non-sequential slides.
-* We will be using network graphs to represent interactive fictions and narrative games. You can create simple diagrams in presentation software like PowerPoint or Keynote, but anything more than a few nodes high/deep quickly becomes about managing readability and not about being generating ideas. There are a variety of mind-mapping, as well as diagramming, applications available. Please familiarize yourself with one: you will be making network visualizations both for analysis as well as creativity. (In some cases, the paths available to a reader are actually places within a storyworld -- rooms in a house or buildings in a town -- and authors of those fictions/games may find diagramming software useful.)
-* For prototyping, we will use Twine, which is one of several open source options for creating interactive fictions / RPGs. 
+* In addition to these physical materials, participants will of course need to access to a computer and software. The university provides a license to Office 365. Use of Teams is mandatory, and you might as well use the other apps as well. There is a fair amount of writing in this course, much of it structured, and so familiarity with Word's outline capabilities and the relationship between outline headings and styles is required. (We will discuss this in class, but you should start familiarizing yourself with this stuff now: your life will be so much easier for it.) PowerPoint can be an interesting platform for interactive fiction with its ability to have clickable links between non-sequential slides, and Excel can be pressed into service as a kind of database or project outline and/or Gantt chart. (If you use the equivalent software elsewhere, famliarize yourself with export options to Office file formats -- I prefer Keynote to PowerPoint, but there is no Keynote option on the classroom computer.)
+* We will be using network graphs to represent interactive fictions and narrative games. You can create simple diagrams in presentation software like PowerPoint or Keynote, but anything more than a few nodes high/deep quickly becomes about managing readability and not about being generating ideas. There are a variety of mind-mapping, as well as diagramming, applications available. Feel free to familiarize yourself with one but you can do an awful lot with [Twine](https://twinery.org).
 
-## Grading
+## Assignments & Grading
 
-More than anything, this course expects and requires that participants be open to new ideas and different kinds of course experiences. This course was first offered in 2024, and it remains exploratory in many ways, always seeking to answer the question: what do participants need to know to think more clearly about stories and games and the media within which the two combine? 
+It should be noted upfront that the essential sequence of this course is the design and manufacture of a solo TTRPG for the mid-semester project, with the chance to refine it, expand it to a multi-player TTRPG, or convert it to a video RPG as the final project.
+
+More than anything, this course expects and requires that participants be open to new ideas and different kinds of course experiences. This course was first offered in 2024, and it remains exploratory in many ways, always seeking to answer the question: what do participants need to know to think more clearly about stories and games and the media within which the two combine?
 
 **Participation** (20%) includes all group activities as well as contribution to in- and out-of-class discussions.
 
@@ -59,6 +59,8 @@ There is a common set of guidelines/requirements on how to be a participant in a
 ## Agenda
 
 Please note that this course follows an agenda, not a schedule. The actual timing of discussions will be determined by the interest, experience, and expertise in the room. Some topics will expand; others will contract. If you are unsure about the date for a particular reading or discussion or assignment, first check Teams to see if an update has been posted and then check with a classmate. 
+
+The following are units that have been offered in previous iterations of this course and which may be used again. (A final version of this syllabus will be posted on August 15.)
 
 ### Foundations
 
