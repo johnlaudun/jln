@@ -38,6 +38,8 @@ Date | Text
 -    | _The Machine_ (British film)
 2014 | _Automata_ (film)
 
+More movies that feature computers: *Desk Set* (1957), *Hidden Figures* (2016), *Three Days of the Condor* (1975). 
+
 In addition to the texts above, the Wikipedia entry on [Artificial Intelligence in Fiction][wp-ai] is well worth your time.
 
 [tms-pdf]: https://moodle.louisiana.edu/pluginfile.php/757817/mod_folder/content/0/forster_1909.pdf?forcedownload=1

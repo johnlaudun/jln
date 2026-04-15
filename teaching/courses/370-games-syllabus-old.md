@@ -1,36 +1,33 @@
 ---
-title: ENGL 370 - Story Games
+title: Interactive Fictions and Narrative Games
 ---
 
-# Story Games
-ENGL 370-002 / TuTh 12:30-13:45 / HLG 320  
-Pr. John Laudun / HLG 356 / laudun@louisiana.edu
+![Branching Fiction Map](370-games-syllabus-image-1.png)
 
-![TTRPG to Video Games](370-games-syllabus-image-2.jpg)
+# Narrative Games
+ENGL 370-002 / TuTh 12:30-13:45 / HLG 320
+
+Pr. John Laudun / HLG 356 / laudun@louisiana.edu
 
 ## Description
 
-Branching narratives, interactive fiction, text adventures, CYOA (Choose Your Own Adventure) all describe a form of entertainment--be it literary, performed in a group, or in a video game--in which a user is given choices and their choices determine the nature and outcome of the story. This course considers the history of narrative games, from collaborative storytelling in oral cultures to the robust open-world games to cinematic universes in which multiple storylines exist (and sometimes interact). Course inputs include reading analytical--game studies!--and practical essays as well as viewing analytical and practical videos--(warning: these can be long), and of course playing games of various kinds. Course outputs include several short analytical essays as well as the development of a solo TTRPG by mid-semester which can be revised or expanded into a multi-player TTRPG or turned into a sketch for a video game as a final project.
+Branching narratives, interactive fiction, text adventures, CYOA (Choose Your Own Adventure) all describe a form of entertainment—be it literary, performed in a group, or in a video game—in which a reader is given choices and their choices determine the nature and outcome of the story. This course surveys the history of narrative games, from collaborative storytelling in oral cultures to the robust open-world games to cinematic universes in which multiple storylines exist (and sometimes interact). Course inputs include reading, viewing, and playing. Course outputs include analytical explorations of forms and mechanisms and the development of games of your own.
 
 ## Objectives
 
-This course aims to provide participants with the necessary tools and skills to analyze and to create story/narrative games. To do this, participants will need to master: foundational concepts in narrative and game design, experiment with a variety of game mechanics, engage others collaboratively (and occasionally competitively), document their work both individually and collectively, and be able to present their work to an audience.
+This course aims to provide participants with the necessary tools and skills to analyze and to create narrative games. To do this, participants will need to master: foundational concepts in narrative and game design, experiment with a variety of game mechanics, engage others collaboratively (and occasionally competitively), document their work both individually and collectively, and be able to present their work to an audience.
 
 ## Course Materials
 
-### Textbook
-
-For this iteration of the course, we will be using Skaff et al's *Characteristics of Games*. For those interested in video games, Heussner et al's *The Game Narrative Toolbox* offers a lot of practical advice and has previously been the textbook for this course. The short of it is this: this is an upper-division course: you will be reading. Buy the book; read the material. Come ready to discuss--as well as to operationalize!
-
-Elias, George Skaff, Richard Garfield, and K. Robert Gutschera. 2012. *Characteristics of Games*. MIT Press.
+There is a textbook for this class:
 
 Heussner, Tobias, Toiya Kristen Finley, Jennifer Brandes Hepler, and Ann Lemay. 2023. *The Game Narrative Toolbox*. Focal Press Game Design Workshops.
 
-In addition to the textbook, there are a variety of readings  online, including via portals like JSTOR, or under the files tab in our Teams instance.
-
-### Hardware
+As far as textbooks goes, it is a useful compromise. (Suggestions for better are welcome.) There will be additional readings available online, via portals like JSTOR, or under the files tab in our Teams instance.
 
 In addition to the textbook, there is also a list of materials: 
+
+### Hardware
 
 * **Dice**: Participants will need a set of die that includes several D6 and at least one each of D8, D12, and D20 (more is better but not required). 16mm and 19mm dies are more adult human friendly, but functionality matters more than size.
 * **3 x 5 cards**: We will be prototyping, and trialing, first physical and, perhaps later, virtual narrative game forms. Participants need to be able to generate both. While there are pre-cut square and hexagonal game tiles of various sizes, blank playing cards, and a myriad other ready-made materials, access, and willingness to use one's imagination, cardstock and cardboard are the only things required. (An awful lot can be achieved with 3 x 5 cards.) *And, yes, effective, and compelling, game figures can be created out of cardboard cutouts and markers.* 
@@ -38,7 +35,7 @@ In addition to the textbook, there is also a list of materials:
 
 ### Software
 
-* In addition to these physical materials, participants will of course need access to a computer and software. The university provides a license to Office 365. Use of Teams is mandatory, and you might as well use the other apps as well. There is a fair amount of writing in this course, much of it structured, and so familiarity with Word's outline capabilities and the relationship between outline headings and styles is required. (We will discuss this in class, but you should start familiarizing yourself with this stuff now: your life will be so much easier for it.) PowerPoint can be an interesting platform for interactive fiction with its ability to have clickable links between non-sequential slides, and Excel can be pressed into service as a kind of database or project outline and/or Gantt chart. (If you use the equivalent software elsewhere, familiarize yourself with export options to Office file formats -- I prefer Keynote to PowerPoint, but there is no Keynote option on the classroom computer.)
+* In addition to these physical materials, participants will of course need to access to a computer and software. The university provides a license to Office 365. Use of Teams is mandatory, and you might as well use the other apps as well. There is a fair amount of writing in this course, much of it structured, and so familiarity with Word's outline capabilities and the relationship between outline headings and styles is required. (We will discuss this in class, but you should start familiarizing yourself with this stuff now: your life will be so much easier for it.) PowerPoint can be an interesting platform for interactive fiction with its ability to have clickable links between non-sequential slides, and Excel can be pressed into service as a kind of database or project outline and/or Gantt chart. (If you use the equivalent software elsewhere, famliarize yourself with export options to Office file formats -- I prefer Keynote to PowerPoint, but there is no Keynote option on the classroom computer.)
 * We will be using network graphs to represent interactive fictions and narrative games. This can be done entirely with note cards, by the way, but you can also create simple diagrams in presentation software like PowerPoint or Keynote. Anything more than a few nodes high/deep quickly becomes about managing readability and not about generating ideas. There are a variety of mind-mapping, as well as diagramming, applications available. Feel free to familiarize yourself with one but you can do an awful lot with [Twine](https://twinery.org). See Resources > Software for more.
 
 ## Assignments & Grading
@@ -49,19 +46,19 @@ More than anything, this course expects and requires that participants be open t
 
 **Participation** (20%) includes all group activities as well as contribution to in- and out-of-class discussions.
 
-**Assignments** (40%). There are a number of small assignments in this course: in-class activities, quickfire writing, analytical essays, design journals. (This is an English class, of course there is writing. Of course!) Some of the assignments are about developing your overall knowledge of games and narrative, and some are focused on you developing your own game(s). In all cases, this course is about ideation, planning, and execution at a high level thanks to drafting and revision; it is not about surprises and last-minute deadline screeching. *You have been warned.*
 
-**TTRPG** (20%). Table-Top Role-Playing Games are a great way to “see” the mechanics that underlie computer games and other automated systems. 
 
-**RPG** (20%): Computer Role-Playing Games are what most people think about if they don’t think about *Dungeons and Dragons* first. As our textbook makes clear, most CRPGs are created by teams for a reason: there’s a lot to the end product. Here, we are prototyping a game, using Twine as the basis: there is a surprising amount of functionality under its hood and it keeps you focused on the essentials of good narrative game design: the critical path and the choices you present the player.
+Assignment. Your first creative assignment is to write a simple branching narrative with a walk of at least four nodes. There must be at least two branches. (For those keeping track: this means at least three outcomes, but you can write the story such that paths merge past a branch.) Play/read ["Lost Pig"](https://ifdb.org/viewgame?id=mohwfk47yjzii14w).
 
-This course has no exams: it is focused on individual and group productivity. If you need an exam to motivate you to learn or to work, this course is not for you. 
+In the case of both the TTRPG and the CRPG assignments, they are made up of first an essay in which you analyze a narrative game and then a prototype of your own devising. In all cases, prior approval of the instructor is required: this course is about ideation, planning, and execution at a high level thanks to drafting and revision; it is not about surprises and last-minute deadline screeching.
+
+**TTRPG** (40%). Table-Top Role-Playing Games are a great way to “see” the mechanics that underlie computer games and other automated systems. 
+
+**RPG** (40%): Computer Role-Playing Games are what most people think about if they don’t think about *Dungeons and Dragons* first. As our textbook makes clear, most CRPGs are created by teams for a reason: there’s a lot to the end product. Here, we are prototyping a game, using Twine as the basis: there is a surprising amount of functionality under its hood and it keeps you focused on the essentials of good narrative game design: the critical path and the choices you present the player.
 
 ## The Small Print
 
-There is a common set of guidelines/requirements on how to be a participant in a course I facilitate. Read [The Essentials](https://johnlaudun.net/teaching/guides/essentials.html). That note is part of a collections of notes I have compiled over the years in response to common questions and needs. Please consult those [guides](https://johnlaudun.net/teaching/guides/) to see if your question already has an answer. (In all cases, my answer there will be better.) 
-
-And, sigh, yes, there is an AI policy for this course, and it is quite simple: if you feel the need to use AI to produce materials for this course, then this course is not for you. This class assumes that the participants are committed to their own growth in understanding and practice. Period.
+There is a common set of guidelines/requirements on how to be a participant in a course I facilitate. Read [The Essentials](https://johnlaudun.net/teaching/guides/essentials.html). That note is part of a collections of notes I have compiled over the years in response to common questions and needs. Please consult those [guides](https://johnlaudun.net/teaching/guides/) to see if your question already has an answer. (In all cases, my answer there will be better.)
 
 ## Agenda
 

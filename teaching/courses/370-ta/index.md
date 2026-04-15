@@ -192,6 +192,10 @@ The code we use is, for the most part, fairly basic, running a lot on a minimal 
 
 Using “The Most Dangerous Game” as our starting point, we will work through a single text to understand how we might quantify it: what does it mean to transform a string into a “bag of words”? What is lost and for what gain?  
 
+#### What is a word? 
+
+Dixon, R. M. W., and Alexandra Y. Aikhenvald. 2003. “Word: A Typological Framework.” Chapter. In Word: A Cross-Linguistic Typology, edited by R. M. W. Dixon and Alexandra Y. Aikhenvald, 1–41. Cambridge: Cambridge University Press.
+
 ### 3. Creating and Working with a Corpus
 
 Toy data sets prepared for instructional use have limited utility: the true value of quantitative approaches occurs when the texts involved mean something to or interest you in particular. How do you go about building a corpus of your own? There are Python libraries, as well as some `bash` commands that take your game from copy-and-paste to “scrape.”
