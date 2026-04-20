@@ -10,11 +10,13 @@ Pr. John Laudun / HLG 356 / laudun@louisiana.edu
 
 ## Description
 
-Branching narratives, interactive fiction, text adventures, CYOA (Choose Your Own Adventure) all describe a form of entertainment--be it literary, performed in a group, or in a video game--in which a user is given choices and their choices determine the nature and outcome of the story. This course considers the history of narrative games, from collaborative storytelling in oral cultures to the robust open-world games to cinematic universes in which multiple storylines exist (and sometimes interact). Course inputs include reading analytical--game studies!--and practical essays as well as viewing analytical and practical videos--(warning: these can be long), and of course playing games of various kinds. Course outputs include several short analytical essays as well as the development of a solo TTRPG by mid-semester which can be revised or expanded into a multi-player TTRPG or turned into a sketch for a video game as a final project.
+Branching narratives, interactive fiction, text adventures, CYOA (Choose Your Own Adventure) all describe a form of entertainment--be it literary, performed in a group, or in a video game--in which a user is given choices and their choices determine the nature and outcome of the story. This course considers the history of narrative games, from collaborative storytelling in oral cultures to the robust open-world games to cinematic universes in which multiple storylines exist (and sometimes interact). Course inputs include reading analytical--game studies!--and practical essays as well as viewing analytical and practical videos--(warning: these can be long), and of course playing games of various kinds. Course outputs include several short analytical essays as well as the development of a solo TTRPG by mid-semester which can be revised or expanded into a multi-player TTRPG or turned into a sketch for a video game as a final project. 
 
 ## Objectives
 
-This course aims to provide participants with the necessary tools and skills to analyze and to create story/narrative games. To do this, participants will need to master: foundational concepts in narrative and game design, experiment with a variety of game mechanics, engage others collaboratively (and occasionally competitively), document their work both individually and collectively, and be able to present their work to an audience.
+This course aims to provide participants with the necessary tools and skills to analyze and to create story/narrative games. To do this, participants will need to master: foundational concepts in narrative and game design, experiment with a variety of game mechanics, engage others collaboratively (and occasionally competitively), document their work both individually and collectively, and be able to present their work to an audience. 
+
+We start with TTRPGs because they require clear and effective writing. For those more interested in video games, TTRPGs are a good place place to experiment with game mechanics. (See this [2023 GDC talk](https://www.youtube.com/watch?v=6sXdCKd0XdE).) Everyone builds a solo TTRPG. Everyone.
 
 ## Course Materials
 
@@ -73,7 +75,12 @@ The following are units that have been offered in previous iterations of this co
 
 On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
 
-### TTRPGs
+### Getting Started with TTRPGs
+
+There are plenty of places to get interesting insights into game design. A short list might include the following, but please be aware that there are a number of channels on Youtube and Discord as well as Substack sites. 
+
+- [7 Things You Should Know When Making Your Own TTRPG - YouTube](https://www.youtube.com/watch?v=v8K3lQCXcAk&t=19s)
+- [How To Start Your Game Narrative - Design Mechanics First - Extra Credits - YouTube](https://www.youtube.com/watch?v=22HoViH4vOU)
 
 **Analysis**. You are free to choose any TTRPG for your analysis your analytical essay, but I do recommend considering a smaller TTRPG (one whose rule set is less than 100 pages). 
 
