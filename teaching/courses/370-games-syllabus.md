@@ -53,7 +53,7 @@ More than anything, this course expects and requires that participants be open t
 
 **Assignments** (40%). There are a number of small assignments in this course: in-class activities, quickfire writing, analytical essays, design journals. (This is an English class, of course there is writing. Of course!) Some of the assignments are about developing your overall knowledge of games and narrative, and some are focused on you developing your own game(s). In all cases, this course is about ideation, planning, and execution at a high level thanks to drafting and revision; it is not about surprises and last-minute deadline screeching. *You have been warned.*
 
-**TTRPG** (20%). Table-Top Role-Playing Games are a great way to “see” the mechanics that underlie computer games and other automated systems. 
+**(Solo) TTRPG** (20%). Table-Top Role-Playing Games are a great way to “see” the mechanics that underlie computer games and other automated systems. 
 
 **RPG** (20%): Computer Role-Playing Games are what most people think about if they don’t think about *Dungeons and Dragons* first. As our textbook makes clear, most CRPGs are created by teams for a reason: there’s a lot to the end product. Here, we are prototyping a game, using Twine as the basis: there is a surprising amount of functionality under its hood and it keeps you focused on the essentials of good narrative game design: the critical path and the choices you present the player.
 
@@ -73,18 +73,24 @@ The following are units that have been offered in previous iterations of this co
 
 ### Foundations
 
-On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment.
+On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment. After that, there is your first individual assignment. And that's all in the first two weeks. 
 
 ### Getting Started with TTRPGs
 
 There are plenty of places to get interesting insights into game design. A short list might include the following, but please be aware that there are a number of channels on Youtube and Discord as well as Substack sites. 
 
-- [7 Things You Should Know When Making Your Own TTRPG - YouTube](https://www.youtube.com/watch?v=v8K3lQCXcAk&t=19s)
-- [How To Start Your Game Narrative - Design Mechanics First - Extra Credits - YouTube](https://www.youtube.com/watch?v=22HoViH4vOU)
+- Tabletop Skirmish Games: [Make Your Own Tabletop RPG](https://www.youtube.com/watch?v=wRwkfWaTy_U). 
+- How to Be a Great GM: [7 Things You Should Know When Making Your Own TTRPG](https://www.youtube.com/watch?v=v8K3lQCXcAk&t=19s). 
+- Extra Credits: [How To Start Your Game Narrative: Design Mechanics First](https://www.youtube.com/watch?v=22HoViH4vOU).
 
 **Analysis**. You are free to choose any TTRPG for your analysis your analytical essay, but I do recommend considering a smaller TTRPG (one whose rule set is less than 100 pages). 
 
 **Build**. The rule set for your TTRPG must be at least 1000 words. It must contain clear directions. It is recommended that you do not require players to have too many particular materials, though it is not unreasonable to require figures. (If you have particular figures in mind and can point people to their 3D print files, then all the better.) Focus on games playable in small spaces (no more than 24 x 24 inches). 
+
+If you don’t quite know where to get started with rules, you can always use/adapt one of the open source systems, both of which have Discord communities:
+
+- [Shift](https://hitpointpress.itch.io/shift-rpg-core-rulebook) is a bit expensive, but the core rule set is extensive (160+ pages!).
+- [2400](https://jasontocci.itch.io/24xx) (also 24XX) is free or very inexpensive and offers a variety of adjacent materials.
 
 ## Resources
 
@@ -161,6 +167,7 @@ For those interested in writing, interactive fiction there are a lot options in 
 * [The Level Design Book](https://book.leveldesignbook.com/)
 * Map Crow's ["Draw Your DnD World"](https://www.youtube.com/watch?v=dUH-FLcfTmA) is about maps, but it's also about how you should always orient your fiction/game toward actions your audience/player can take. There's a lot of good content on his Youtube channel. For example, in ["How to Build a Better Dungeon"](https://www.youtube.com/watch?v=K3_kKntWcC8) he thinks through the process of creating a dungeon for an RPG gaming session, which includes important narrative elements like how many encounters to have in a map/session and, just as importantly, what kind of themes or premises do you want running throughout the dungeon session. FTR, Map Crow suggests 4-6 encounters per session with maybe 2 of those being substantial combat encounters. His ["Jaquaysing the Dungeon"](https://www.youtube.com/watch?v=yJXnrRd9qns) is useful for thinking about how to enrich the experience of your users-readers-audience.
 * Game Design Skills has a [Player-Centric Crash Course](https://gamedesignskills.com/thank-you-player-centric-framework/) for those who would like to be (video) game designers.
+* Indie Game Clinic’s [How (and Why) to Design for Repetition With Variety](https://www.youtube.com/watch?v=Jqh7SVpMR1o). 
 
 ### Software
 
