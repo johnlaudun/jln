@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
+<article>
 
-<article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+  <header class="pt-4 pb-3">
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <div id="content">
+    {{ content }}
+  </div>
+
 </article>

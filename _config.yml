@@ -1,117 +1,37 @@
-# CONFIG
+title: minima-reboot
+author: GitHub User
+email: your-email@domain.com
+description: >
+  This is a demo page for minima-reboot, a bootstrap-based rewrite of Jekyll's
+  default minima theme. It is simple, lightweight, and responsive.
+  You can use it with your GitHub Pages site by adding the line
+  "theme: aterenin/minima-reboot" to _config.yml.
 
-# Title and description of your site
-title         : 'John Laudun'
-description   : 'portfolio of research and teaching activity'
-slogan        : 'again the agon'
-remote_theme  : aterenin/minima-reboot
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
 
-# Build settings
-url           : 'https://johnlaudun.github.io/jln'
-baseurl       : ''
-markdown      : kramdown
-highlighter   : rouge
-permalink     : /:categories/:title/
-encoding      : utf-8
-destination   : _site
-lang          : 'en'             
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
 
-# # Frontpage-Layout-Settings
-# posts_with_teaser_limit  : 1     # Define how many posts should be shown with headline, teaser, image, video
-# posts_list_limit         : 15    # Define how many posts should be shown in the list beneath the post(s)
-# excerpt_separator: <!--more-->   # Use <!--more--> in your posts to generate an excerpt and a teaser
+header_pages:
+- about.md
+- posts.md
+- github.md
 
-# font:
-#   import: 'Source+Code+Pro|Source+Sans+Pro:400,400italic,700,700italic'
-# #  import: 'Titillium+Web:400,400italic,700,700italic'
-# #  import: 'Roboto:400,400italic,700,700italic|Roboto+Mono'
-# #  import: 'Merriweather:400,400italic,700,700italic'
-# #  import: 'Arvo:400,400italic,700,700italic'
-# #  import: 'Gentium+Basic:400,400italic,700,700italic'
-# #  import: 'Fira+Sans:400,400italic,700,700italic|Fira+Mono'
-#   font-family-serif         : 'Georgia, "Times New Roman", serif;'
-#   font-family-sans-serif    : '"Source Sans Pro", "Neue Helvetica", Arial, serif;'
-#   base-font-family          : '"Source Sans Pro", "Neue Helvetica", Arial, serif;'
-#   font-family-monospace     : '"Source Code Pro", "Courier New", Monaco, monospace;'
-#   header-font-family        : '"Source Sans Pro", "Neue Helvetica", Arial, serif;'
+footer_icons:
+- username: aterenin/minima-reboot/
+  url: https://github.com/aterenin/minima-reboot/
+  icon: icon-github.svg
 
-# #   Choose a modular scale.
-# #   What is a modular scale?
-# #   Read this › http://alistapart.com/article/more-meaningful-typography
+paginate: 5
 
-# modular_scale: modular_scale_1em
-# # modular_scale: modular_scale_ratio_1_125
+markdown: kramdown
 
-
-# defaults:
-#   -
-#     scope:
-#       path: ''        # an empty string here means all files in the project
-#       type: 'pages'
-#     values:
-#       layout: page      # Set default layout to page
-#       show_meta: false  # Hide metadata for all pages
-#       comments: false
-
-# # Verify Website to Webmaster Tools
-# # google_site_verification   : ''
-# # bing_webmastertools_id   : ''
-# # alexa_verify_id          : ''
-
-
-
-# # Favicons, Chrome, Android & Apple Touch Buttons
-# favicon-32x32:                          'favicon-32x32.png'
-# touch-icon-192x192:                     'touch-icon-192x192.png'
-# apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-# apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-# apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-# apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-# apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-# apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-# apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-# apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-# msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-# msapplication_tilecolor:                '#fabb00'
-
-# # SASS settings
-# sass:
-#   sass_dir: _sass
-#   style: :compressed
-
-# # used in _includes/_4_footer_scripts
-# # google_analytics_tracking_id:
-
-
-# socialmedia:
-#     # youtube: PhlowMedia
-#     github: johnlaudun
-#     # twitter: phlow
-#     # facebook: phlow.media
-#     # soundcloud: phlow
-#     # tumblr: johnlaudun
-#     # instagram: phlow_de
-#     # rss: # Full URL needed
-
-
-# plugins:
-#     - jekyll-gist
-#     - jekyll-sitemap
-#     - jekyll-paginate
-
-# # Exclude these files from your production _site
-# exclude:
-#     - .sass-cache
-#     - Gemfile
-#     - Gemfile.lock
-#     - README.md
-#     - INSTALL.md
-#     - vendor
-
-# compress_html:
-#   clippings : all
-#   comments: ["<!-- ", " -->"]
-#   endings: all
-#   profile: false
-#   ignore:
-#     envs: [development]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec

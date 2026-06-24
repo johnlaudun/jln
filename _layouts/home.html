@@ -2,39 +2,51 @@
 layout: default
 ---
 
-<div class="posts">
-  {% assign posts = site.posts %}
-  {% if paginator %}
+<header class="pt-3 mb-3">
+  {{ content }}
+</header>
+
+<div id="content">
+
+  {% if site.paginate %}
     {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
   {% endif %}
-  {% for post in posts %}
-    <div class="post">
-      <h2 class="post-title">
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h2>
 
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta">{{ post.date | date_to_string }}</time>
+  <ul class="list-unstyled m-0">
+    {% assign date_format = site.minima_reboot.date_format | default: "%b %-d, %Y" %}
+    {% for post in posts %}
+      <li class="py-2">
+        <span class="text-secondary">{{ post.date | date: date_format }}</span>
 
-      <p class="post-excerpt">
-          {{ post.content }}
-      </p>
-    </div>
-  {% endfor %}
-</div>
+        <h1 class="mt-1 mb-3 h3">
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h1>
 
-{% if paginator %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-    {% else %}
-      <span class="pagination-item older">Older</span>
-    {% endif %}
+        <div class="text-justify">
+          {{ post.excerpt }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if site.paginate %}
+  <nav class="py-1" aria-label="Blog page navigation">
     {% if paginator.previous_page %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">Newer</a>
-    {% else %}
-      <span class="pagination-item newer">Newer</span>
+      <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
     {% endif %}
-  </div>
-{% endif %}
+
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+  {% if site.plugins contains "jekyll-feed" %}
+    <a href="{{ "/feed.xml" | relative_url }}"><div id="rss-icon" class="mb-2"></div></a>
+  {% endif %}
+
+</div>
