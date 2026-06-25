@@ -1,17 +1,66 @@
-Why, hello there. 
+# Holo Alfa Jekyll theme [![Build Status](https://travis-ci.org/steinvc/holo-alfa.svg?branch=master)](https://travis-ci.org/steinvc/holo-alfa) #
 
-You appear to have peered behind the curtain and find yourself gazing, perhaps in an admiring but more likely in an admonishing fashion, at the source code for the site otherwise known as johnlaudun.net, but which reveals itself to be entirely made up of files that reside on GitHub. 
+>This project is no longer maintained. It will probably still work fine though.
 
-If you are not terribly disappointed by this, then what you have in your hands, if the site itself is working -- because, who knows, maybe you arrived here through the internet catacombs and have never seen the GitHub Pages version of the site, is a template for a site you yourself can spend entirely too much time maintaining. (I am definitely not writing from anything like the exhausting well of experience.)
+![Screenshot](http://i.imgur.com/Gi46aag.jpg)
 
-No matter, we do need to get the essential things out of the way, like making it clear that this site, as an infrastructure is **released under MIT License**:
+Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and fun by Stijn. Also works great as a base to build your own theme on.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+See it in action: http://steinvc.github.io/holo-alfa/.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Feature highlights ##
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* Mobile first design
+* Extensive content styling
+* Responsive video's (using [FitVids.JS](http://fitvidsjs.com/))
+* Support for authors and guest authors
+* Read time on articles
+* Disqus comments
+* Language localization
+* Automatic [og metadata](http://ogp.me/)
+* Automatic archive page (without plugins)
+* Automatic sitemap en RSS feed
+* Contact page (with working email form)
+* A lot of (optional) customization options (all in `_config.yml`)
 
-All the contents of the site are copyrighted (c) by John Laudun, who releases them under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+And much more.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+## Getting started ##
+
+If you're new to Jekyll, check out http://jekyllrb.com/ and read up on Jekyll. It's worth it.
+
+* [Another great resource to learn about Jekyll](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+* [Github's guide to using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/)
+
+### Installing ##
+
+As simple as forking the repository, and then clone it so you can edit the files locally.
+
+### Configuration ###
+
+Edit `_config.yml`!
+
+You can find `_config.yml` in your site's root directory. This configuration file contains some necessary settings and some optional customization settings. **All settings are explained in `_config.yml` itself.** Also make sure to use the developement configuration file (`_config_dev.yml`) for running your site locally. This way you don't get your URLs mixed up.
+
+There are some customizations that can't be done in `_config.yml`. These include:
+
+* Editing the About, Contact and Archive page.
+* Adding or removing pages from the navigation. This can be done in `\_includes\navigation.html`.
+* The "thanks" page after a message has been send through the contact page: `thanks.md`
+* The gradient on cover images: `\_includes\gradient.css` (this is explained in `_config.yml`).
+
+Also make sure to replace the placeholder favicons and the `\img\og-image.jpg` with your own.
+
+### Start the Jekyll server ###
+
+You can learn how to do this by reading [this](https://help.github.com/articles/using-jekyll-with-pages/).
+
+> Tip: to run your site locally with `_config_dev.yml` as configuration file, use this command at the root of your site `bundle exec jekyll serve --config _config_dev.yml`.
+
+When everything is OK, your site should now be available at `http://localhost:4000`.
+
+That's it.
+
+---
+
+[MIT license](http://opensource.org/licenses/MIT)
