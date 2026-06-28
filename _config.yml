@@ -1,5 +1,5 @@
+# ALL THE THINGS
 
-# All the Things
 name: "Jael dot net"
 description:
   meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
@@ -13,9 +13,7 @@ lang: en
 
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
-##############
-# APPEREANCE #
-##############
+# APPEARANCE #
 
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.

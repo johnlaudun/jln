@@ -13,7 +13,7 @@ Doing a bit of spelunking on the web, and polling a few people, I came up with t
 
 Your local public library remains the best way to listen to audiobooks at little to no cost. I am listing **Libby** here, but there is also CloudLibrary. I have used Libby and really liked it. I have used CloudLibrary and really not liked it: the app seems to need to refresh itself every time you open it and the selection available, at least through my public library in the south, is very limited. There is also **LibriVox / Project Gutenberg** which offer free audio recordings of public-domain classics (like *Pride and Prejudice* or *Sherlock Holmes*), but I have not checked them for production quality.
 
-## Low-Cost Subscription &amp; Rental Models
+## Low-Cost Subscription and Rental Models
 
 If your library doesn't have what you want, the lower-cost paid routes include Audible Plus, Spotify Premium, and Everand. As I noted at the top of these listings, I have been an Audible subscriber and I developed a fairly good catalog during that time. I no longer am a premium subscriber, but I keep my eyes open for intermittent sales, where I often pick up a book or two for $5-$8 each. I have had Spotify Premium, and its audiobook listening model is fundamentally broken: it only allows the account owner access to audiobooks and it has a randomly chosen cut-off point of 15 hours. (It was 10 when I degraded my subscription to remove the “free” audiobook option.) A sensible unit would be one book. Maybe that book is 8 hours; maybe it’s 16 hours. I’m pretty sure it would average out. Either way, you would not find yourself in the middle of a long-drive and the novel you started coming to a sudden stop. 
 
