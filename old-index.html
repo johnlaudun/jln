@@ -27,13 +27,7 @@ home: true
       {% endif %}
       {{ post.date | date: site.date_format }} • {{ read-time }}</span>
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
-      <p>
-      {% if post.summary %}
-        {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
-      {% else %}
-        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
-      {% endif %}
-      </p>
+    
 
   </article>
 {% endfor %}
