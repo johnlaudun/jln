@@ -5,42 +5,34 @@
 # Identity
 # --------
 
-title: A New Jekyll Site
-description: Powered by Polar Theme
+title: john laudun
+description: a portfolio of research and teaching 
 
-logo:  "/assets/img/north-pole.png"
-cover: "/assets/img/tired-bear.png"
+logo:  "/assets/img/kilroy-logo.png"
+cover: "/assets/img/kilroy.png"
 
 baseurl:
 url:
 
-owner: polarbear
+owner: john laudun
 rights: All Right Reserved
 
 
 # Social & Sharing
 # ----------------
-
 google:
   analytics:
   verification:
 
-facebook:
-  username:
-  app_id:
+
 
 twitter:
   username:
   large_img: sometimes
 
-disqus:
-  username:
-
 
 # Content Format
 # --------------
-
-timezone: Asia/Bangkok
 mathjax:  true
 
 
