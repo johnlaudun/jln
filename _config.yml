@@ -8,8 +8,8 @@
 title: john laudun
 description: a portfolio of research and teaching 
 
-logo:  "/assets/img/kilroy-logo.png"
-cover: "/assets/img/kilroy.png"
+logo:  "assets/img/kilroy-logo.png"
+cover: "assets/img/kilroy.png"
 
 baseurl:
 url:
