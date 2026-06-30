@@ -1,137 +1,101 @@
-# ALL THE THINGS
+# User Config
+# ===========
+# fill/change these fields to match your own.
 
-name: "Jael dot net"
-description:
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
-  subtitle: all in on the agon
+# Identity
+# --------
 
-baseurl: "https://johnlaudun.github.io/jln"
-# baseurl: "/holo-alfa"
+title: A New Jekyll Site
+description: Powered by Polar Theme
 
-# language attribute in <html> element.
-lang: en
+logo:  "/assets/img/north-pole.png"
+cover: "/assets/img/tired-bear.png"
 
+baseurl:
+url:
+
+owner: polarbear
+rights: All Right Reserved
+
+
+# Social & Sharing
+# ----------------
+
+google:
+  analytics:
+  verification:
+
+facebook:
+  username:
+  app_id:
+
+twitter:
+  username:
+  large_img: sometimes
+
+disqus:
+  username:
+
+
+# Content Format
+# --------------
+
+timezone: Asia/Bangkok
+mathjax:  true
+
+
+
+# Engine Config
+# =============
+# you shouldn't change this unless you really know what you're doing.
+
+permalink: date
+
+collections:
+  projects:
+    output: true
+  docs:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: doc
+
+pagination:
+  enabled: true
+  per_page: 10
+  sort_reverse: true
+  permalink: /page:num.html
+
+sass:
+  sass_dir: "_sass/"
+  style: compressed
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - CONTRIBUTING.md
 
 plugins:
-  - jekyll-coffeescript
-  - jekyll-commonmark-ghpages
-  - jekyll-default-layout
-  - jekyll-gist
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-titles-from-headings
+  - jekyll-sitemap
+  - jekyll-paginate-v2
 
-# APPEARANCE #
-
-# If you want to show the subtitle anywhere else than the front page, use
-# {% include subtitle.html %} to include it anywhere you want.
-show-subtitle: true
-display-social-icons: false
-# If you want social links to open in a new tab, set this as true
-social-icons-open-newtab: true
-
-footer-text: This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
-
-# Preferably 64px in height. Leave empty = disable.
-logo-image: # /img/logo.png
-
-# Color used throughout the theme. Format: R, G, B.
-theme-color: 0, 240, 255 # Original: 0, 240, 255
-
-# Text color used throughout the theme. Format: R, G, B.
-text-color: 0, 0, 0 # Original: 0, 0, 0
-
-# Background color used throughout the theme. Format: R, G, B.
-# Note: if you change the background color AND you use cover images, you should
-#       also change the CSS gradient in "_includes\gradient.css" to match the
-#       background color. Edit and copy it from here:
-#       http://www.colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0+0,1+100
-background-color: 255, 255, 255 # Original: 255, 255, 255
-
-display-author-post-page: true
-display-author-front-page: true
-
-# http://alanwsmith.com/jekyll-liquid-date-formatting-examples
-date_format: "%b %-d, %Y"
-
-# Minimal screen-width after which the navigation will change position from
-# vertical to horizontal.
-nav-breaking-point: 520px
-
-# Number of posts on each page.
-paginate: 5
-
-# Display links for the previous and next post on post pages.
-display-next-prev-post: false
-
-
-################
-# SOCIAL ICONS #
-################
-
-# Use a complete url here, including http:// and such. Requiring just usernames
-# has been considered, but this is way more customizable.
-# twitter:
-# youtube:
-# instagram:
-# tumblr:
-# facebook:
-# google-plus:
-# reddit:
-# soundcloud:
-# medium:
-# linkedin:
-# github:
-# behance:
-# codepen:
-# dribbble:
-# trello:
-# stack-overflow:
-# bitcoin:
-# paypal:
-
-
-#####################
-# CUSTOMIZABLE TEXT #
-#####################
-
-# Useful for translating into other languages.
-
-# var_on_the_web: On the web
-# var_read: Read # Text after each post summary on the homepage.
-# var_newer: Newer
-# var_older: Older
-# var_next_post: Next post
-# var_previous_post: Previous post
-# var_less_than_a_minute_read: Less than a minute read
-# var_min_read: min read # Text after reading time. Example: 5 min read.
-# var_post_by: Post by
-# var_guest_post_by: Guest post by
-# var_your_email: Your email
-# var_your_message: Your message
-
-
-##################
-# BUILD SETTINGS #
-##################
-
-# You don't have to change these.
-
-exclude: [vendor]
-highlighter: rouge
-kramdown:
-  input: GFM
-paginate_path: "/page-:num/"
-permalink: pretty
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      excerpt_separator: "<!--more-->"
+empty_array: []

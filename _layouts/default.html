@@ -1,18 +1,21 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
-<head>
-	{% include head.html %}
-</head>
-<body>
-	{% if page.cover-image %}
-	<div class="cover-image-container">
-		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
-	</div>
-	{% endif %}
-	<div class="wrap">
-		{% include header.html %}
-		{{ content }}
-	</div>
-	{% include footer.html %}
-</body>
+<html>
+  <head>
+    {% include preload.html %}
+  </head>
+  <body class="flex column">
+    <div class="mainmatter flexitem fill">
+      <div class="container">
+        {% include header.html %}
+        {{ content }}
+      </div>
+    </div>
+    <div class="container">
+      {% include footer.html %}
+    </div>
+    {% include postload.html %}
+  </body>
 </html>

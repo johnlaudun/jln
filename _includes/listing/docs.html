@@ -1,0 +1,13 @@
+{% capture NOOUT %}
+  {% if site.docs %}
+    {% assign sorted_docs = site.docs | sort: 'order' %}
+  {% else %}
+    {% assign sorted_docs = site.empty_array %}
+  {% endif %}
+{% endcapture %}
+<h2>Documents</h2>
+<ol>
+  {% for doc in sorted_docs %}
+    <li><a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a></li>
+  {% endfor %}
+</ol>
