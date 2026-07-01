@@ -1,93 +1,41 @@
-# User Config
-# ===========
-# fill/change these fields to match your own.
+# Setup
+title: Poole
+tagline: The Jekyll Butler
+url: https://getpoole.com
+paginate: 1
+baseurl: ""
+permalink: pretty
 
-# Identity
-# --------
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-title: john laudun
-description: a portfolio of research and teaching 
-
-logo:  "assets/img/kilroy-logo.png"
-cover: "assets/img/kilroy.png"
-
-baseurl:
-url:
-
-owner: john laudun
-rights: All Right Reserved
-
-
-# Social & Sharing
-# ----------------
-google:
-  analytics:
-  verification:
-
-
-
-twitter:
-  username:
-  large_img: sometimes
-
-
-# Content Format
-# --------------
-mathjax:  true
-
-
-
-# Engine Config
-# =============
-# you shouldn't change this unless you really know what you're doing.
-
-permalink: date
-
-collections:
-  projects:
-    output: true
-  docs:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: project
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: doc
-
-pagination:
-  enabled: true
-  per_page: 10
-  sort_reverse: true
-  permalink: /page:num.html
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
 sass:
-  sass_dir: "_sass/"
-  style: compressed
+  sass_dir: _sass
+  style: :compressed
 
-exclude:
-  - README.md
-  - LICENSE.md
-  - CONTRIBUTING.md
+# Options
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate-v2
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
 
-empty_array: []
+# Specify the author for blog posts
+author:
+  name: Mark Otto
+  url: https://twitter.com/mdo
+  email: markdotto@gmail.com
+
+# Custom vars
+version: 3.0.0

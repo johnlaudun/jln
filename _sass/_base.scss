@@ -1,123 +1,70 @@
-*, *::before, *::after {
-    -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
+// Body resets
+//
+// Update the foundational and global aspects of the page.
+
+* {
+  box-sizing: border-box;
 }
-
-
-@include selection {
-    color: $background-color;
-    background: invert($major-color);
-}
-
-
-html, body {
-    height: 100%;
-}
-
-
-html {
-    font: 100% $font-body;
-    font-variant-ligatures: common-ligatures;
-}
-
 
 body {
-    background: $major-color;
-    color: $font-color;
-    overflow-x: hidden;
+  margin: 0;
+  font-family: var(--body-font);
+  font-size: var(--body-font-size);
+  line-height: var(--body-line-height);
+  color: var(--body-color);
+  background-color: var(--body-bg);
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
 }
 
-
-h1, h2, h3, h4, h5, h6 {
-    margin: 1em 0 0.5em;
-    padding: 0;
-    color: $font-color;
-    font-family: $font-head;
-    line-height: 1.7;
-    a {
-        color: inherit;
-    }
-}
-
-
-@include mobile {
-    h1, h2, h3, h4, h5, h6 {
-        line-height: 1.2;
-        margin: 0.5em 0 0;
-    }
-}
-
-
+// No `:visited` state is required by default (browsers will use `a`)
 a {
-    transition: 0.25s;
-    color: $link-color;
-    text-decoration: none;
-    cursor: pointer;
-    &:hover, &:active {
-        color: $link-color;
-    }
+  color: var(--link-color);
+
+  // `:focus` is linked to `:hover` for basic accessibility
+  &:hover,
+  &:focus {
+    color: var(--link-hover-color);
+  }
+
+  strong {
+    color: inherit;
+  }
 }
-
-
-hr {
-    border: 0;
-    height: 1px;
-    width: 75%;
-    background: $border-color;
-}
-
-
-table {
-    margin: auto;
-    max-width: 100%;
-
-    th, td {
-        padding: 0.25em 1em;
-    }
-}
-thead {
-    background: $major-color;
-}
-tfoot {
-    background: $minor-color;
-}
-td {
-    @extend .sep-bottom;
-}
-
-
-code {
-    @extend .highlight;
-    font-family: $font-mono;
-    font-size: $font-mono-size;
-    padding: 0 0.33em;
-}
-
-
-pre {
-    font-family: $font-mono;
-    line-height: $font-mono-line-height;
-    padding: 1em;
-    code {
-        padding: 0;
-        background: none;
-    }
-}
-
-
-figure {
-    margin: auto;
-}
-
 
 img {
-    display: block;
-    margin: auto;
-    max-width: 100%;
+  display: block;
+  max-width: 100%;
+  margin-bottom: var(--spacer);
+  border-radius: var(--border-radius);
 }
 
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 0 solid var(--border-color);
+  border-collapse: collapse;
+}
 
-iframe {
-    max-width: 100%;
+td,
+th {
+  padding: .25rem .5rem;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+  border-bottom-width: 1px;
+}
+
+th {
+  text-align: left;
+}
+
+thead th {
+  border-bottom-color: currentColor;
+}
+
+mark {
+  padding: .15rem;
+  background-color: var(--yellow-100);
+  border-radius: .125rem;
 }
