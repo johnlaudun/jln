@@ -1,13 +1,8 @@
 ---
-title: Welcome
-# header: jl.net home {}
-summary: people - stories - networks
+title: People—Stories—Ideas
 link: /
 layout: page
 ---
-
-
-# People—Stories—Ideas
 
 I am a researcher focused on exploring how people create worlds in and through  stories based on shared understanding (ideas). I use both qualitative and quantitative methods in my approach to exploring how stories are embedded in everyday discourse and how those stories in turn cascade across socio-cultural networks both online and offline (and across time and space). 
 
