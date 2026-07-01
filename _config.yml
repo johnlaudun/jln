@@ -1,9 +1,9 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: john laudun
+tagline: research, teaching, writing
+url: https://johnlaudun.github.io
 paginate: 1
-baseurl: ""
+baseurl: "/jln"
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: John Laudun
   url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  email: 
 
 # Custom vars
-version: 3.0.0
+version: 0.0.1
