@@ -2,6 +2,7 @@
 layout: post
 title: On English Departments
 date: 2025-11-28
+tags: highereducation,
 ---
 
 The place of English departments has already changed to a large degree, with many faculty simply not aware of it. Undergraduate enrollments are down across the country, perhaps due in part to what has happened here in Louisiana with the outsourcing of freshman composition to high schools. There is yet to be a complete assessment of the enrollment drop, but the rise in focus on STEM education and on "bank-able" careers has certainly not helped. So far, the humanities in general and English departments in particular have not done well in making an argument for pursuing degrees, or at least significant coursework, in their disciplines. The argument that we offer critical thinking skills or advanced writing skills has not lessened the drop in enrollment. (It does not help that we largely leave "critical thinking" and "advanced writing" largely undefined such that neither faculty nor students understand what it is students will take away.)

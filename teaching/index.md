@@ -3,9 +3,7 @@ title: Teaching
 layout: page
 ---
 
-<img src="{{site.url}}/media/jlnet.png" alt="logo" width="250">
-
-# Teaching
+<img src="{{site.url}}/media/jlnet.png" alt="logo" width="125">
 
 ## Courses
 

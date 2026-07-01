@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chronotopes &amp; Text-Worlds
+title: Chronotopes & Text-Worlds
 date: 2025-09-16
 tags: 
 ---
