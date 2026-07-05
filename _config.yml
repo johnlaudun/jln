@@ -1,9 +1,9 @@
 # Setup
 title: john laudun
 tagline: research, teaching, writing
-url: https://johnlaudun.github.io
+url: https://johnlaudun.net
 paginate: 1
-baseurl: "/jln"
+baseurl: "/"
 permalink: pretty
 
 # Gems
