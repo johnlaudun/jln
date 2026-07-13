@@ -43,7 +43,7 @@ The assignment schedule for this course is simple:
 
 ### Infrastructure
 
-Students in this course will receive and submit assignments using either markdown-formatted plain text or LaTeX through GitHub. GitHub accounts are free, and will continue to be so after you leave university, unlike Microsoft 365. Moreover, version control is a central focus of most professional endeavors, and getting a better grasp of it, even if you are forced to go back to *Track Changes* in Word, is an essential part of your education in this course.
+Online discussions, materials not found in library databases, and assignments are all on Microsoft Teams. Moodle is an indicator of low institutional self-worth.
 
 ## Institutional Necessities
 
