@@ -59,6 +59,7 @@ There are a number of texts which are regularly useful:
 - Ray Hicks' ["Jack and the Fire Dragaman"](texts/hicks_2.html)
 - Kenneth Burke's ["Literature as Equipment for Living"](texts/Burke_1941.pdf)
 - [27 Treasure Legends from Louisiana](texts/legends.html)
+- Stith Thompson's definition of *[motif](texts/Thompson-1958.md)* as it appeared in the Funk & Wagnall's Dictionary of Folklore. 
 
 There are also a couple of TEI files: a [template](tei/template.tei) and an [example](tei/laudun-20000712-01.tei).
 

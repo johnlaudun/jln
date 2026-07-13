@@ -1,0 +1,22 @@
+---
+title: Stith Thompson's Definition of Motif
+layout: page
+---
+
+# motif
+
+In folklore the term used to designate any one of the parts into which an item of folklore can be ana-lyzed. In folk art there are motifs of design, forms which are repeated or combined with other forms in characteristic fashion. There are similarly recurring patterns which may be identified in folk music and folk song. The area in which motifs have been most studied and most carefully analyzed, however, is that of folk narratives such as folktales, legends, ballads, and myths.
+
+Narrative motifs sometimes consist of very simple concepts which continually find their place in traditional tales. These may be unusual creatures like fairies, witches, dragons, ogres, cruel stepmothers, talking ani-mals, or the like. They may consist of marvelous worlds or of lands in which magic is always powerful, of all kinds of magic objects and unusual physical phenomena. A motif may also be essentially a short and simple story in itself, an occurrence that is sufficiently striking or amusing to appeal to an audience of listeners.
+
+While the term motif is used very loosely to include any of the elements going into a traditional tale, it must be remembered that in order to become a real part of tradition an element must have something about it that will make people remember and repeat it. It must be more than commonplace. A mother as such is not a motif. A cruel mother becomes one because she is at least thought to be unusual. The ordinary processes of life are not motifs. To say that "John dressed and walked to town" is not to give a single motif worth remembering; but to say that the hero put on his cap of invisibility, mounted his magic carpet, and went to the land east of the sun and west of the moon is to include at least four motifs-the cap, the carpet, the magic air journey, and the marvelous land. Each of these motifs lives on because it has been found satisfying by generations of tale-tellers.
+
+For the student of tales whose interest extends to various cultures in all parts of the world, the investigation of motifs is very important in showing international relationships. Sometimes these are merely logical and signify no more than similar thought processes in dit-ferent parts of the world. Sometimes they are historical and indicate an actual line of descent from one to the other or from some common source. For this world-wide study motifs are much more usable than complete tale-types since tale-types are usually confined to a narrower geographic area than the motifs of the tale. In the comparative study of motifs there is no assumption of historical relationship. Sometimes it exists and sometimes it does not. On the other hand, such a study of a complete tale-type is always concerned positively or negatively with the question of historical relationship between the variants.
+
+The difference in approach to motif studies and tale-type studies is very apparent in two works in which the author of this article has been concerned. In the Aarne-Thompson Types of the Folktale only such complete tale units were included as seemed to have some general circulation in the particular geographic area extending from Ireland to India. It is, therefore, very limited in its scope and is essentially selective. On the other hand, in the Motif-Index of Folk-Literature every attempt is made to have the listing of motifs as inclusive as pos-sible. It is hoped because of this very comprehensiveness to bring to light interesting comparisons and to make possible significant studies which such comparisons
+
+It is one of the dogmas of those who founded the his-toric-geographic method of folktale study that every motif belonged in a particular tale-type, and that the search into the history of motifs anterior to their appearance in particular folktales was futile. There is little doubt that this is an overstatement of the actual situation. A thorough study of motifs would undoubtedly throw some light on what we may call the prehistory of tale-types, but the argument is not one that is likely to be resolved into an easy formulation. Rather, it is clear that some motifs are practically universal, and form the material out of which tale-types are constructed, and some motifs are so specialized that they owe their very existence to the tale-types of which they are a part.
+
+--Stith Thompson
+
+Thompson, Stith. 1958. Motif. Funk and Wagnall's Dictionary of Folklore, 753.
