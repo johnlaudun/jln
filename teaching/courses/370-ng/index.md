@@ -67,13 +67,20 @@ And, sigh, yes, there is an AI policy for this course, and it is quite simple: i
 
 ## Agenda
 
-Please note that this course follows an agenda, not a schedule. The actual timing of discussions will be determined by the interest, experience, and expertise in the room. Some topics will expand; others will contract. If you are unsure about the date for a particular reading or discussion or assignment, first check Teams to see if an update has been posted and then check with a classmate. 
+Please note that this course follows an agenda, not a schedule. The actual timing of discussions will be determined by the interest, experience, and expertise in the room. Some topics will expand; others will contract. If you are unsure about the date for a particular reading or discussion or assignment, first check Teams to see if an update has been posted and then check with a classmate. (A final version of this syllabus will be posted on during the first week of class.)
 
-The following are units that have been offered in previous iterations of this course and which may be used again. (A final version of this syllabus will be posted on August 15.)
+Like any good resource management game, this course has an underlying skill tree which is overly ambitious. The agenda follows the skill tree, more or less.
+
+![Narrative games skill tree](ng-skill-tree.png)
+
 
 ### Foundations
 
-On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment. After that, there is your first individual assignment. And that's all in the first two weeks. 
+On our first day of class we will need to cover the usual course overview and then set up groups and proceed with the first group assignment. After that, there is your first individual assignment. And that's all in the first two weeks.
+
+### Convergences
+
+* JP Coovert has a series of videos on zine production. [How To Print Your Own Zines From Home!](https://www.youtube.com/watch?v=rHucIjaRZZ0) is a good place to start.
 
 ### Getting Started with TTRPGs
 

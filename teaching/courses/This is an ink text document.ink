@@ -1,1 +1,0 @@
-This is an ink text document.
