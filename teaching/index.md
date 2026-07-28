@@ -15,14 +15,11 @@ layout: page
 * [Seminar in Narrative Studies (531)](courses/531/)
 * [Proseminar in Folklore Theory (632)](courses/632/)
 
-## New *Digital Culture & Analytics Curriculum* Courses
+## Digital Culture & Analytics Curriculum
 
 * [Digital Folklore and Culture (334)](courses/334-cultures/)
 * [Digital Storytelling (334)](courses/334-storytelling/)
 * [Introduction to Text Analytics (370)](courses/370-ta/)
-
-## Courses in Development (*Coming Soon!*)
-
 * [What We Think When We Think about Machine Thinking](courses/qh300/index.html)
 * [The Spread of (Mis)Information](courses/qh400/index.html)
 
