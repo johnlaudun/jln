@@ -32,3 +32,16 @@ footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3);
 }
+
+p.footer-text {
+  font-size: 0.8rem;
+}
+
+p.footer-text a {
+  text-decoration: none;
+}
+
+/* Optional: Style the link when a user hovers over it */
+p.footer-text a:hover {
+  text-decoration: underline;
+}
