@@ -73,11 +73,15 @@ Foundation). University Press of Mississippi.
 
 "A Pirate in a Tree: Hidden Histories in Gulf Coast Treasure Tales."
 
-"How Stories Work."
+"Ways of Worlding: Narrative and Its Alternatives in Vernacular Discourse."
 
 ## Articles
 
-Laudun, John, Katherine M. Kinnaird, and Allison J. B. Chaney. \[Submitted.\] Speaking Subjects, Subjects Spoken: Using TED Talks to Understand Discursive Gender Formations. *Journal of Cultural Analytics*.
+Laudun, John. Forthcoming. Paremiological Trawling: Fishing for Proverbs in Large Language Models. *Journal of American Folklore* 139(547): x--xx.
+
+Laudun, John. 2026. Mistaken for Narrative: A Closer Look at Small Texts. *Narrative Culture* 13(1): 1--28.
+
+Laudun, John. 2024. Who’s Afraid of ChatGPT?: Large Language Models and Conspiracy Theory Generation. _Contemporary Legend_ 4(2): 1–16.
 
 Laudun, John and Jonathan Goodwin. \[2023\]. Computing Folklore Studies: Mapping over a Century of Scholarly Production through Topics. *Overseas Folkloristics Studies* 5. Ed. Li Yang. Tr. Li Yang and Qiao Yingfei. \[In production.\]
 
@@ -251,6 +255,10 @@ Culture(s) of Lafayette. British Women Writer's Conference (Lafayette,
 Louisiana).
 
 ## Conference Papers
+
+2026\. Ways of Worlding: How the Shape of CTs Calls for Action. International Society for Contemporary Legend Research (Lexington, KY). 
+
+2025\. The World(s) of Conspiracy Theories/Legends: Mapping the Imagined Worlds of Vernacular Discourse. American Folklore Society (Atlanta, GA).
 
 2025\. The Crossroads Are Not a Metaphor. Roundtable for Global Souths Conference (Lafayette, LA).
 
@@ -511,8 +519,12 @@ Association (Toronto, Ontario).
 
 ## Media Appearances & Interviews
 
+*Authors listed below are the interviewers for the program or article.*
+
+Kinnaird, Katie. 2025. Course Prep. *T5 - Talking Through Teaching Tensions Together*. Season 5, Episode 6: https://www.iheart.com/podcast/1333-t5-talking-through-teachi-285313084. 
+
 Carpenter, Perry and Mason Amadeus. 2023. Statistically Conscious
-(Artificial Intelligence). Digital Folklore. November 14.
+(Artificial Intelligence). *Digital Folklore*. November 14.
 <https://digitalfolklore.fm/episodes/s2e6>.
 
 Lowther, Adam. 2023. How to Craft Your Narrative of Deterrence.
@@ -547,7 +559,7 @@ http://blogs.theadvertiser.com/chefannespecials/2013/06/10/creating-the-monster/
 
 2012\. "First you make a roux" not true of early gumbo. *The Daily
 Advertiser* (October 22). Picked up by Associated Press and appeared,
-for example, on *[KATC-TV3\]((http://www.katc.com/news/first-you-make-a-roux-not-true-of-early-gumbo/)* and also *The Worcester Telegram*.
+for example, on *[KATC-TV3](http://www.katc.com/news/first-you-make-a-roux-not-true-of-early-gumbo/)* and also *The Worcester Telegram*.
 
 2012\. Cooks adapt gumbo to time, place. *The Advocate* (October 22):
 3B.
@@ -562,7 +574,7 @@ Broadcasting.
 (February 6).
 
 2008\. A History of Gumbo. *The Southern Gumbo Trail*. Southern Foodways
-Project, University of Mississippi.
+Project. University of Mississippi.
 https://www.southernfoodways.org/interview/john-laudun/.
 
 2004\. "At Home with a Master," *La Louisiane* (Autumn): 22--25.
