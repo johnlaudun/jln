@@ -23,17 +23,20 @@ layout: page
 * [What We Think When We Think about Machine Thinking](courses/qh300/index.html)
 * [The Spread of (Mis)Information](courses/qh400/index.html)
 
+In addition to these courses, I also worked with a team of faculty and graduate students to develop a [Corpus-Assisted Discourse Studies group](CAD.md) (CADS). We meet every two weeks during the academic year to discuss both foundational and newly developed theories and practices as well as our own research. 
+
 ## Guides and Statements
 
-**UPDATED**: If you've asked about sources for cultural data, that [list](guides/data.html) has been updated.
+There are some things all participants in a course I lead/facilitate need, or want, to know. I have compiled all those notes into a single list available below.
 
-There are some things all participants in a course I lead/facilitate need, or want, to know:
+>  **Graduate Students**: “Project Management for Graduate Students” is available to download as a [PDF](guides/PM-for-GS.pdf) or as the original Word Document if you would like to adapt it for use in your classes. 
 
 * If you need texts as data, start with [here](guides/data.html). 
 * Here's my list of [interview tips](guides/interview_tips.html).
 * If you are not quite sure what a [literature review](guides/lit_review.html) is and you are in a course that requires one, here's a [basic guide](guides/lit_review.html).
 * Revising and [editing](guides/editing.html) go hand-in-hand.
 * Speaking of editing, having a [text editor](guides/editors.html) that works for you is a good idea.
+* If you want to know why I mention working in plain text versus working in a word processor like Microsoft Word, I’ve noted the differences between [texts and files](guides/texts-and-files.md). 
 * You may use any citation system, preferably the one used by your major, so long as you do so consistently and competently. In the absence of any other system, please feel free to use the one employed by social scientists and humanists around the world known as the [Chicago Author-Date System](guides/cad.html). (It's easier, and makes more sense, than MLA.)
 * Navigating the library proxy when connecting to online databases when you are off campus, and understanding the relationship between the library's website and something like JSTOR can be confusing. [Here's some help](guides/access.html).
 * [A (Kind of) Handbook on Writing](guides/writing.html) includes sections on how to think of sentences and paragraphs as building blocks, on introductory paragraphs, on how to write summaries, and how to write thesis statements. If you need help with writing, and almost all of us do, then seek it out. Find me, find the Writing Lab, find an experienced writer -- FTR, lawyers write a lot -- or search the web in general or Medium or Youtube in particular.

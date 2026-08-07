@@ -17,9 +17,8 @@ These are the courses in which I am currently involved:
 * [English 531](531/index.md): Seminar in Narrative Studies
 * [English 632](632/index.md): Proseminar in Folklore Theory
 
-And these are courses I am in the process of designing and imagine teaching in a context where both close and distant reading, where both computation and cogitation, feature equally in the treatment of texts.
+And these are courses I am in the process of designing and imagine teaching in a context where both close and distant reading, where both computation and cogitation, feature equally in the treatment of texts. While I have never taught these courses as they are sketched out here, they are based on units or features of courses or workshops I have conducted.
 
 * [What We Think When We Think about Machine Thinking](qh300/index.md)
 * [The Spread of (Mis)Information](qh400/index.md)
 
-While I have never taught these courses as they are sketched out here, they are based on units or features of courses or workshops I have conducted.

@@ -23,14 +23,11 @@ title: ENGL 370 - Story Games - Resources
 
 - Dungeon Masterpiece on why [RIVEN is a D&D Puzzle Masterclass](https://www.youtube.com/watch?v=TlQQrh_EmyY).
 
-### Game Theory
+### Game Studies
 
-“Game theory” is a field of mathematics. While it is not central to this course, some of you may want to explore it both for ideas for game mechanics but also to anticipate possible problems with mechanics you are considering.
+Game studies is an emergent discipline, practiced by scholars (and scientists) both within the academy and without. On the more academic side is the journal [Analog Game Studies](https://escholarship.org/uc/analoggamestudies/), which offers an [Analog Game Studies 101](https://escholarship.org/uc/analoggamestudies/ags101); on the non-academic side there is [BoardGameGeek](https://boardgamegeek.com/), which has been around since 2000! 
 
-* Martin Osborne’s [Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/) is an online book.
-* Open Textbook Library has Nordstrom and Oregon[Introduction to Game Theory: A Discovery Approach](https://open.umn.edu/opentextbooks/textbooks/802) available both online and as a downloadable PDF.
-* Coursera has Stanford’s [Game Theory](https://www.coursera.org/learn/game-theory-1) class. The claim you can finish it in 17 hours.
-* If you want to get a glimpse of game theory before exploring any of the links above, [Nicky Case](https://ncase.me) has a fantastic interactive rendition of “The Prisoner’s Dilemma,” [Trust](https://ncase.me/trust/). Play the game. Write down two things: (1) Implications of the game theory behind  for game design and (2) the implications for life.
+It should be noted that there is also *game theory*, which is a field of mathematics. While it is not central to this course, some of you may want to explore it both for ideas for game mechanics but also to anticipate possible problems with mechanics you are considering. If you want to get a glimpse of game theory before exploring any of the links that follow, [Nicky Case](https://ncase.me) has a fantastic interactive rendition of “The Prisoner’s Dilemma,” [Trust](https://ncase.me/trust/). Play the game. Write down two things. If you find yourself interested in learning more, there is Martin Osborne’s [Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/) (an online book) amd the Open Textbook Library has Nordstrom and Oregon’s [Introduction to Game Theory: A Discovery Approach](https://open.umn.edu/opentextbooks/textbooks/802) available both online and as a downloadable PDF. In addition to these textbooks, there are also online resources: Coursera has Stanford’s [Game Theory](https://www.coursera.org/learn/game-theory-1) class, which they claim you can finish it in 17 hours. Perhaps the best introduction is 
 
 ### Opportunities
 

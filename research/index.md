@@ -4,9 +4,17 @@ title: Research
 weight: 3
 ---
 
-Like a lot of quantitative humanities scholars, I find the tension between traditional ways of reading texts and so-called distant reading methodologies to be productive in multiple ways: from non-intuitive replication of human processes through the satisfaction of developing a quantitative method that advances a traditional humanities question to the feedback that comes with unexpected results that cause you to re-think the question (and its assumptions). Much of my work rests on the deep foundation of folkloristic corpora studies, and seeks to contribute both to the highly qualitative inquiry of scholars like Richard Bauman and Patricia Sawin, the quantitative inquiry of  Tim Tangherlini and Rob Howard, as well as the hybrid work of Sheila Bock and Andrew Peck, who have all pursued a line of inquiry focused on texts and their contexts and the people that connect the two. 
+### In Brief
 
-My own principal interest is in understanding how vernacular discourse in general and narrative discourse in particular moves through online and offline social networks. I am particularly interested in narrative texts — in understanding how they are constructed, deployed, and received — both because of the ways narrative activates our imaginations, seemingly syncing our brains, and the ways that narrative, as one of many modes of discourse, seems able to make words stick, and stay, together as they travel across networks.[^1] 
+My principal interest is in understanding how vernacular discourse in general and narrative discourse in particular moves through online and offline social networks. I am particularly interested in narrative texts — in understanding how they are constructed, deployed, and received — both because of the ways narrative activates our imaginations, seemingly syncing our brains, and the ways that narrative, as one of many modes of discourse, seems able to make words stick, and stay, together as they travel across networks.[^1] 
+
+## A Fuller Account
+
+At the core of all my inquiry is an attempt to explore and map how people build the worlds in which they live. Whether it’s small town residents talking about the past, African Americans shit-talking, farmers on tractors, or netizens imagining conspiracies, I am focused on the practicalities of how that happens. What are the words people use and how do they assemble them into texts? And then how do those texts relate to the world as both constructed and ground?
+
+To do that work I have done fieldwork and recorded tens of hours of interviews and conversations. I have culled tens of thousands (perhaps hundreds of thousands at this point) from the internet. I have stood knee deep in rice fields within a cloud of mosquitos. Getting up close is the fun part, the necessary part, the part where the proverbial rubber meets the proverbial road. 
+
+Much of my work is informed by performance theory and discourse analysis. Harnessing that training to develop quantitative methods was, and is, a challenge but also led to some compelling breakthroughs. I have written a lot of bad Python, and some good Python, and I have been amazed, and a little disappointed, by how the arrival of large language models (LLMs/AI) displaced so much work happening in natural language processing (NLP).
 
 ## Origins
 
