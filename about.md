@@ -6,6 +6,8 @@ weight: 1
 
 *There's a short version, and a longer version. There's also a photo, but it's at the bottom, so you don't have to look at it unless you really want to.*
 
+# About (Me)
+
 ## Short Version (in Third Person)
 
 John Laudun is Professor of English at the University of Louisiana, where his research focuses on computational models of discourse, especially narratives, and how they cascade through socio-cultural networks both online and off. In addition to his work on folk narrative and the intellectual history of folklore studies, he has published an ethnographic study, _The Amazing Crawfish Boat_ (University Press of Mississippi, 2016), that uses actor-network theory to understand creativity and tradition among craftsmen and farmers living and working on a Louisiana landscape. His work has appeared in a variety of academic journals and edited volumes, and he has been cited or interviewed in newspapers like the *New York Times* and the *L.A. Times* as well as public television documentaries. He has been a Jacob K. Javits Fellow, a MacArthur Scholar, a fellow at the EVIA Digital Archive, a fellow with the  Institute on Network Studies in the Humanities, and a senior researcher at UCLA's Institute for Pure and Applied Mathematics. He has published over 30 peer-review papers, a number of which have been translated into French and Chinese. He has served as a major advisor to students pursuing PhDs and MAs in folklore studies, literary studies, creative writing, Francophone studies, and architecture. In addition, he recently worked with the U.S. Army’s TRADOC command to develop programming for senior civilian and military leaders on the role that human information systems play in information advantage. 

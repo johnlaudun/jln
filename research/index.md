@@ -4,6 +4,8 @@ title: Research
 weight: 3
 ---
 
+# Research
+
 ### In Brief
 
 My principal interest is in understanding how vernacular discourse in general and narrative discourse in particular moves through online and offline social networks. I am particularly interested in narrative texts — in understanding how they are constructed, deployed, and received — both because of the ways narrative activates our imaginations, seemingly syncing our brains, and the ways that narrative, as one of many modes of discourse, seems able to make words stick, and stay, together as they travel across networks.[^1] 
