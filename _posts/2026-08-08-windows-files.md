@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Find Files on Windows"
+title: "Finding Files on Windows"
 date: 2026-08-08
 ---
-
-
-
-# Finding Files in/on Windows
 
 I am not a Windows native. It is a foreign land. The only time I use Windows is to play a game, and so my usage looks like this: turn on computer, log in, open Steam, select a game, click green button. That’s it. 
 
