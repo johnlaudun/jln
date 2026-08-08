@@ -1,6 +1,7 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
+# Use a comment to ensure Jekyll reads the file to be 
+# transformed into CSS later only main files contain this 
+# front matter, not partials.
 ---
 
 //
@@ -45,3 +46,14 @@
     margin-left: var(--spacer);
   }
 }
+
+li.post-item {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+  
+.post-meta {
+    font-size: var(--font-size-sm);
+    color: var(--color-muted);
+  }
