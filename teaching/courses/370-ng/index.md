@@ -106,6 +106,8 @@ There are a lot of links below. The goal is to give you a wide spectrum of mater
 
 #### Mechanics
 
+First things first, quite literally. [Brenda Romero](http://brenda.games) has argued that “the mechanics is the message.” While there is not an expectation that your game will attempt to address a matter of great concern, like income inequality or the capacity of ordinary people to do bad things, there is no such thing as any human-made thing not containing a point of view. It’s even better when that perspective has a particular focus. Define yours and then deliver. 
+
 Travel Mechanics: Hex Crawl, Point Crawl, [Tile Crawl](https://www.youtube.com/watch?v=PriQjApAXW0). 
 
 #### Oracle Design
