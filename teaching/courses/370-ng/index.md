@@ -67,9 +67,9 @@ This course has no exams: it is focused on individual and group productivity. If
 
 ## The Small Print
 
-There is a common set of guidelines/requirements on how to be a participant in a course I facilitate. Read [The Essentials](https://johnlaudun.net/teaching/guides/essentials.html). That note is part of a collections of notes I have compiled over the years in response to common questions and needs. Please consult those [guides](https://johnlaudun.net/teaching/guides/) to see if your question already has an answer. (In all cases, my answer there will be better.) 
+There is a common set of guidelines/requirements on how to be a participant in a course I facilitate. Read [The Essentials](https://johnlaudun.net/teaching/guides/essentials.md). That note is part of a collections of notes I have compiled over the years in response to common questions and needs. Please consult those [guides](https://johnlaudun.net/teaching/guides/) to see if your question already has an answer. (In all cases, my answer there will be better.) 
 
-And, sigh, yes, there is an AI policy for this course, and it is quite simple: if you feel the need to use AI to produce user-facing materials for this course, then this course is not for you. This class assumes that the participants are committed to their own growth in understanding and practice. Period. If you would like to use an AI to help you think through probabilities and mechanics, you may do so, but you must make that clear in your project notes.
+There is an AI policy for this course, and it is quite simple: if you feel the need to use AI to produce user-facing materials for this course, then this course is not for you. This class assumes that the participants are committed to their own growth in understanding and practice. Period. If you would like to use an AI to help you think through probabilities and mechanics, you may do so, but you must make that clear in your project notes. Failure to disclose the use of AI will result in a failure of the assignment at the very least. 
 
 ## Agenda
 
@@ -86,17 +86,30 @@ There are a lot of links below. The goal is to give you a wide spectrum of mater
 
 #### Narrative Theory
 
-*  From *The RPG Gazette*: [Randomization vs. Narrative Control: Different Approaches to Storytelling in TTRPGs](https://therpggazette.wordpress.com/2025/02/05/randomization-vs-narrative-control-different-approaches-to-storytelling-in-ttrpgs/). 
+-  From *The RPG Gazette*: [Randomization vs. Narrative Control: Different Approaches to Storytelling in TTRPGs](https://therpggazette.wordpress.com/2025/02/05/randomization-vs-narrative-control-different-approaches-to-storytelling-in-ttrpgs/). 
 
 #### Game Design
 
-* [Game Developer](https://www.gamedeveloper.com/) has an [excerpt]((https://www.gamedeveloper.com/design/game-design---theory-and-practice-the-elements-of-gameplay)) from Richard Rouse’s *Game Design: Theory & Practice*. It’s from 2001, but the essentials are all there.
-
+- A good place to begin a consideration of game development is [The Forge](https://www.indie-rpgs.com/forge/index.php), a website that was active over a decade ago, but there is still plenty of tips, trick, and topics to be gleaned there—be sure to check out the Game Development forum!
+- [Game Developer](https://www.gamedeveloper.com/) has an [excerpt]((https://www.gamedeveloper.com/design/game-design---theory-and-practice-the-elements-of-gameplay)) from Richard Rouse’s *Game Design: Theory & Practice*. It’s from 2001, but the essentials are all there.
 - Skeleton Code Machine lists its own greatest hits: [Start here: The best of](https://www.skeletoncodemachine.com/p/start-here).
 
 #### TTRPG Literacy
 
-* [Why Handmade RPG Materials Make Your Solo TTRPG Games 200% Better](https://codexgigaspress.substack.com/p/why-handmade-rpg-materials-make-your)
+Part of becoming familiar with solo TTRPGs is understanding just how many are out there and that there are even more possibilities beyond that. One of the best ways is to go shopping: take a look at some of the sites where games are available. (The sites below are third-party vendors, but some games are also, and some only, available on their maker’s site—you’ll need to stumble across a game elsewhere and then go track it down to find it there.)
+
+- The main place I start my shopping is [Itch.io](https://itch.io/). There are a wide variety of genres, topics, and price points.
+- Another good place to take a look is [DriveThruRPG](https://www.drivethrurpg.com/en/).
+- And then there are curated lists like this selection of solo TTRPGs at [Tabletop Bookshelf](https://tabletopbookshelf.com/collections/solo-games). 
+
+There are plenty of places to get interesting insights into game design. A short list might include the following, but please be aware that there are a number of channels on Youtube and Discord as well as Substack sites. 
+
+- Tabletop Skirmish Games: [Make Your Own Tabletop RPG](https://www.youtube.com/watch?v=wRwkfWaTy_U). 
+- How to Be a Great GM: [7 Things You Should Know When Making Your Own TTRPG](https://www.youtube.com/watch?v=v8K3lQCXcAk&t=19s). 
+- Extra Credits: [How To Start Your Game Narrative: Design Mechanics First](https://www.youtube.com/watch?v=22HoViH4vOU).
+- [Why Handmade RPG Materials Make Your Solo TTRPG Games 200% Better](https://codexgigaspress.substack.com/p/why-handmade-rpg-materials-make-your)
+
+
 
 ### Building Blocks
 
@@ -117,14 +130,6 @@ Travel Mechanics: Hex Crawl, Point Crawl, [Tile Crawl](https://www.youtube.com/w
 ### Convergences
 
 * JP Coovert has a series of videos on zine production. [How To Print Your Own Zines From Home!](https://www.youtube.com/watch?v=rHucIjaRZZ0) is a good place to start.
-
-### Getting Started with TTRPGs
-
-There are plenty of places to get interesting insights into game design. A short list might include the following, but please be aware that there are a number of channels on Youtube and Discord as well as Substack sites. 
-
-- Tabletop Skirmish Games: [Make Your Own Tabletop RPG](https://www.youtube.com/watch?v=wRwkfWaTy_U). 
-- How to Be a Great GM: [7 Things You Should Know When Making Your Own TTRPG](https://www.youtube.com/watch?v=v8K3lQCXcAk&t=19s). 
-- Extra Credits: [How To Start Your Game Narrative: Design Mechanics First](https://www.youtube.com/watch?v=22HoViH4vOU).
 
 **Analysis**. You are free to choose any TTRPG for your analysis your analytical essay, but I do recommend considering a smaller TTRPG (one whose rule set is less than 100 pages). 
 
