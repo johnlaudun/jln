@@ -4,6 +4,12 @@ title: ENGL 370 - Story Games - Resources
 
 # Resources
 
+
+
+## Materials to Use
+
+- [Destockd](https://destockd.com/#/) carries a whole host of public domain images and videos.
+
 ### Getting Started
 
 - Extra Credit’s advice is not to start with a complete story: [How To Start Your Game Narrative: Design Mechanics First](https://www.youtube.com/watch?v=22HoViH4vOU). (Note that this is oriented toward VRPGs.)

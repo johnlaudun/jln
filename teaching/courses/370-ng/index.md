@@ -81,61 +81,140 @@ Like any good resource management game, this course has an underlying skill tree
 
 There are a lot of links below. The goal is to give you a wide spectrum of materials in hopes that you will find those that speak to you and move your thinking, and your writing/crafting, forward. To be sure, there are a lot of websites and writers out there, all with good insights. This particular sample is representative but not comprehensive: please feel free to add! 
 
+### Week 2
 
-### Foundations
+For Tuesday, **September 1**: print and read “The Most Dangerous Game.” (Print it; read it; mark it for characters, for plot points, for locations.) I highly encourage you to watch the [**1932 film adaptation**](https://www.youtube.com/watch?v=_DXLTw22HOQ), the first of many many may — you know the plot of this story without knowing the story because it has been adapted so many times. Considering other adaptations, or at least one, is one way to get yourself thinking about how you might adapt the story. (And if you aren't thinking, why are you in college?) Bring the printed copy — I would just put all your notes on the copy — and come prepared to discuss and then brainstorm adaptations. 
 
-#### Narrative Theory
+A PDF of the short story is available under the **Shared** tab above. (It will eventually be moved to a **readings** folder.)
 
--  From *The RPG Gazette*: [Randomization vs. Narrative Control: Different Approaches to Storytelling in TTRPGs](https://therpggazette.wordpress.com/2025/02/05/randomization-vs-narrative-control-different-approaches-to-storytelling-in-ttrpgs/). 
+As you work on game adaptations, there are additional resources:
 
-#### Game Design
+- Wikipedia [**page for the original story**](https://en.wikipedia.org/wiki/The_Most_Dangerous_Game).
+- Wikipedia’s [**list of adaptations**](https://en.wikipedia.org/wiki/Adaptations_of_The_Most_Dangerous_Game).
+- The [**1932 film adaptation**](https://archive.org/details/TheMostDangerousGame) on Archive.org. (Same film as above.)
 
-- A good place to begin a consideration of game development is [The Forge](https://www.indie-rpgs.com/forge/index.php), a website that was active over a decade ago, but there is still plenty of tips, trick, and topics to be gleaned there—be sure to check out the Game Development forum!
-- [Game Developer](https://www.gamedeveloper.com/) has an [excerpt]((https://www.gamedeveloper.com/design/game-design---theory-and-practice-the-elements-of-gameplay)) from Richard Rouse’s *Game Design: Theory & Practice*. It’s from 2001, but the essentials are all there.
-- Skeleton Code Machine lists its own greatest hits: [Start here: The best of](https://www.skeletoncodemachine.com/p/start-here).
+### Week 3
 
-#### TTRPG Literacy
+This week we begin what will be a semester-long discussion about the relationship between narrative and games. Tuesday's discussion will cover the preliminaries and some of the dimensions observers have already noted as well begin to sketch out one way to think about both narrative and game **logics**. 
 
-Part of becoming familiar with solo TTRPGs is understanding just how many are out there and that there are even more possibilities beyond that. One of the best ways is to go shopping: take a look at some of the sites where games are available. (The sites below are third-party vendors, but some games are also, and some only, available on their maker’s site—you’ll need to stumble across a game elsewhere and then go track it down to find it there.)
+The observant among you will have noticed that the **readings** folder has begun to be populated. I will be drawing upon a number of these this week, and I will expect you to have read them by week's end. (Random quizzes are always possible.) 
 
-- The main place I start my shopping is [Itch.io](https://itch.io/). There are a wide variety of genres, topics, and price points.
-- Another good place to take a look is [DriveThruRPG](https://www.drivethrurpg.com/en/).
-- And then there are curated lists like this selection of solo TTRPGs at [Tabletop Bookshelf](https://tabletopbookshelf.com/collections/solo-games). 
+Many of the essays currentlin in the **readings** folder are drawn from the internet—most will have links back to the original, where much of the practical advice about designing and playing TTRPGs lives. While we begin there, we will over the weeks ahead draw upon scholarship on narrative and games. Be prepared for serious reading!
 
-There are plenty of places to get interesting insights into game design. A short list might include the following, but please be aware that there are a number of channels on Youtube and Discord as well as Substack sites. 
+Choose a solo TTRPG to purchase and review. (Review will be due September 15: 350 words.)
 
-- Tabletop Skirmish Games: [Make Your Own Tabletop RPG](https://www.youtube.com/watch?v=wRwkfWaTy_U). 
-- How to Be a Great GM: [7 Things You Should Know When Making Your Own TTRPG](https://www.youtube.com/watch?v=v8K3lQCXcAk&t=19s). 
-- Extra Credits: [How To Start Your Game Narrative: Design Mechanics First](https://www.youtube.com/watch?v=22HoViH4vOU).
-- [Why Handmade RPG Materials Make Your Solo TTRPG Games 200% Better](https://codexgigaspress.substack.com/p/why-handmade-rpg-materials-make-your)
+The place I start my shopping is usually [**Itch.io**](https://itch.io/). There are a wide variety of genres, topics, and price points (and a lot of games are free). A lot of indie game developers, which means a lot of small games and a wide variety of games. If you type in "solo" in the search bar, Solo RPG will auto-fill — but also note there are other categories that might be worth exploring. 
 
+- After Itch.io, I will look in [**DriveThruRPG**](https://www.drivethrurpg.com/en/)—for my TCG players/designers, there is a sister site, [**DrivethruCards**](https://www.drivethrucards.com/en/). You're welcome. 
 
+Those two sites are pretty wide open, but there are also curated lists managed by other storefronts: 
 
-### Building Blocks
+- [**Tabletop Bookshelf**](https://tabletopbookshelf.com/) doesn't have as many games as Itch or DTRPG, but the games they offer are well-described and reasonably priced.
+- [**Exalted Funeral**](https://www.exaltedfuneral.com/collections/solo-games) has a number of solo games—the link takes you to their solo collection, but feel free to look around. There are other solo games in other categories to be found.
+- [**Etsy**](https://www.etsy.com/), believe it or not—and, honestly, I can't believe I just typed those four letters, has solo rpgs. Just search for **solo rpg**. 
 
-#### Worldbuilding
+Or by publishers, most of whom focus on multiplayer games but feature the occasional solo RPG. (Feel free to raid multiplayer games for ideas and mechanics!)
 
-* Copy/Paste Co-Op’s [How to write an OSR adventure](https://substack.com/inbox/post/204924505). 
+- [**Mongoose**](https://www.mongoosepublishing.com/) is largely known for being the publisher of Traveller, a game as old as Dungeons and Dragons, but they publish other RPGs.
+- [**Modiphius**](https://modiphius.us/) is the publisher of the solo TTRPG that is currently getting a lot of attention, *Fallout: Wasteland Wanderer*—be forewarned, the price of the physical book is not for the faint of heart.
 
-#### Mechanics
+Or by individual game makers:
 
-First things first, quite literally. [Brenda Romero](http://brenda.games) has argued that “the mechanics is the message.” While there is not an expectation that your game will attempt to address a matter of great concern, like income inequality or the capacity of ordinary people to do bad things, there is no such thing as any human-made thing not containing a point of view. It’s even better when that perspective has a particular focus. Define yours and then deliver. 
+- We will be playing one of Toby Lancaster's games, 2D6 Dungeon. His storefront is [**DR Games**](https://drgames.co.uk/).
+- I mentioned Anna Blackwell in class, and she has both a presence on [**Itch**](https://blackwellwriter.itch.io/) as well as her own storefront, [**Blackwell Games**](https://www.blackwellwriter.com/)—some of you may be excited to learn that she actually has a series of novels set in the world of one of her games. 
 
-Travel Mechanics: Hex Crawl, Point Crawl, [Tile Crawl](https://www.youtube.com/watch?v=PriQjApAXW0). 
+The 2026 ENNIE Award winners were announced on July 31 at Gen Con in Indianapolis. The winners and other nominees for Best Solo Game:
 
-#### Oracle Design
+- **🥇**[***SPINE: A Dark Solo TTRPG About Losing Yourself in a Book***](https://www.backwardstabletop.com/spine/)*,* Backwards Tabletop
+- **🥈**[***The Bonsai Diary***](https://stickydoodler.itch.io/the-bonsai-diary)*,* Sticky Doodler
+- [***Odyssey of the Giant***](https://heltung-storytelling.itch.io/odyssey-of-the-giant) by Heltung Storytelling
+- [***Pirouette***](https://innocentgoblin.itch.io/pirouette) *by* InnocentGoblin TTRPGs
+- [***Song of the Scryptwyrm***](https://almostbedtimetheater.itch.io/sots) *by* Almost Bedtime Theater
 
-#### Rules Writing
+Beyond games, the [**Solo RPG List**](https://solorpglist.com/) database and search engine won the Silver for **Best Online Content**.
 
-### Convergences
+You can see a list of all of the [**ENNIE nominees and winners here**](https://ennie-awards.com/2026-nominees/).
 
-* JP Coovert has a series of videos on zine production. [How To Print Your Own Zines From Home!](https://www.youtube.com/watch?v=rHucIjaRZZ0) is a good place to start.
+#### The Sandbox vs the Railroad
 
-**Analysis**. You are free to choose any TTRPG for your analysis your analytical essay, but I do recommend considering a smaller TTRPG (one whose rule set is less than 100 pages). 
+Last week, as we began our discussion of the tensions that run between **authored** texts versus **emergent** texts, we struck upon the fact that most of us have encountered a linear, or railroad, fiction. It's especially the case that most novels and movies are linear. Where the tension emerges is in games, where we often talk about open worlds or open world sandboxes or just sandboxes and also about linear stories or shooters-on-rails, likening the game to a roller coast ride where all the thrills and spills are defined ahead of the player's encounter and every player will encounter every thrill and spill at the same time. These two approaches are not an either/or but a continuum. 
 
-**Build**. The rule set for your TTRPG must be at least 1000 words. It must contain clear directions. It is recommended that you do not require players to have too many particular materials, though it is not unreasonable to require figures. (If you have particular figures in mind and can point people to their 3D print files, then all the better.) Focus on games playable in small spaces (no more than 24 x 24 inches). 
+Other people talking about this: 
 
-If you don’t quite know where to get started with rules, you can always use/adapt one of the open source systems, both of which have Discord communities:
+- For those of you who are *Dimension 20* fans, Zac Pyama and Brennan Lee Mulligan discuss [**Railroading vs Sandboxing**](https://www.youtube.com/watch?v=LQ9tlq86bHw) as part of the "Adventuring Academy" series.
+- Joseph Lewis in [**The Sandbox and the Story**](https://www.youtube.com/watch?v=sHsnmWjbUQg) explores the range of possibilities.
+- Running the Game's [**The Sandbox vs the Railroad**](https://www.youtube.com/watch?v=EkXMxiAGUWg).
 
-- [Shift](https://hitpointpress.itch.io/shift-rpg-core-rulebook) is a bit expensive, but the core rule set is extensive (160+ pages!).
-- [2400](https://jasontocci.itch.io/24xx) (also 24XX) is free or very inexpensive and offers a variety of adjacent materials.
+### Week 4: The Narrative Game Continuum (Phase 2)
+
+This week we continue our discussion of narrative and games with a particular focus on decision mechanics. We are not discussing **when** in a fiction or game a player should be confronted with a decision but, rather, once they have been confronted, **how** will they make a decision. As always, there is no right or wrong answer but simply the mechanic which best suits the nature of the game you are making and/or the overall "feel" you want the game to have—of course, that feel should be tied to the nature of the game, so it all comes down to the game.
+
+We are going to encounter a number of games this week. The one that the entire class will reference is *Cradle and Ward*, drawn from the 134 game packet available on *RPG Trader*. Each of you will receive a paper copy tomorrow that you will fold and staple into your first zine (booklet or folio). I include the PDF of Cradle and Ward here on Teams for those who want to get in a sneak peek.
+
+#### More on Turns and Solo Play
+
+First, watch this [short description](https://www.youtube.com/watch?v=yvzb3a9s0s0) (<5 minutes) of a combat turn in the multiplayer RPG *Mothership*: Oracle > resolution—note that the game master in *Mothership* is called a “warden.”
+
+Now check out one or more of the following solo TTRPG play-throughs. (You can also search for them yourself and find a lot, a lot, more than what I have listed here.)
+
+- [2D6 Dungeon](https://www.youtube.com/watch?v=yQNKxtQCINo&list=PLUktUzu0MmueLgkfhFRfhjGA0gvaOiwsp): this is the first of several episodes by the Tabletop Engineer, who does good quality play-throughs that are a half hour—this one is 20 minutes.
+- [Four against Darkness](https://www.youtube.com/watch?v=AKbQySgm4Bc) is another play-through by the Tabletop Engineer (also about half an hour).
+- [Notorious](https://www.youtube.com/watch?v=s4mAOcdpCJ8) is a bounty hunter game. In space. Warning: the creator, Cassi Mothwin, is trying out ASMR in this video. If that’s your jam, you’re welcome. If it’s not, it’s not all that ASMR-y to my ears.
+- [The Hunter of Fort Vulgar: Solo Dolmenwood (Session 1)](https://www.youtube.com/watch?v=A6r5RDfEMMs) by Maia's Solo Room.
+
+Really, watch any of the playthroughs of multiplayer games—most of them will be D&D—you find on YouTube to make sure you have the feel of a return.
+
+- But if you need more solo TTRPGs to think about, check out DianaoftheRoses’ [Over 13 SOLO TTRPGs that Aren't Just Journals!](https://www.youtube.com/watch?v=kOl5FTrz7v4). Or Ginny Di’s [No D&D group? Try solo play!](https://www.youtube.com/watch?v=c2nVilB8QeY).
+- If you’re interested in a game that keeps the mechanics to a minimum, focusing more on the oracle and less on resolution mechanics, take a look at this overview of [Loner RPG](https://www.youtube.com/watch?v=E8tG0LNsDE0).
+- As a bonus, here’s Brennan Lee Mulligan appearing on *Talk Sh\*t* and explaining how to play D&D to Syd and Olivia in 15 minutes. It’s on [YouTube](https://www.youtube.com/watch?v=rD5AsIlvpwo).
+
+### Week 6: 2D6 Dungeon
+
+Character sheets and graph paper are available under the **Shared** tab in the **2D6 Dungeon** folder. I used [Incompetech](https://incompetech.com/graphpaper/#squaredots?width=8.5&height=11&page_units=inch&margin=0.9&margin_units=inch&weight=2&spacing=3&spacing_units=inch&gridColor=b3b3b3&bgColor=FFFFFF) to create the graph paper. (Click the link to make your own.) The character sheets are available both as single pages but also pre-formatted to print onto a single sheet of paper (double-sided) and the folded into a booklet.
+
+FTR, the rules for 2D6 Dungeon are longer than most of those we have encountered so far: there's at least 25 pages or so (A5 sized pages to be sure) that you need to get through in order to have the basics of the game down. When I encounter rules like this, I will often look for a "playthrough" online so that I can ***see*** what the game looks like when it is played. If you search for "2D6 Dungeon playthrough" on YouTube for example, you will see a number of entries. 
+
+One of those entries is by the Tabletop Engineer who has an entire [**playlist**](https://www.youtube.com/watch?v=yQNKxtQCINo&list=PLUktUzu0MmueLgkfhFRfhjGA0gvaOiwsp). (The game's designer, Toby Lancaster, also has a [**playthrough**](https://www.youtube.com/watch?v=HvtD_7cwyGo&pp=ygUXMmQ2IGR1bmdlb24gcGxheXRocm91Z2g%3D), but, as the game's designer, Toby is perhaps not your best guide.) 
+
+During this week of play, I will be holding conferences with each of you at the front of the room. You get to show me your **game dev notebook** and talk me through your idea, or ideas, for a game. A quick reminder: the Tuesday before Fall Break you will be pitching your game to the class. You have two minutes and one slide to tell us about the game: its premise (what it's about), its approach to play (how it's played), and what you want players to "get out" of the game.
+
+### Week 7: Game Pitches
+
+The game pitch slide deck is now available under **Files/Shared**. In addition to the title slide, there is a sample slide. (And, yes, I used an AI to generate the image. For the purposes of this course, using AI to generate images is acceptable, so long as you indicate that in some fashion. It is not acceptable to use AI to write your rules—and, to be clear, I have explored this option and the language models I have tested generally don't know a lot about solo TTRPGs.)
+
+### Week 8: Worlds & Characters
+
+And, of course, the game loop. (Always the game loop.) I will, once the week is done, post the slides I am presenting this week. In the mean time, each and every one of you would benefit from reading both discussions about TTRPG games in general and solo TTRPGs in particular as well as reading rule sets of various kinds. Please note that there are two folders under the **Shared/Files** tab: the one called *readings* contains discussions; the one called *games* contains rule sets. (That's obvious enough, right?) 
+
+A lot, a lot, of the *readings* focus on tables and oracles and game mechanics, because those are, in my experience, the non-obvious dimensions of solo TTRPGs. Those familiar with video games and TTRPGs with game masters are usually, not always!, less experienced with the mechanical aspects of a game. That's what the game master is for, right? And a computer game, *pffft*, you just pick up the controller and go. But if you look behind the screen of a video game, it's all about tables and lookups coupled with a random number generator whose output is modified by various stats that the game is maintaining for you. 
+
+Better games, and their accompanying design document, demonstrate their awareness of the larger world of games, TTRPGs, and solo TTRPGs. What do I mean by better? Games that get assessed as *good* (Bs) or *excellent* (As). Games that are *fair* demonstrate that the person has been in class and done as little reading and thinking as possible in order to turn something in. (If that's your goal, fair play.) Ds and Fs happen, but they are rare because in most instances the people who stay to the end have decided to *do the work*. 
+
+Okay, so the reading folder is there. For this week, take a look a Kosaro on performance—you can work out which one that is. And also read something, or things, from Angelina Trevina, whose substack I mentioned in class. For instance, take a look at:
+
+- [A Worldbuilder's Starter Kit](https://angelinetrevena.substack.com/p/start-here-a-worldbuilders-starter) (It's more of a list of links, but in giving you summaries it gives you a decent idea of various dimensions of worldbuilding.)
+- [What does your story need from its world?](https://angelinetrevena.substack.com/p/what-does-your-story-need-from-its) repeats or reinforces a number of things we discussed in class.
+- Sadly, the essay on building a world around/from a trope is behind a paywall. (I'm a UL professor: I can't afford things behind paywalls. Sorry!)
+
+For next week, read:
+
+- Don't Write Lore, Write Tables
+- Power of Resource Dice
+- Structuring Resource Tables
+- The Power of Choice Player
+
+The games folder will be populated shortly. Patience, please!
+
+### Week 9: Oracles & Mechanics
+
+A few reminders:
+
+1. First, a reminder: **bring your notebooks** to class on Tuesday. (I will be picking them up to see what you have been up to and returning them to you on Thursday.)
+2. Second, **bring some dice**. All kinds. At least 2-3 D6 and it would be better if you have 2 each of d10 and d20. (d8s and d12s are welcome as well.) Also, bring something to roll the dice in, if you have it. If you have a **deck of cards**, bring it.
+3. Third, with my apologies for the delay, I will be posting an assignment this afternoon that will contain your mid-term grade: you do not need to submit anything. It is simply the case that the only way I can disclose a grade to you from within Teams is by creating an assignment. If I can't make this work, then please feel free to ask me after class this week to see your mid-term grade. 
+
+Links for today:
+
+- [4 of the Most Common TTRPG Dice Systems](https://www.youtube.com/watch?v=nWNqWAyesvA)
+- [Sixth Episode](https://www.youtube.com/watch?v=NYCyOe_8MPs) of Me, Myself, and Die's play-through of *Ironsworn*
+- [Raven Ridge ad](https://www.youtube.com/shorts/eHP5nRRsrXU) defining solo play
