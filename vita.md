@@ -27,7 +27,7 @@ Associate Director. Center for Louisiana Studies/Center for Cultural and Eco-Tou
 
 Assistant Director. Office of Executive Education. Kelley School of Business. Indiana University. 1995--97.
 
-# Grants & Prizes
+# Grants
 
 Laudun, John. 2016. The Amazing Crawfish Boat. Folklore Studies in a Multicultural World. Andrew Mellon Foundation.
 
@@ -43,9 +43,7 @@ Laudun, John. 2004.. Lache pas la patate: Digitizing and Restoring Endangered Au
 
 Walton, Shana and John Laudun. 2003. Lessons in Folklife for English Language Arts. Louisiana State Board of Regents.
 
-Laudun, John. 1988. Delmore Schwartz Prize for Poetry. Syracuse University.
-
-# Fellowships
+# Fellowships & Prizes
 
 2016--18. Senior Scholar in Residence. UCLA Institute for Pure and Applied Mathematics.
 
@@ -59,6 +57,8 @@ Laudun, John. 1988. Delmore Schwartz Prize for Poetry. Syracuse University.
 
 1993--94. MacArthur Scholar. Indiana Center on Global Change and World Peace. Indiana University.
 
+Laudun, John. 1988. Delmore Schwartz Prize for Poetry. Syracuse University.
+
 1987--92. Jacob K. Javits Fellow. United States Department of Education. Syracuse University and Indiana University.
 
 # Publications
@@ -69,11 +69,11 @@ Laudun, John. 2016. *The Amazing Crawfish Boat*. In the Folklore Series
 in a Multicultural World series (sponsored by the Andrew Mellon
 Foundation). University Press of Mississippi.
 
-### Books in Progress
+### Books in Production/Progress
 
-"A Pirate in a Tree: Hidden Histories in Gulf Coast Treasure Tales."
+"A Pirate in a Tree: Hidden Histories in Gulf Coast Treasure Tales." Manuscript with Utah State University Press.
 
-"Ways of Worlding: Narrative and Its Alternatives in Vernacular Discourse."
+"Ways of Worlding: Th Realities Created by the Stories We Tell." Manuscript due to University of Wisconsin Press, Spring 2027.
 
 ## Articles
 
@@ -255,6 +255,8 @@ Culture(s) of Lafayette. British Women Writer's Conference (Lafayette,
 Louisiana).
 
 ## Conference Papers
+
+2026\. Fishing for Proverbs: LLMs as Cultural Archives. American Folklore Society (Asheville, NC). 
 
 2026\. Ways of Worlding: How the Shape of CTs Calls for Action. International Society for Contemporary Legend Research (Lexington, KY). 
 
