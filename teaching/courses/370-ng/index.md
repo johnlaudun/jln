@@ -216,3 +216,7 @@ Links for today:
 - [4 of the Most Common TTRPG Dice Systems](https://www.youtube.com/watch?v=nWNqWAyesvA)
 - [Sixth Episode](https://www.youtube.com/watch?v=NYCyOe_8MPs) of Me, Myself, and Die's play-through of *Ironsworn*
 - [Raven Ridge ad](https://www.youtube.com/shorts/eHP5nRRsrXU) defining solo play
+
+### Week 13: Playtesting
+
+If you are playtesting at home, please use [this form](4-1-playtesting-form.pdf).
